@@ -384,7 +384,7 @@ class Model:
                 ### 1. Get pred_ans after sentence
                 pred_ans = self.tokenizer.decode(pred_tokens, skip_special_tokens=True)
                 norm_pred_ans = normalize_answer(pred_ans)
-                new_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {norm_pred_ans}\nReason:'
+                new_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {norm_pred_ans}\nExplain why this is the correct answer:'
                 
                 new_tokenized_inputs = self.tokenizer(new_prompt,
                                                       return_tensors="pt",
