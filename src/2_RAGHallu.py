@@ -459,7 +459,7 @@ class Model:
             
             ##################################  RAG Hallu  n#######################################
         if use_rag_hallu:
-            return pred_tokens, new_sentence, (torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist())
+            return pred_tokens, new_sentence, max_index, topk_probs.squeeze().tolist(), (topk_probs[max_index], torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers
         else:
             return pred_tokens
 
@@ -512,7 +512,7 @@ if __name__ == '__main__':
             greedy_ans = model.tokenizer.decode(greedy_tokens, skip_special_tokens=True)
 
         # RAG Hallu answers
-        rag_hallu_tokens, sentence, (before_prob, after_prob), (before_prob_list, after_prob_list) = model.generate(
+        rag_hallu_tokens, sentence, max_index, topk_probs, (first_prob, before_prob, after_prob), (before_prob_list, after_prob_list), answers = model.generate(
             question=question,
             context=context,
             gen_max_length=tgt_len,
@@ -523,33 +523,33 @@ if __name__ == '__main__':
         pred_ans = model.tokenizer.decode(rag_hallu_tokens, skip_special_tokens=True)
 
         if greedy:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, "Generated sentence": sentence, 'before_prob': float(before_prob), 'after_prob': float(after_prob), 'before_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'after_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
                         f"Greedy Answer: {greedy_ans}\n"
                         f"RAG Hallu Answer: {pred_ans}\n"
                         f"Generated Sentence: {sentence}\n"
-                        f"Before Prob: {before_prob}\n"
-                        f"After Prob: {after_prob}\n"
-                        f"Before Prob List: {before_prob_list}\n"
-                        f"After Prob List: {after_prob_list}")
+                        f"Answer Prob: {before_prob}\n"
+                        f"Marginalized Prob: {after_prob}\n"
+                        f"Answer Prob List: {before_prob_list}\n"
+                        f"Marginalized Prob List: {after_prob_list}")
         else:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, "Generated sentence": sentence, 'before_prob': float(before_prob), 'after_prob': float(after_prob), 'before_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'after_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
                         f"RAG Hallu Answer: {pred_ans}\n"
                         f"Generated Sentence: {sentence}\n"
-                        f"Before Prob: {before_prob}\n"
-                        f"After Prob: {after_prob}\n"
-                        f"Before Prob List: {before_prob_list}\n"
-                        f"After Prob List: {after_prob_list}")
+                        f"Answer Prob: {before_prob}\n"
+                        f"Marginalized Prob: {after_prob}\n"
+                        f"Answer Prob List: {before_prob_list}\n"
+                        f"Marginalized Prob List: {after_prob_list}")
 
         logger.info('*-'*60)
         logger.info('\n\n')
 
         results.append(res)
 
-    save_path = f'../results/{args.model}/{args.data}-{args.size}-{args.ratio}per-seed{args.seed}.jsonl'
+    save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}.jsonl'
     utils.save_as_parquet(save_path, results)
 
 

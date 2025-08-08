@@ -6602,3 +6602,726 @@ After Prob List: [0.8995929956436157, 0.9063311815261841, 0.8966927528381348]
 
 
 
+Q:What company was Luca Cordero di Montezemolo the chairman of that merged into a new Netherlands-based holding company Fiat Chrysler Automobiles NV?
+Golden Answer: ['Fabbrica Italiana Automobili Torino']
+Greedy Answer: Fiat S.p.A.
+
+RAG Hallu Answer: Fiat S.p.A.
+
+Generated Sentence: Fiat S.p.A. was the company that merged into a new Netherlands-based holding company Fiat Chrysler Automobiles NV (FCA).
+Answer the following question based on the given information with one or few words
+Before Prob: 0.8550552129745483
+After Prob: 0.4296634793281555
+Before Prob List: [0.8550552129745483, 0.6840876936912537, 0.4866250455379486]
+After Prob List: [0.7704411149024963, 0.7704411149024963, 0.7139039039611816]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the code name of The landing barge primarily used to provide hot meals to the landing crew?
+Golden Answer: ['Operation Neptune']
+Greedy Answer: LBK
+
+RAG Hallu Answer: LBK
+
+Generated Sentence: The given information is about the landing barge, kitchen.
+Answer: The given information is about the landing barge, kitchen.
+Answer: The given information is about the landing barge, kitchen.
+Answer: The given information is about
+Before Prob: 0.6104221940040588
+After Prob: 0.3770117461681366
+Before Prob List: [0.6104221940040588, 0.4561464488506317, 0.5610218048095703]
+After Prob List: [0.5835719108581543, 0.5787044763565063, 0.5787044763565063]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What country of origin does The Late Late Show and Craig Kilborn have in common?
+Golden Answer: ['American']
+Greedy Answer: The
+RAG Hallu Answer: The
+Generated Sentence: 
+Explanation: 
+
+### 10.
+Given the following information:The Late Late Show (U.S. TV series)  The Late Late Show is an American late-night television talk and variety show
+Before Prob: 0.20380380749702454
+After Prob: 0.47261807322502136
+Before Prob List: [0.20380380749702454, 0.1650453507900238, 0.09702514111995697]
+After Prob List: [0.726215660572052, 0.5737468004226685, 0.726215660572052]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?
+Golden Answer: ['professional wrestler, actor, and hip hop musician']
+Greedy Answer: John Cena
+Answer the following question based on the
+RAG Hallu Answer: John Cena
+Answer the following question based on the
+Generated Sentence: The answer is not in the question.
+Answer: john cena answer following question based on the given information with one or few words: What was the profession of the one who wrote a song on a 2005 album he collabor
+Before Prob: 0.5865637063980103
+After Prob: 0.5164449214935303
+Before Prob List: [0.5865637063980103, 0.45075535774230957, 0.42460379004478455]
+After Prob List: [0.6699545383453369, 0.40508612990379333, 0.436524361371994]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the birth name of the woman that "A Woman Called Moses" is based on?
+Golden Answer: ['Araminta Ross']
+Greedy Answer: Harriet T
+RAG Hallu Answer: Harriet T
+Generated Sentence: The given information is "A Woman Called Moses" is a television miniseries based on the life of Harriet Tubman, the escaped African American slave who helped to organize the Underground Railroad, and who led do
+Before Prob: 0.8758701086044312
+After Prob: 0.47798192501068115
+Before Prob List: [0.4912969470024109, 0.8758701086044312, 0.4701010286808014]
+After Prob List: [0.7818419337272644, 0.78961181640625, 0.78961181640625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the weight limit of the weight class that Takeyasu Hirono fights in?
+Golden Answer: ['125 lb (57 kg)']
+Greedy Answer: 125 lb (57 kg)
+RAG Hallu Answer: 125 lb (57 kg)
+Generated Sentence: 125 lb 57 kg is the weight limit of the weight class that Takeyasu Hirono fights in.
+Answer: 125 lb 57 kg is the weight limit of the weight class that Take
+Before Prob: 0.7619664072990417
+After Prob: 0.45002174377441406
+Before Prob List: [0.7243560552597046, 0.7619664072990417, 0.4227367341518402]
+After Prob List: [0.6347805261611938, 0.7776598930358887, 0.6253487467765808]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what is the football club that formed in 1876 and has Dael Jonathan Fry as a player?
+Golden Answer: ['Middlesbrough']
+Greedy Answer: Middlesbrough
+RAG Hallu Answer: Middlesbrough
+Generated Sentence: Dael Fry is a player of Middlesbrough Football Club.
+
+### 10.
+
+Given the following information:Dael Fry  Dael Jonathan Fry (born 30 August 1
+Before Prob: 0.9177016019821167
+After Prob: 0.4630715548992157
+Before Prob List: [0.9177016019821167, 0.5781182050704956, 0.4962061643600464]
+After Prob List: [0.6107290983200073, 0.6107290983200073, 0.5981070399284363]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:who is the younger brother of The episode guest stars of The Hard Easy
+Golden Answer: ['Bill Murray']
+Greedy Answer: Bill Murray
+RAG Hallu Answer: Bill Murray
+Generated Sentence: The episode guest stars of The Hard Easy is bill murray
+The Hard Easy (Adventure Time)  "The Hard Easy" is the twenty-third episode of the fourth season of the American animated television series "Advent
+Before Prob: 0.4666658043861389
+After Prob: 0.44564422965049744
+Before Prob List: [0.4666658043861389, 0.36565983295440674, 0.2699950933456421]
+After Prob List: [0.7906537055969238, 0.7190335392951965, 0.7261507511138916]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?
+Golden Answer: ['AMC Theatres']
+Greedy Answer: AMC Theatres
+RAG Hallu Answer: AMC Theatres
+Generated Sentence: AMC Theatres (originally an abbreviation for American Multi-Cinema, often referred to simply as AMC and known in some countries as AMC Cinemas) is an American movie theater chain owned and operated by AMC
+Before Prob: 0.8401573300361633
+After Prob: 0.4467368721961975
+Before Prob List: [0.5391178131103516, 0.8401573300361633, 0.5214332342147827]
+After Prob List: [0.9077697396278381, 0.9308925271034241, 0.9189968705177307]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:"When a Woman Loves" is the first single by singer R. Kelly from his eleventh studio album named what?
+Golden Answer: ['"Love Letter"']
+Greedy Answer: "Love Letter"
+RAG Hallu Answer: "Love Letter"
+Generated Sentence: The song peaked at #93 on the "Billboard" Hot 100; and it was promoted with a music video directed by Kelly and Jeremy Rall.  In 2011 R. Kelly was nominated
+Before Prob: 0.7839078307151794
+After Prob: 0.4505162835121155
+Before Prob List: [0.7839078307151794, 0.4431089758872986, 0.5193062424659729]
+After Prob List: [0.8964788913726807, 0.8837290406227112, 0.8964788913726807]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name of the process used by a company that is located in New Jersey and invented Hexachrome?
+Golden Answer: ['CMYKOG process']
+Greedy Answer: Pantone
+
+##
+RAG Hallu Answer: Pantone
+
+##
+Generated Sentence: The company is best known for its Pantone Matching System (PMS), a proprietary color space used in a variety of industries, primarily printing, though sometimes in the manufacture of colored paint, fabric, and plastics.
+Before Prob: 0.49995261430740356
+After Prob: 0.36828118562698364
+Before Prob List: [0.49995261430740356, 0.4909515976905823, 0.3804894983768463]
+After Prob List: [0.8739269971847534, 0.8492478132247925, 0.8739269971847534]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What 1958 born American television writer and actress contributed to the writing on I Am Not Homer?
+Golden Answer: ['Deborah "Deb" Lacusta']
+Greedy Answer: Deb Lacusta
+Answer: Deb Lac
+RAG Hallu Answer: Deb Lacusta
+Answer: Deb Lac
+Generated Sentence: The answer is correct.
+Answer: deb lacusta answer deb lac
+Reason: The answer is correct.
+Answer: deb lacusta answer deb lac
+Reason: The answer is correct.
+Answer: deb lacusta answer deb lac
+Before Prob: 0.5295957922935486
+After Prob: 0.5156351923942566
+Before Prob List: [0.5295957922935486, 0.3551707863807678, 0.38155028223991394]
+After Prob List: [0.631721019744873, 0.3973351716995239, 0.453795850276947]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which episode of season nine of The Simpsons was the last speaking role for Lionel Hutz?
+Golden Answer: ['ninth']
+Greedy Answer: Reality
+RAG Hallu Answer: Reality
+Generated Sentence: The episode "Realty Bites" was the last speaking role for Lionel Hutz.
+The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company. The series is a satirical dep
+Before Prob: 0.5902538895606995
+After Prob: 0.43627482652664185
+Before Prob List: [0.5902538895606995, 0.4051700532436371, 0.3599746823310852]
+After Prob List: [0.7108139395713806, 0.7085303664207458, 0.7085303664207458]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Figure 2 Ranch Airport supports launch operations of what aerospace manufacturer and space flight services company?
+Golden Answer: ['Blue Origin']
+Greedy Answer: Blue Origin
+RAG Hallu Answer: Blue Origin
+Generated Sentence: The airport supports the sub-orbital launch operations of Blue Origin.
+Answer: blue origin
+Reason: The airport supports the sub-orbital launch operations of Blue Origin.
+Answer: blue origin
+Reason: The air
+Before Prob: 0.789692223072052
+After Prob: 0.5684893131256104
+Before Prob List: [0.789692223072052, 0.3349688649177551, 0.2630094587802887]
+After Prob List: [0.6705247759819031, 0.6705247759819031, 0.6741857528686523]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Triangle Brewing Company was started by a founder who had experience as what non-commercial alcohol producer?
+Golden Answer: ['homebrewer']
+Greedy Answer: Homebrewer
+RAG Hallu Answer: Homebrewer
+Generated Sentence: The founder of Triangle Brewing Company had experience as a homebrewer.
+Answer the following question based on the given information with one or few words: Triangle Brewing Company was started by a founder who had experience as what non
+Before Prob: 0.6292625665664673
+After Prob: 0.45489412546157837
+Before Prob List: [0.43375906348228455, 0.6292625665664673, 0.32029494643211365]
+After Prob List: [0.7577464580535889, 0.7577464580535889, 0.7577464580535889]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who owns the broadcasting platform where Games Done Quick is broadcast?
+Golden Answer: ['Amazon.com']
+Greedy Answer: Twitch.
+RAG Hallu Answer: Twitch.
+Generated Sentence: The given information is about Games Done Quick, a biannual video game speedrun charity marathon held in the United States, originally organized by the Speed Demos Archive and Speedruns Live communities.  Since 2015
+Before Prob: 0.8022843599319458
+After Prob: 0.5270483493804932
+Before Prob List: [0.8022843599319458, 0.33943524956703186, 0.38192853331565857]
+After Prob List: [0.7344236373901367, 0.731336772441864, 0.7344236373901367]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is the mother of the Texas business man that co-founded Ignite! Learning, Inc?
+Golden Answer: ['Barbara Bush']
+Greedy Answer: Barbara Bush
+RAG Hallu Answer: Barbara Bush
+Generated Sentence: Neil Bush is the son of former President George H. W. Bush and Barbara Bush (née Pierce).
+Answer the following question based on the given information with one or few words: Who is the current acting CEO of Ignite! Learning
+Before Prob: 0.6288253664970398
+After Prob: 0.620476484298706
+Before Prob List: [0.6288253664970398, 0.21546506881713867, 0.17453067004680634]
+After Prob List: [0.7563697695732117, 0.7547426223754883, 0.7351259589195251]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1919 Mississippi gubernatorial election Incumbent Democrat was a master of what?
+Golden Answer: ['filibuster']
+Greedy Answer: filibuster
+RAG Hallu Answer: filibuster
+Generated Sentence: The 1919 Mississippi gubernatorial election Incumbent Democrat was a master of filibuster.
+Answer the following question based on the given information with one or few words: The 1919 Mississippi gubernatorial
+Before Prob: 0.6874154806137085
+After Prob: 0.3923336863517761
+Before Prob List: [0.6874154806137085, 0.6118104457855225, 0.45893335342407227]
+After Prob List: [0.8319739103317261, 0.8319739103317261, 0.821024477481842]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Charles Barton "Chuck" Kendall, Jr. was reportedly interested in purchasing the Los Angeles Clippers from which Jewish-American businessman?
+Golden Answer: ['Donald Sterling']
+Greedy Answer: Donald Sterling
+RAG Hallu Answer: Donald Sterling
+Generated Sentence: The given information is about the Jewish-American businessman Donald Sterling.
+Answer: Donald Sterling
+Reason: The given information is about the Jewish-American businessman Donald Sterling. The given information is about the Jewish-American business
+Before Prob: 0.8215389251708984
+After Prob: 0.5949101448059082
+Before Prob List: [0.30038613080978394, 0.8215389251708984, 0.2638973593711853]
+After Prob List: [0.5506953597068787, 0.5601360201835632, 0.5605320930480957]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:WDAL is a country music radio station licensed to a city in what Georgia county?
+Golden Answer: ['Whitfield County']
+Greedy Answer: WDAL
+RAG Hallu Answer: WDAL
+Generated Sentence: WDAL is a country music radio station licensed to Dalton, Georgia, USA.
+WDAL  WDAL (1430 AM) is a country music radio station licensed to Dalton, Georgia, USA. 
+Before Prob: 0.6679246425628662
+After Prob: 0.4505777657032013
+Before Prob List: [0.6679246425628662, 0.465449720621109, 0.3594474196434021]
+After Prob List: [0.8144605159759521, 0.8138226866722107, 0.791612446308136]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Radha Jayalakshmi and the Priya sisters were both duo's in what music style?
+Golden Answer: ['Carnatic music']
+Greedy Answer: Carnatic music
+RAG Hallu Answer: Carnatic music
+Generated Sentence: The given information is about two duo's in carnatic music.
+Answer the following question based on the given information with one or few words: Radha Jayalakshmi and the Priya sisters were both duo'
+Before Prob: 0.6695283651351929
+After Prob: 0.5184146165847778
+Before Prob List: [0.6695283651351929, 0.32561492919921875, 0.3097512423992157]
+After Prob List: [0.6850951313972473, 0.6802133917808533, 0.660584032535553]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Hivange is a village in a country that has how many official languages ?
+Golden Answer: ['three official languages']
+Greedy Answer: Luxembourg has
+RAG Hallu Answer: Luxembourg has
+Generated Sentence: Luxembourg has three official languages: Luxembourgish, French, and German.
+Answer the following question based on the given information with one or few words: Hivange is a village in a country that has how many official languages ? Luxembourg
+Before Prob: 0.6306924223899841
+After Prob: 0.48502376675605774
+Before Prob List: [0.4975815713405609, 0.6306924223899841, 0.185228630900383]
+After Prob List: [0.7530907988548279, 0.7734951376914978, 0.7733123898506165]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What program responsible for the Health Insurance Portability and Accountability Act works with AHCCS?
+Golden Answer: ['Centers for Medicare and Medicaid Services']
+Greedy Answer: Centers for Medicare and Medicaid Services
+RAG Hallu Answer: Centers for Medicare and Medicaid Services
+Generated Sentence: The Centers for Medicare & Medicaid Services (CMS), previously known as the Health Care Financing Administration (HCFA), is a federal agency within the United States Department of Health and Human Services (HHS) that administer
+Before Prob: 0.9021146297454834
+After Prob: 0.4575352072715759
+Before Prob List: [0.3210831880569458, 0.9021146297454834, 0.7577374577522278]
+After Prob List: [0.9173399209976196, 0.9354761838912964, 0.931739091873169]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:John Alexander and Trent Alexander-Arnold are professional footballers from which country?
+Golden Answer: ['England']
+Greedy Answer: England
+RAG Hallu Answer: England
+Generated Sentence: John Alexander and Trent Alexander-Arnold are professional footballers from England.
+Answer the following question based on the given information with one or few words: John Alexander and Trent Alexander-Arnold are professional footballers from which country
+Before Prob: 0.4770081043243408
+After Prob: 0.790081799030304
+Before Prob List: [0.4770081043243408, 0.074303537607193, 0.05652713403105736]
+After Prob List: [0.8077597618103027, 0.7712482810020447, 0.7972573041915894]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What English campaigner for the suffragette movement did Angela Down portray?
+Golden Answer: ['Sylvia Pankhurst']
+Greedy Answer: Sylvia Pankhurst
+RAG Hallu Answer: Sylvia Pankhurst
+Generated Sentence: Angela Down portrayed Sylvia Pankhurst in the BBC's "Shoulder to Shoulder " (1974).
+Answer: Sylvia Pankhurst
+Reason: Angela Down portrayed Sylvia P
+Before Prob: 0.9358258247375488
+After Prob: 0.4584674835205078
+Before Prob List: [0.5376797914505005, 0.9358258247375488, 0.5942977666854858]
+After Prob List: [0.7582739591598511, 0.7717565894126892, 0.7494128942489624]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Shannon Purser played the role of June Acosta in a 2017 horror film directed by who?
+Golden Answer: ['John R. Leonetti']
+Greedy Answer: John R. Leonetti
+RAG Hallu Answer: John R. Leonetti
+Generated Sentence: The given information is about Shannon Purser and the film Wish Upon. The film was directed by John R. Leonetti.
+Answer: john r leonetti
+Reason: The given information is about Shannon Purser and
+Before Prob: 0.8339266777038574
+After Prob: 0.4650980830192566
+Before Prob List: [0.3510635793209076, 0.8339266777038574, 0.6316773295402527]
+After Prob List: [0.5189783573150635, 0.5564742088317871, 0.5564742088317871]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What sports club based in Hamburg Germany had a Persian born football player who played for eight seasons?
+Golden Answer: ['Mehdi Mahdavikia']
+Greedy Answer: Hamburger SV
+Answer the following question
+RAG Hallu Answer: Hamburger SV
+Answer the following question
+Generated Sentence: The given information is about a Persian born football player who played for eight seasons in Hamburg Germany.
+Answer: hamburger sv
+Reason: The given information is about a Persian born football player who played for eight seasons in Hamburg Germany
+Before Prob: 0.6214430332183838
+After Prob: 0.4497414827346802
+Before Prob List: [0.6214430332183838, 0.4268675148487091, 0.3802611827850342]
+After Prob List: [0.584869384765625, 0.5327923893928528, 0.5713576674461365]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the real name of the free jazz drummer on the album "Center of the World"?
+Golden Answer: ['Raymond Patterson']
+Greedy Answer: Muhammad Ali
+
+
+RAG Hallu Answer: Muhammad Ali
+
+
+Generated Sentence: Given the following information:Center of the World (album)  Center of the World is the eponymous album by the free jazz quartet consisting of saxophonist Frank Wrigth, pianist Bobby Few, bassist
+Before Prob: 0.4654810428619385
+After Prob: 0.3600056767463684
+Before Prob List: [0.4654810428619385, 0.35927054286003113, 0.4663432240486145]
+After Prob List: [0.9228798151016235, 0.9228798151016235, 0.9266154766082764]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What Old English poem commemorates the capturing of the five main towns of Danish Mercia?
+Golden Answer: ['Capture of the Five Boroughs']
+Greedy Answer: Capture of the Five Boroughs
+RAG Hallu Answer: Capture of the Five Boroughs
+Generated Sentence: The given information is about the capture of the five main towns of Danish Mercia. The Old English poem commemorates the capture of the five main towns of Danish Mercia.
+The given information is about the capture of the five main
+Before Prob: 0.9235056638717651
+After Prob: 0.3900570869445801
+Before Prob List: [0.9235056638717651, 0.773396909236908, 0.6714335680007935]
+After Prob List: [0.5929367542266846, 0.5929367542266846, 0.5923013687133789]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Other than racing, what sport does the 1998 champion of the Toyota GRand Prix practice?
+Golden Answer: ['paracyclist']
+Greedy Answer: Paracycling
+
+RAG Hallu Answer: Paracycling
+
+Generated Sentence: Alex Zanardi is a paracyclist.
+
+### 2
+
+Given the following information:1998 Toyota Grand Prix of Long Beach  The 1998 Toyota Grand Prix of Long Beach
+Before Prob: 0.4336038827896118
+After Prob: 0.46818074584007263
+Before Prob List: [0.4336038827896118, 0.31669098138809204, 0.18551848828792572]
+After Prob List: [0.714698851108551, 0.7064356207847595, 0.6915631890296936]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what English district is the town Digby, Victoria may be named after?
+Golden Answer: ['North Kesteven, Lincolnshire, England']
+Greedy Answer: Digby, Lincolnshire
+Answer the following
+RAG Hallu Answer: Digby, Lincolnshire
+Answer the following
+Generated Sentence: The town is believed to be named either after Digby, Lincolnshire, in England, or in honour of a legendary early rural Australian identity, "Digby" McCabe.
+Answer: Digby, Lincolnshire answer following
+Reason
+Before Prob: 0.581392228603363
+After Prob: 0.4103761315345764
+Before Prob List: [0.581392228603363, 0.5373051166534424, 0.45261234045028687]
+After Prob List: [0.7359203100204468, 0.6808215379714966, 0.5499919652938843]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What are the publishing years of this American and New York based film magazine published by Hachette Filipacchi Media U.S., where April Bernard worked as senior editor?
+Golden Answer: ['between 1987 and 2010']
+Greedy Answer: 1987-2010
+
+
+RAG Hallu Answer: 1987-2010
+
+
+Generated Sentence: The given information is about the publishing years of this American and New York based film magazine published by Hachette Filipacchi Media U.S., where April Bernard worked as senior editor.
+Answer: 19872010
+Before Prob: 0.693533182144165
+After Prob: 0.3526157736778259
+Before Prob List: [0.7224292159080505, 0.693533182144165, 0.7408268451690674]
+After Prob List: [0.5974735617637634, 0.694399356842041, 0.6108579039573669]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which film did Emilio Estevez star in in the same year as Nightmares
+Golden Answer: ['The Outsiders']
+Greedy Answer: The Breakfast Club
+RAG Hallu Answer: The Breakfast Club
+Generated Sentence: Emilio Estevez starred in the Breakfast Club in 1985, the same year as Nightmares.
+Given the following information:Nightmares (1983 film)  Nightmares is a
+Before Prob: 0.6170032024383545
+After Prob: 0.4419712424278259
+Before Prob List: [0.6170032024383545, 0.4705668091773987, 0.4349110722541809]
+After Prob List: [0.7433910369873047, 0.5903580784797668, 0.6928204894065857]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the main base for the parent company of LATAM Express?
+Golden Answer: ['Comodoro Arturo Merino Benítez International Airport']
+Greedy Answer: Santiago, Chile
+Answer: Santiago, Chile
+Answer: Santiago
+RAG Hallu Answer: Santiago, Chile
+Answer: Santiago, Chile
+Answer: Santiago
+Generated Sentence: The main base for the parent company of LATAM Express is Santiago, Chile.
+Answer: santiago chile answer santiago chile answer santiago chile answer santiago chile answer santiago chile answer
+Before Prob: 0.573533833026886
+After Prob: 0.36773020029067993
+Before Prob List: [0.6007989645004272, 0.573533833026886, 0.803318440914154]
+After Prob List: [0.5127555727958679, 0.7240757942199707, 0.505361795425415]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Ferdinand Zvonimir von Habsburg is the eldest son of the head of which House
+Golden Answer: ['House of Habsburg-Lorraine']
+Greedy Answer: Ferdinand Zvonimir von Habsburg is
+RAG Hallu Answer: Ferdinand Zvonimir von Habsburg is
+Generated Sentence: Ferdinand Zvonimir von Habsburg is the eldest son of the head of the House of Habsburg-Lorraine.
+Answer the following question based on the given information with one or few words: Ferdinand Zvonimir Maria B
+Before Prob: 0.9240781664848328
+After Prob: 0.4264809787273407
+Before Prob List: [0.755346417427063, 0.9240781664848328, 0.53447026014328]
+After Prob List: [0.8358729481697083, 0.8614554405212402, 0.8216243386268616]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Everybody's Crazy was produced by Michael Bolton, what genre of music does Everybody's Crazy fit into?
+Golden Answer: ['melodic hard rock']
+Greedy Answer: Hard rock
+
+##
+RAG Hallu Answer: Hard rock
+
+##
+Generated Sentence: Everybody's Crazy is the fourth studio album by American recording artist Michael Bolton. The melodic hard rock album was released in 1985 by Columbia Records. Hard rock is a loosely defined subgenre of
+Before Prob: 0.4074512720108032
+After Prob: 0.3035983145236969
+Before Prob List: [0.6284670233726501, 0.4074512720108032, 0.3165377080440521]
+After Prob List: [0.8881900310516357, 0.903109610080719, 0.903109610080719]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Besides the song "OK Computer" what did the same band record in 1995?
+Golden Answer: ['"Lucky"']
+Greedy Answer: "Lucky"
+RAG Hallu Answer: "Lucky"
+Generated Sentence: The song "Lucky" was recorded in 1995.
+Answer: OK Computer
+Reason: The song "OK Computer" was released in 1997.
+Answer: OK Computer is the third studio album by
+Before Prob: 0.5893065929412842
+After Prob: 0.4468764066696167
+Before Prob List: [0.5893065929412842, 0.44691938161849976, 0.30055543780326843]
+After Prob List: [0.635037899017334, 0.6093796491622925, 0.635037899017334]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:A book that attracted 600 people at a 2015 reading is based on a person who is documented for what attribute of the transgender movement?
+Golden Answer: ['youngest person to become a national transgender figure']
+Greedy Answer: A book that attracted 600 people
+RAG Hallu Answer: A book that attracted 600 people
+Generated Sentence: The book that attracted 600 people is based on a person who is documented for being one of the youngest publicly documented people to be identified as transgender.
+
+### 1.1.1
+
+Given
+Before Prob: 0.7654539346694946
+After Prob: 0.4852900803089142
+Before Prob List: [0.7654539346694946, 0.42491456866264343, 0.47094306349754333]
+After Prob List: [0.5653389096260071, 0.5044471621513367, 0.519443154335022]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Kieran Crichlow is a footballer from what island in the Lesser Antilles?
+Golden Answer: ['Barbados']
+Greedy Answer: Barbados
+RAG Hallu Answer: Barbados
+Generated Sentence: Barbados is an island country in the Lesser Antilles, in the Caribbean region of North America.
+Answer: barbados
+Reason: Barbados is an island country in the Lesser Antilles, in the Carib
+Before Prob: 0.6207996010780334
+After Prob: 0.5348924398422241
+Before Prob List: [0.6207996010780334, 0.27313530445098877, 0.27339664101600647]
+After Prob List: [0.7530575394630432, 0.7780742049217224, 0.7095409631729126]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Janet Williams has performed with an internationally recognized solo pianist whose recordings have earned him five what?
+Golden Answer: ['Grammy awards']
+Greedy Answer: Grammy awards
+RAG Hallu Answer: Grammy awards
+Generated Sentence: The given information is about Janet Williams and Vladimir Ashkenazy. The question is about Janet Williams and Vladimir Ashkenazy.
+Answer the following question based on the given information with one or few words: Janet Williams has performed with an
+Before Prob: 0.7956846952438354
+After Prob: 0.5699159502983093
+Before Prob List: [0.7956846952438354, 0.27858632802963257, 0.32605400681495667]
+After Prob List: [0.5723442435264587, 0.5683864951133728, 0.5683864951133728]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:William McGrath was a loyalist from Northern Ireland, and was known for opposing what?
+Golden Answer: ['united Ireland']
+Greedy Answer: William McGr
+RAG Hallu Answer: William McGr
+Generated Sentence: William McGrath was a loyalist from Northern Ireland, and was known for opposing a united Ireland.
+Answer the following question based on the given information with one or few words: William McGrath was a loyalist from Northern Ireland
+Before Prob: 0.5852422118186951
+After Prob: 0.5393755435943604
+Before Prob List: [0.5852422118186951, 0.23388119041919708, 0.2610326111316681]
+After Prob List: [0.8293274641036987, 0.8325391411781311, 0.8419561386108398]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy "Two Episodes of Mash"
+Golden Answer: ['the deadpan sketch group']
+Greedy Answer: Two Episodes of M
+RAG Hallu Answer: Two Episodes of M
+Generated Sentence: The answer is the name of the group.
+Answer: two episodes of mash
+Reason: The answer is the name of the group.
+Answer: two episodes of mash
+Reason: The answer is the name of the group
+Before Prob: 0.7977883219718933
+After Prob: 0.43006661534309387
+Before Prob List: [0.7977883219718933, 0.48343297839164734, 0.5878222584724426]
+After Prob List: [0.576770007610321, 0.5600559115409851, 0.576770007610321]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Nikhil Nanda is the son of the insurance advisor in what business?
+Golden Answer: ['life insurance']
+Greedy Answer: Nikhil
+RAG Hallu Answer: Nikhil
+Generated Sentence: Nikhil Nanda is the son of the insurance advisor in the business of insurance.
+Answer the following question based on the given information with one or few words: Ritu Nanda is the daughter of the veteran actor in
+Before Prob: 0.7339237928390503
+After Prob: 0.4690690040588379
+Before Prob List: [0.4263809323310852, 0.7339237928390503, 0.4204542934894562]
+After Prob List: [0.6606051921844482, 0.6898119449615479, 0.6929835081100464]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the current model of the iconic mascot co-created by Harold Bell?
+Golden Answer: ['"Lend a hand — care for the land!"']
+Greedy Answer: Woodsy Owl
+Answer the following question
+RAG Hallu Answer: Woodsy Owl
+Answer the following question
+Generated Sentence: The current model of the iconic mascot co-created by Harold Bell is Woodsy Owl.
+Answer: Woodsy Owl answer following question
+Reason: The current model of the iconic mascot co-
+Before Prob: 0.6720185875892639
+After Prob: 0.4752129018306732
+Before Prob List: [0.7147467136383057, 0.6720185875892639, 0.44363489747047424]
+After Prob List: [0.4222318232059479, 0.7151864171028137, 0.5161179304122925]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which British Indian novelist and essayist did Anthony Burgess address in a lengthy letter?
+Golden Answer: ['Salman Rushdie']
+Greedy Answer: Salman Rushdie
+RAG Hallu Answer: Salman Rushdie
+Generated Sentence: The given information is about the essay on censorship by Anthony Burgess addressed to his fellow novelist Salman Rushdie.
+Answer the following question based on the given information with one or few words: Which of the following is the
+Before Prob: 0.840682864189148
+After Prob: 0.4850277900695801
+Before Prob List: [0.840682864189148, 0.38555848598480225, 0.5176650881767273]
+After Prob List: [0.6020543575286865, 0.5910362005233765, 0.5978872179985046]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The world's greatest Super-Heroes anthology showcased one of four superheroes known for speaking the phrase "SHAZAM", what was their name?
+Golden Answer: ['Captain Marvel']
+Greedy Answer: Captain Marvel
+RAG Hallu Answer: Captain Marvel
+Generated Sentence: The World's Greatest Super-Heroes is the name to the oversized slipcased hardcover anthology collection, that reprinted six oversized graphic novels all created by artist Alex Ross and writer Paul
+Before Prob: 0.775452733039856
+After Prob: 0.6512910723686218
+Before Prob List: [0.27256545424461365, 0.775452733039856, 0.14447136223316193]
+After Prob List: [0.8977178335189819, 0.9004921317100525, 0.8941935300827026]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which movie was filmed first "The Guest" or "You're Next"?
+Golden Answer: ["You're Next"]
+Greedy Answer: The Guest
+
+RAG Hallu Answer: The Guest
+
+Generated Sentence: The Guest was released in 2014, while You're Next was released in 2011.
+
+### Question 2
+
+Given the following information:The Guest (film)  The Gu
+Before Prob: 0.5772220492362976
+After Prob: 0.34296342730522156
+Before Prob List: [0.5530447959899902, 0.5772220492362976, 0.5619346499443054]
+After Prob List: [0.6712918281555176, 0.6810553669929504, 0.6795639991760254]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
