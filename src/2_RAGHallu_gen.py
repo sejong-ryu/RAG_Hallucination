@@ -398,7 +398,7 @@ class Model:
                 new_candidate_log_probs = []
                 for i, cand_ans in enumerate(candidate_answers):                        
                     
-                    alt_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {cand_ans}\nReason:'
+                    alt_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {cand_ans}\nExplain why this is the correct answer:'
                     alt_tokenized_inputs = self.tokenizer(alt_prompt,
                                                 return_tensors="pt",
                                                 truncation=True,
@@ -436,7 +436,7 @@ class Model:
                 ##################################  RAG Hallu  #######################################
 
             if use_rag_hallu:
-                return pred_tokens, reason_text, max_index, topk_probs.squeeze().tolist(), (topk_probs[max_index], torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers
+                return pred_tokens, reason_text, max_index, topk_probs.squeeze().tolist(), (topk_probs[0, max_index].item(), torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers
             else:
                 return pred_tokens
 
