@@ -316,7 +316,7 @@ class Model:
         context_start, context_end = self.locate_context_position(offset_mapping, prompt, context)
         self.context_ids = input_ids.squeeze(0)[context_start: context_end + 1]
 
-        ### generate greedy answer
+        ##################################  Greedy  #######################################
         with torch.no_grad():
             ### 1. Get top k tokens in first generated token position for marginalization 
             outputs = self.model(input_ids=input_ids, attention_mask=attention_mask, output_attentions=True, return_dict=True, use_cache=True)
@@ -369,7 +369,7 @@ class Model:
                 
             pred_tokens = candidate_tokens[max_index]
             
-            ##################################  Greedy  #######################################
+            ##################################  RAG Hallu  #######################################
             if use_rag_hallu:
                 ### 1. Get pred_ans after sentence
                 pred_ans = candidate_answers[max_index]
@@ -432,6 +432,8 @@ class Model:
                 joint_log_probs = candidate_log_probs + new_candidate_log_probs
                 joint_probs = torch.exp(joint_log_probs)
                 bi_dir_prob = joint_probs[max_index] / joint_probs.sum()
+                
+                ##################################  RAG Hallu  #######################################
 
             if use_rag_hallu:
                 return pred_tokens, reason_text, (torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist())

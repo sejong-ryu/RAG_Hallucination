@@ -6216,3 +6216,389 @@ After Prob List: [0.8714711666107178, 0.8855347037315369, 0.8134660124778748]
 
 
 
+Q:The Genesis Flood is a book by John C. Whitcomb and what founder of the Creation Research Society and the Institute for Creation Research?
+Golden Answer: ['Henry Madison Morris']
+Greedy Answer: The Genesis Flo
+RAG Hallu Answer: The Genesis Flo
+Generated Sentence: The Genesis Flood is a book by John C. Whitcomb and Henry M. Morris. Henry M. Morris is the founder of the Creation Research Society and the Institute for Creation Research.
+
+### 2.
+
+
+Before Prob: 0.7273334860801697
+After Prob: 0.37226900458335876
+Before Prob List: [0.7273334860801697, 0.6408520340919495, 0.6045193076133728]
+After Prob List: [0.7010857462882996, 0.6865092515945435, 0.6945957541465759]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Guy Pearce starred in which movie produced by Marvel Studios ?
+Golden Answer: ['Iron Man 3']
+Greedy Answer: Iron Man 3
+RAG Hallu Answer: Iron Man 3
+Generated Sentence: Guy Pearce starred in Iron Man 3 produced by Marvel Studios.
+Given the following information:Guy Pearce  Guy Edward Pearce (born 5 October 1967) is an Australian actor and musician.
+Before Prob: 0.8643720149993896
+After Prob: 0.5173488259315491
+Before Prob List: [0.8643720149993896, 0.47191810607910156, 0.3428627550601959]
+After Prob List: [0.799015998840332, 0.8015166521072388, 0.7760432362556458]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the worth of the logo that appears alongside the "Just Do It" slogan?
+Golden Answer: ['$26 billion']
+Greedy Answer: $26 billion
+RAG Hallu Answer: $26 billion
+Generated Sentence: 26 billion is the worth of the logo that appears alongside the "Just Do It" slogan.
+Answer: 26 billion
+Reason: 26 billion is the worth of the logo that appears alongside the "Just
+Before Prob: 0.6094560027122498
+After Prob: 0.43733423948287964
+Before Prob List: [0.6094560027122498, 0.49432265758514404, 0.3630625903606415]
+After Prob List: [0.7678937315940857, 0.6540725827217102, 0.7678937315940857]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which hip hop act that collaborated in the Red Hot AIDS Benefit Series was also a trio that was formed in New York?
+Golden Answer: ['De La Soul']
+Greedy Answer: De La Soul
+RAG Hallu Answer: De La Soul
+Generated Sentence: The answer is de la soul.
+Answer: de la soul.
+Reason: The answer is de la soul.
+Answer: de la soul
+Reason: The answer is de la soul.
+Answer: de la soul
+Re
+Before Prob: 0.8280172348022461
+After Prob: 0.5327630043029785
+Before Prob List: [0.8280172348022461, 0.41596293449401855, 0.35764259099960327]
+After Prob List: [0.61809241771698, 0.61809241771698, 0.5361247658729553]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How much change in elevation is there at the site of the 1999 FIA GT Hockenheim 500km?
+Golden Answer: ['very little']
+Greedy Answer: 1
+RAG Hallu Answer: 1
+Generated Sentence: 1999 FIA GT Hockenheim 500km  The 1999 FIA GT Hockenheim 500 km was the third round the 1999 FIA GT Championship
+Before Prob: 0.20850595831871033
+After Prob: 0.3139745593070984
+Before Prob List: [0.15191398561000824, 0.20850595831871033, 0.3132443428039551]
+After Prob List: [0.8717815279960632, 0.8928804397583008, 0.8758091330528259]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the title of the debut studio album by Weezer which contained the hit Buddy Holly and Undone – The Sweater Song?
+Golden Answer: ['The Blue Album']
+Greedy Answer: The Blue Album
+RAG Hallu Answer: The Blue Album
+Generated Sentence: The given information is about the discography of Weezer. The discography of Weezer, an American rock band, consists of 10 studio albums, two compilation albums, one video album, six extended plays, twenty-eight
+Before Prob: 0.6560174822807312
+After Prob: 0.4029041826725006
+Before Prob List: [0.6560174822807312, 0.6012807488441467, 0.37946397066116333]
+After Prob List: [0.7408704161643982, 0.7388723492622375, 0.727363109588623]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What kind of comedian was Michael Mclntyre's father?
+Golden Answer: ['Canadian comedian']
+Greedy Answer: Ray Cameron (
+RAG Hallu Answer: Ray Cameron (
+Generated Sentence: Ray Cameron (comedian)  Ray Cameron (born Thomas Cameron McIntyre; 19 April 1936 – 27 December 1993) was a Canadian comedian, and
+Before Prob: 0.5334137678146362
+After Prob: 0.3854052424430847
+Before Prob List: [0.4285401999950409, 0.5334137678146362, 0.43342649936676025]
+After Prob List: [0.8826391100883484, 0.9069539904594421, 0.9072508811950684]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In 2106 this magnetically confine nuclear fusion device achieved the highest pressure of a gaseous mixture of negatively charged electrons and highly charged ions called what?
+Golden Answer: ['Plasma']
+Greedy Answer: Plasma
+RAG Hallu Answer: Plasma
+Generated Sentence: Plasma is one of the four fundamental states of matter and was first introduced by chemist Irving Langmuir in the 1920s.  Unlike, the other three states of solid, liquid, and gas, plasma
+Before Prob: 0.5237489342689514
+After Prob: 0.485543429851532
+Before Prob List: [0.37334370613098145, 0.5237489342689514, 0.18353980779647827]
+After Prob List: [0.9069554209709167, 0.9069554209709167, 0.8973373770713806]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What other female rappers appeared Brittany Nicole Carpentero in the official remix to My Chick Bad?
+Golden Answer: ['Eve, and Trina']
+Greedy Answer: Eve, Trina
+
+RAG Hallu Answer: Eve, Trina
+
+Generated Sentence: The answer is given in the question itself.
+Answer: eve trina
+Reason: The answer is given in the question itself.
+Answer: eve trina
+Reason: The answer is given in the question itself.
+
+Before Prob: 0.5111323595046997
+After Prob: 0.34771040081977844
+Before Prob List: [0.5111323595046997, 0.6319412589073181, 0.4774274230003357]
+After Prob List: [0.5953971743583679, 0.5127085447311401, 0.5171510577201843]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Jimmy D'Arcy played in Northern Ireland for the team based in what county?
+Golden Answer: ['Antrim']
+Greedy Answer: Bally
+RAG Hallu Answer: Bally
+Generated Sentence: Ballymena United F.C. is a semi-professional football club from Northern Ireland.  Based in Ballymena, County Antrim, the team competes in the NIFL Premiership and plays home matches at
+Before Prob: 0.7521379590034485
+After Prob: 0.6361578702926636
+Before Prob List: [0.7521379590034485, 0.18706604838371277, 0.24650174379348755]
+After Prob List: [0.8956349492073059, 0.8958355784416199, 0.8831568360328674]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What organization does Sandra Pizzarello and Doctorate have in common?
+Golden Answer: ['University']
+Greedy Answer: Doctor
+RAG Hallu Answer: Doctor
+Generated Sentence: Doctorate is a doctor's degree.
+Answer the following question based on the given information with one or few words: What organization does Sandra Pizzarello and Doctorate have in common?
+Answer: Doctorate is a doctor'
+Before Prob: 0.17608194053173065
+After Prob: 0.4852561056613922
+Before Prob List: [0.11775492876768112, 0.17608194053173065, 0.0815664604306221]
+After Prob List: [0.6465169191360474, 0.6921952366828918, 0.6517271995544434]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Thehickey  team that won the 1997 Calder Cup playoffs is based in what city?
+Golden Answer: ['Hershey, Pennsylvania']
+Greedy Answer: Hershey
+The
+RAG Hallu Answer: Hershey
+The
+Generated Sentence: Thehickey  team that won the 1997 Calder Cup playoffs is based in what city?
+Thehickey  team that won the 1997 Calder Cup playoffs is based in what city
+Before Prob: 0.5074501037597656
+After Prob: 0.3737717568874359
+Before Prob List: [0.5074501037597656, 0.2983863353729248, 0.5607133507728577]
+After Prob List: [0.825981080532074, 0.8081715106964111, 0.8223437070846558]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What year did the musical premiere that was based on the 2007 Irish romantic musical film of the same name?
+Golden Answer: ['2011']
+Greedy Answer: 2011
+RAG Hallu Answer: 2011
+Generated Sentence: The musical premiered at the New York Theatre Workshop in 2011, before transferring to Broadway in 2012.
+Answer the following question based on the given information with one or few words: What is the name
+Before Prob: 0.7947012186050415
+After Prob: 0.4225061237812042
+Before Prob List: [0.5557644963264465, 0.7947012186050415, 0.5581436157226562]
+After Prob List: [0.7796013951301575, 0.820475697517395, 0.820475697517395]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:John Douglas Gibson lived his whole life in a suburb of what city?
+Golden Answer: ['Wollongong, Australia']
+Greedy Answer: Thirroul, New
+RAG Hallu Answer: Thirroul, New
+Generated Sentence: John Douglas Gibson lived his whole life in a suburb of Thirroul, New South Wales.
+Answer the following question based on the given information with one or few words: John Douglas Gibson lived his whole life in a suburb
+Before Prob: 0.7192661166191101
+After Prob: 0.4388353228569031
+Before Prob List: [0.48173606395721436, 0.7192661166191101, 0.47344261407852173]
+After Prob List: [0.7128856182098389, 0.7599110007286072, 0.7509233951568604]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What position does the First Vice Captain of Juventus play?
+Golden Answer: ['centre-back']
+Greedy Answer: Claudio March
+RAG Hallu Answer: Claudio March
+Generated Sentence: The first vice captain of Juventus is Claudio Marchisio.
+Answer: Giorgio Chiellini
+Reason: The first vice captain of Juventus is Giorgio Chiellini.
+Answer: Claudio Marchisio
+Before Prob: 0.4437291920185089
+After Prob: 0.3986463248729706
+Before Prob List: [0.3503780663013458, 0.4437291920185089, 0.40803593397140503]
+After Prob List: [0.5849722027778625, 0.6837211847305298, 0.6192951202392578]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Milo Parker starred in which 2014 movie alongside Gillian Anderson?
+Golden Answer: ['Robot Overlords']
+Greedy Answer: Robot Overlords
+RAG Hallu Answer: Robot Overlords
+Generated Sentence: Milo Parker starred in the 2014 movie Robot Overlords alongside Gillian Anderson.
+
+### Question 2
+
+Given the following information:
+
+Milo Parker  Milo Parker (born 
+Before Prob: 0.8449265360832214
+After Prob: 0.48320120573043823
+Before Prob List: [0.5389198660850525, 0.8449265360832214, 0.41603413224220276]
+After Prob List: [0.6081666946411133, 0.662246584892273, 0.6506745219230652]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who starred in My Dog Skip and Malcolm in the Middle?
+Golden Answer: ['Frankie Muniz']
+Greedy Answer: Frankie Muniz
+RAG Hallu Answer: Frankie Muniz
+Generated Sentence: The given information is about the film My Dog Skip and the TV series Malcolm in the Middle. Frankie Muniz starred in both.
+Answer: frankie muniz
+Reason: The given information is about the film
+Before Prob: 0.8270430564880371
+After Prob: 0.4401167333126068
+Before Prob List: [0.8270430564880371, 0.5895736217498779, 0.4704027473926544]
+After Prob List: [0.6069313883781433, 0.6069313883781433, 0.5967710018157959]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What criteria subjectively qualifies the Houston Astrodome to be called the Eighth Wonder of the World?
+Golden Answer: ['comparable to the seven Wonders of the World']
+Greedy Answer: The Houston Astrodome is the Eighth Wonder
+RAG Hallu Answer: The Houston Astrodome is the Eighth Wonder
+Generated Sentence: The Houston Astrodome is the world's first multi-purpose, domed sports stadium, located in Houston, Texas.
+Answer: The Houston Astrodome is the world's first multi-purpose, domed sports
+Before Prob: 0.53609299659729
+After Prob: 0.3824805021286011
+Before Prob List: [0.53609299659729, 0.5142821073532104, 0.3660338521003723]
+After Prob List: [0.7463930249214172, 0.7226298451423645, 0.749627411365509]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?
+Golden Answer: ['BBC Formula One']
+Greedy Answer: Allan Mc
+RAG Hallu Answer: Allan Mc
+Generated Sentence: Allan McNish is a winner of the 2013 6 Hours of Silverstone a co-commentator for.
+Answer: allan mc
+Reason: Allan McNish is a winner of the
+Before Prob: 0.8622991442680359
+After Prob: 0.5678195357322693
+Before Prob List: [0.8622991442680359, 0.32919085025787354, 0.34838932752609253]
+After Prob List: [0.7390767335891724, 0.6913350224494934, 0.7390767335891724]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What role in the military did the discoverer of the elliptical galaxy NGC 3610 have before reaching Britain ?
+Golden Answer: ['Military Band of Hanover,']
+Greedy Answer: William Herschel was a
+RAG Hallu Answer: William Herschel was a
+Generated Sentence: William Herschel was a British astronomer and composer of German and Czech-Jewish origin, and brother of fellow astronomer Caroline Herschel, with whom he worked.  Born in the Electorate of Hanover, Hersch
+Before Prob: 0.6025654673576355
+After Prob: 0.4367741644382477
+Before Prob List: [0.4472643733024597, 0.6025654673576355, 0.34801194071769714]
+After Prob List: [0.8499476313591003, 0.8699220418930054, 0.8499476313591003]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the female co-founder of the organization that published the "Daily Word" devotional born?
+Golden Answer: ['August 6, 1845']
+Greedy Answer: 1845
+
+###
+RAG Hallu Answer: 1845
+
+###
+Generated Sentence: 1845 is the year of birth of the female co-founder of the organization that published the "Daily Word" devotional.
+
+### Difficulty
+
+* Easy (100%)
+Before Prob: 0.5963839888572693
+After Prob: 0.3214283585548401
+Before Prob List: [0.7078389525413513, 0.5963839888572693, 0.7805123925209045]
+After Prob List: [0.5170920491218567, 0.6363706588745117, 0.5575752854347229]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the film which had Luke Goss playing the role of Jared Nomak ?
+Golden Answer: ['Guillermo del Toro,']
+Greedy Answer: Guillermo del Toro
+
+RAG Hallu Answer: Guillermo del Toro
+
+Generated Sentence: The given information is about Luke Goss who played the role of Jared Nomak in the film Blade II. The film was directed by Guillermo del Toro.
+Answer: guillermo del toro
+Reason: The
+Before Prob: 0.8070536851882935
+After Prob: 0.4525715708732605
+Before Prob List: [0.8070536851882935, 0.36016133427619934, 0.644216001033783]
+After Prob List: [0.6163797378540039, 0.5681711435317993, 0.6163797378540039]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What city was the capital of the Ostrogothic Kingdom and the birth place of Ornella Fiorentini?
+Golden Answer: ['Ravenna (] , also locally ] ; Romagnol: "Ravèna" ) is the capital city of the Province of Ravenna']
+Greedy Answer: Ravenna
+
+### 1.2.1.1.1.1.1.1.1.1.1.1.
+RAG Hallu Answer: Ravenna
+
+### 1.2.1.1.1.1.1.1.1.1.1.1.
+Generated Sentence: Ravenna is the capital of the Ostrogothic Kingdom and the birth place of Ornella Fiorentini.
+
+Given the following information:Ornella Fiorentini  Ornella Fiorentini is
+Before Prob: 0.43661051988601685
+After Prob: 0.35877346992492676
+Before Prob List: [0.43661051988601685, 0.4015031158924103, 0.3977664113044739]
+After Prob List: [0.7981621623039246, 0.7981621623039246, 0.7601833939552307]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which airport does Travel Service have their head office located in the capital of the Czech Republic?
+Golden Answer: ['Václav Havel Airport']
+Greedy Answer: Václav Havel Airport
+RAG Hallu Answer: Václav Havel Airport
+Generated Sentence: The airport is able to handle wide-body aircraft including the Airbus A380 or Boeing 747.
+Answer the following question based on the given information with one or few words: Which airline is the biggest air
+Before Prob: 0.8385939002037048
+After Prob: 0.4678197205066681
+Before Prob List: [0.8385939002037048, 0.4334990084171295, 0.5227317810058594]
+After Prob List: [0.7758188843727112, 0.7639235854148865, 0.7823194265365601]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What three states junction is near the gap that Peter Hackett traveled along during the Scotish-Irish migration along the Wilderness Road?
+Golden Answer: ['Kentucky, Virginia, and Tennessee']
+Greedy Answer: Kentucky, Virginia, and Tennessee
+RAG Hallu Answer: Kentucky, Virginia, and Tennessee
+Generated Sentence: The Cumberland Gap is a narrow pass through the long ridge of the Cumberland Mountains, within the Appalachian Mountains, near the junction of the U.S. states of Kentucky, Virginia, and Tennessee.
+
+Before Prob: 0.7209779024124146
+After Prob: 0.402568519115448
+Before Prob List: [0.6209971904754639, 0.7209779024124146, 0.45846179127693176]
+After Prob List: [0.8995929956436157, 0.9063311815261841, 0.8966927528381348]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+

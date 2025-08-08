@@ -313,7 +313,7 @@ class Model:
         context_start, context_end = self.locate_context_position(offset_mapping, prompt, context)
         self.context_ids = input_ids.squeeze(0)[context_start: context_end + 1]
 
-        # generate ans
+        ##################################  Greedy  #######################################
         with torch.no_grad():
             generated_tokens = []
             for cur_len in range(gen_max_length):
