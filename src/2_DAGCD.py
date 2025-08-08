@@ -378,17 +378,20 @@ class Model:
 
 
 if __name__ == '__main__':
-    set_seed(0)
     parser = ArgumentParser()
     parser.add_argument('--model', type=str, default='meta-llama/Llama-2-7b-hf')
     parser.add_argument('--data', type=str, default='HotpotQA')
     parser.add_argument('--topk', type=int, default=10, help='top-k features')
     parser.add_argument('--top_rank', type=int, default=10, help='top rank constraint')
     parser.add_argument('--size', type=int, default=2000, help='LR-train-size')
+    parser.add_argument('--numk', type=int, default=3, help='number of marialized tokens')
+    parser.add_argument('--seed', type=int, default=0, help='random seed')
+    parser.add_argument('--ratio', type=float, default=0.02, help='sample ratio for validation data')
     args = parser.parse_args()
     args.model_path = args.model
     args.model = os.path.basename(args.model).lower()
 
+    set_seed(args.seed)
     logger = set_logger(args)
 
     model = Model(args)
@@ -396,7 +399,7 @@ if __name__ == '__main__':
     datas = utils.load_parquet_data(data_path)
     
     # Sample 10%
-    sample_size = int(len(datas) * 0.002)
+    sample_size = int(len(datas) * args.ratio)
     datas = random.sample(datas, sample_size)
 
     results = []
@@ -448,7 +451,7 @@ if __name__ == '__main__':
 
         results.append(res)
 
-    save_path = f'../results/{args.model}/{args.data}-{args.size}.jsonl'
+    save_path = f'../results/{args.model}/{args.data}-{args.size}-{args.ratio}per-seed{args.seed}.jsonl'
     utils.save_as_parquet(save_path, results)
 
 

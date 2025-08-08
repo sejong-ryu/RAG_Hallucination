@@ -5999,3 +5999,220 @@ After Prob List: [0.5507115125656128, 0.6209493279457092, 0.5378615856170654]
 
 
 
+Q:What monster truck team was created by a man from Kill Devil Hills?
+Golden Answer: ['Grave Digger']
+Greedy Answer: Grave Digger
+RAG Hallu Answer: Grave Digger
+Generated Sentence: Grave Digger is a monster truck racing team in the Feld Entertainment Monster Jam series.  There are nine Grave Diggers being driven by different drivers to allow them to make appearances at more events, but their flagship driver is
+Before Prob: 0.8668360710144043
+After Prob: 0.534817099571228
+Before Prob List: [0.8668360710144043, 0.2860817611217499, 0.49435365200042725]
+After Prob List: [0.9064621925354004, 0.8402314782142639, 0.8962663412094116]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which municipality of Gunnison County, Colorado is now called "the last great Colorado ski town" and is located near the Lucky Jack mine?
+Golden Answer: ['Crested Butte, Colorado']
+Greedy Answer: Crested Butte
+Answer
+RAG Hallu Answer: Crested Butte
+Answer
+Generated Sentence: The answer is crested butte.
+Answer: crested butte
+Reason: The answer is crested butte. The answer is crested butte.
+Answer: crested butte
+Reason: The answer is cr
+Before Prob: 0.5079147815704346
+After Prob: 0.3570142388343811
+Before Prob List: [0.5079147815704346, 0.4207569360733032, 0.5208805203437805]
+After Prob List: [0.5839680433273315, 0.5839680433273315, 0.5538341403007507]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How big is the campus of the University that Ben Bahan is a professor at ?
+Golden Answer: ['99 acre campus']
+Greedy Answer: 99 acres
+
+
+RAG Hallu Answer: 99 acres
+
+
+Generated Sentence: The information given is that the campus is 99 acres.
+Given the following information:Ben Bahan  Benjamin James Bahan is a professor of ASL and Deaf Studies at Gallaudet University and a member of the De
+Before Prob: 0.4827122688293457
+After Prob: 0.3158896565437317
+Before Prob List: [0.5378516316413879, 0.4827122688293457, 0.5919629335403442]
+After Prob List: [0.6700929999351501, 0.7276894450187683, 0.676241397857666]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the newspaper, in which the 1891 Birthday Honours list appeared on 30 May 1891, adopt its current name ?
+Golden Answer: ['January 1788']
+Greedy Answer: 1821
+
+RAG Hallu Answer: 1821
+
+Generated Sentence: The Times was founded in 1785 under the title The Daily Universal Register , adopting its current name on 1 January 1788.
+
+### 1891 Birthday Honours  The 
+Before Prob: 0.5587232112884521
+After Prob: 0.4515245258808136
+Before Prob List: [0.36020103096961975, 0.5587232112884521, 0.3484148383140564]
+After Prob List: [0.6397246718406677, 0.6724094748497009, 0.6484490633010864]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Toby Kebbell starred in a fantasy action film based on a video game series in 2016 notably set in teh world of what?
+Golden Answer: ['Azeroth']
+Greedy Answer: Warcraft
+
+RAG Hallu Answer: Warcraft
+
+Generated Sentence: The film is based on the video game series of the same name and the novels set in the world of Azeroth.
+Answer: Warcraft
+Reason: The film is based on the video game series of the same name and the
+Before Prob: 0.5574037432670593
+After Prob: 0.3829817473888397
+Before Prob List: [0.585060179233551, 0.5574037432670593, 0.29403847455978394]
+After Prob List: [0.7186158299446106, 0.7007206678390503, 0.7102237343788147]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the nationality of the composer of the Opera "Iphigénie en Aulide" ?
+Golden Answer: ['Italian']
+Greedy Answer: French
+RAG Hallu Answer: French
+Generated Sentence: François-Louis Gand Le Bland Du Roullet was a French diplomat and playwright.
+Answer the following question based on the given information with one or few words: What is the nationality of the librettist of Gluck
+Before Prob: 0.30512940883636475
+After Prob: 0.6786243915557861
+Before Prob List: [0.30512940883636475, 0.08407198637723923, 0.06272152811288834]
+After Prob List: [0.8269700407981873, 0.8094558119773865, 0.8202049732208252]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Anna Aglatova made her first public appearance at which Moscow theatre in 2005?
+Golden Answer: ['Bolshoi Theatre']
+Greedy Answer: Bolshoi Theatre
+RAG Hallu Answer: Bolshoi Theatre
+Generated Sentence: Anna Aglatova made her first public appearance at the Bolshoi Theatre.
+Answer the following question based on the given information with one or few words: Anna Aglatova was a recipient of the "Sergei Leif
+Before Prob: 0.8029418587684631
+After Prob: 0.4397425353527069
+Before Prob List: [0.5397931337356567, 0.8029418587684631, 0.4829140901565552]
+After Prob List: [0.7852513194084167, 0.7850309014320374, 0.7852513194084167]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dum Dum Motijheel College is located in the capital of West Bengal?
+Golden Answer: ['Kolkata']
+Greedy Answer: Kolkata
+RAG Hallu Answer: Kolkata
+Generated Sentence: Dum Dum Motijheel College is located in Kolkata.
+Answer the following question based on the given information with one or few words: Dum Dum Motijheel College is affiliated to which university?
+Answer: West Bengal State University
+Before Prob: 0.8019227981567383
+After Prob: 0.505343496799469
+Before Prob List: [0.8019227981567383, 0.5003222227096558, 0.31912603974342346]
+After Prob List: [0.7744168043136597, 0.7316681146621704, 0.7577548623085022]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What country is the singer from, who duets with Dave Hemingway on the song "A Little Time"?
+Golden Answer: ['Northern Irish']
+Greedy Answer: Northern Ireland
+RAG Hallu Answer: Northern Ireland
+Generated Sentence: The Beautiful South is a British band formed in 1988.  The band consisted of vocalists Paul Heaton and Jacqui Abbott, and a revolving line-up of musicians.  The band's only single to
+Before Prob: 0.5138576626777649
+After Prob: 0.5494126677513123
+Before Prob List: [0.2938694655895233, 0.5138576626777649, 0.13079994916915894]
+After Prob List: [0.5227925181388855, 0.5186474919319153, 0.49648088216781616]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Hate Them is the ninth album by a band likened to who?
+Golden Answer: ['Motörhead']
+Greedy Answer: Darkthr
+RAG Hallu Answer: Darkthr
+Generated Sentence: Hate Them is the ninth album by a band likened to darkthrone.
+Answer the following question based on the given information with one or few words: Hate Them is the ninth album by a band li
+Before Prob: 0.7595311403274536
+After Prob: 0.48142513632774353
+Before Prob List: [0.5143694281578064, 0.7595311403274536, 0.3960261046886444]
+After Prob List: [0.6603145003318787, 0.7941771149635315, 0.7830378413200378]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Bob Edwards was the host of what show, that later was hosted by Renee Montagne?
+Golden Answer: ['Morning Edition']
+Greedy Answer: Morning Edition
+RAG Hallu Answer: Morning Edition
+Generated Sentence: Bob Edwards was the host of "Morning Edition" that later was hosted by Renee Montagne.
+Answer: Bob Edwards was the host of "Morning Edition" that later was hosted by Renee Montagne.
+Reason
+Before Prob: 0.7645835876464844
+After Prob: 0.4598609209060669
+Before Prob List: [0.5677585601806641, 0.7645835876464844, 0.32931774854660034]
+After Prob List: [0.7070251107215881, 0.713553249835968, 0.7269334197044373]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What company claims to manufacture one out of every three objects that provide a shelf life typically ranging from one to five years?
+Golden Answer: ['Crown Holdings Incorporated']
+Greedy Answer: Crown Holdings
+Answer: Crown
+RAG Hallu Answer: Crown Holdings
+Answer: Crown
+Generated Sentence: crown holdings answer crown
+Answer: crown holdings answer crown
+Reason: crown holdings answer crown
+Answer: crown holdings answer crown
+Reason: crown holdings answer crown
+Answer: crown holdings answer crown
+Reason
+Before Prob: 0.4834386110305786
+After Prob: 0.41453835368156433
+Before Prob List: [0.4834386110305786, 0.5474644899368286, 0.3833315074443817]
+After Prob List: [0.7276976704597473, 0.5072287917137146, 0.5717270970344543]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Alexander Borodin wrote what piece of music named after the Kiphchaks and Cumans?
+Golden Answer: ['Polovtsian Dances']
+Greedy Answer: Polovtsian Dances
+RAG Hallu Answer: Polovtsian Dances
+Generated Sentence: The song in the musical is a lovers' duet and describes the transcendent feelings that love brings to their surroundings. Later versions were mostly edited to be sung by male solo artists.
+Answer the following question based on the
+Before Prob: 0.7634658217430115
+After Prob: 0.40884125232696533
+Before Prob List: [0.5154625177383423, 0.7634658217430115, 0.5987022519111633]
+After Prob List: [0.7839632630348206, 0.791236162185669, 0.7839632630348206]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the location of the execution of Roger David Casement, the Irish Nationalist who made made efforts during World War I to gain German military aid for the 1916 Easter Rising that sought to gain Irish independence?
+Golden Answer: ["Casement's Fort"]
+Greedy Answer:  Rahoneen 
+RAG Hallu Answer:  Rahoneen 
+Generated Sentence: Rahoneen is the location of the execution of Roger David Casement, the Irish Nationalist who made made efforts during World War I to gain German military aid for the 1916 Easter Rising that sought to gain Irish independence.
+Before Prob: 0.47051575779914856
+After Prob: 0.3936019539833069
+Before Prob List: [0.2922402322292328, 0.47051575779914856, 0.4760372042655945]
+After Prob List: [0.8714711666107178, 0.8855347037315369, 0.8134660124778748]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
