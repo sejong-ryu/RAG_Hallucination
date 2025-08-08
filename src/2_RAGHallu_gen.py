@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "2,3"
 
 import pickle
 import random
@@ -450,7 +450,7 @@ if __name__ == '__main__':
     parser.add_argument('--size', type=int, default=2000, help='LR-train-size')
     parser.add_argument('--numk', type=int, default=3, help='number of marialized tokens')
     parser.add_argument('--seed', type=int, default=0, help='random seed')
-    parser.add_argument('--ratio', type=float, default=0.02, help='sample ratio for validation data')
+    parser.add_argument('--ratio', type=float, default=0.1, help='sample ratio for validation data')
     args = parser.parse_args()
     args.model_path = args.model
     args.model = os.path.basename(args.model).lower()
