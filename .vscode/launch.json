@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Python: LFAG 2_RAGHallu.py",
+        "type": "debugpy",
+        "request": "launch",
+        // train.py 의 경로
+        "program": "${workspaceFolder}/LFAG/src/2_RAGHallu.py",
+        // bash 스크립트에서 넘기던 인자들을 args 에 옮깁니다.
+        "args": [],
+        // CUDA_VISIBLE_DEVICES 환경변수 설정
+        "env": {
+          "CUDA_VISIBLE_DEVICES": "2,3"
+        },
+        // 워크스페이스 루트가 현재 디렉토리라고 가정
+        "cwd": "${workspaceFolder}/RAGHallu/src",
+        "python": "${workspaceFolder}/miniconda3/envs/dagcd/bin/python",
+      }
+    ]
+  }

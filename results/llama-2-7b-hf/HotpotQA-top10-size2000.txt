@@ -1,0 +1,7 @@
+----- Greedy performance -----
+EM: 43.22%
+F1: 53.61%
+
+----- RAG Hallu performance -----
+EM: 43.22%
+F1: 53.61%

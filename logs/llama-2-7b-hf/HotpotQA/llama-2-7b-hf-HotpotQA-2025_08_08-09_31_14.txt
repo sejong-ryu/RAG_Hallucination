@@ -1,0 +1,1846 @@
+Q:Who is older, Anne Noe or Jean-Marie Pfaff?
+Golden Answer: ['Jean-Marie Pfaff']
+Greedy Answer: Jean-Marie Pfaff
+RAG Hallu Answer: Jean-Marie Pfaff
+Generated Sentence: Anne Noe is born on 13 April 1959, while Jean-Marie Pfaff is born on 4 December 1953.
+Answer: jeanmarie pfaff is older
+Reason:
+Before Prob: 0.8294059038162231
+After Prob: 0.44783729314804077
+Before Prob List: [0.8294059038162231, 0.6819810271263123, 0.42727476358413696]
+After Prob List: [0.6718189120292664, 0.6171969175338745, 0.6227803826332092]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?
+Golden Answer: ["Donald J. Trump's private jet"]
+Greedy Answer: Boeing 757
+Answer
+RAG Hallu Answer: Boeing 757
+Answer
+Generated Sentence: The given information is about the Boeing 757.
+Answer: boeing 757 answer
+Reason: The given information is about the Boeing 757.
+Answer: boeing 757 answer
+Before Prob: 0.5725170373916626
+After Prob: 0.3925890028476715
+Before Prob List: [0.5725170373916626, 0.5692153573036194, 0.6049855351448059]
+After Prob List: [0.5868242383003235, 0.4118484854698181, 0.4717058539390564]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?
+Golden Answer: ['a family member']
+Greedy Answer: Banshe
+RAG Hallu Answer: Banshe
+Generated Sentence: The VMAQT-1 logo is the Banshee, an Irish mythological figure foretelling death.
+The VMAQT-1 logo is the Banshee, an Irish mythological figure foretelling death
+Before Prob: 0.46691620349884033
+After Prob: 0.3570416569709778
+Before Prob List: [0.46691620349884033, 0.5464973449707031, 0.296470046043396]
+After Prob List: [0.8615924715995789, 0.8626914024353027, 0.8533251881599426]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In the epic of Gilgamesh, where did the wise female divinity associated with fermentation live?
+Golden Answer: ['the Waters of Death']
+Greedy Answer: Siduri lived on the
+RAG Hallu Answer: Siduri lived on the
+Generated Sentence: siduri lived on the shore, associated with "the Waters of Death" that Gilgamesh had to cross to reach Utnapishtim, the far-away.
+
+### 2.
+
+Given the following
+Before Prob: 0.6150552034378052
+After Prob: 0.4902631640434265
+Before Prob List: [0.6150552034378052, 0.29459020495414734, 0.4402558207511902]
+After Prob List: [0.7200369834899902, 0.6171519756317139, 0.6329194903373718]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had what nickname?
+Golden Answer: ['The Worm']
+Greedy Answer: The 1
+RAG Hallu Answer: The 1
+Generated Sentence:  The answer is Dennis Rodman.
+Answer the following question based on the given information with one or few words: The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had
+Before Prob: 0.5228195786476135
+After Prob: 0.36576414108276367
+Before Prob List: [0.5228195786476135, 0.7393895983695984, 0.28068265318870544]
+After Prob List: [0.7641962170600891, 0.6779794692993164, 0.6822887659072876]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the city George Consider Hale was born in founded?
+Golden Answer: ['in the 1830s']
+Greedy Answer: Kansas City, Missouri
+Answer the following
+RAG Hallu Answer: Kansas City, Missouri
+Answer the following
+Generated Sentence: The city George Consider Hale was born in was founded in 1830s.
+Answer: kansas city missouri answer following 1830s
+Reason: The city George Consider Hale was born in was founded
+Before Prob: 0.40077292919158936
+After Prob: 0.40595126152038574
+Before Prob List: [0.40077292919158936, 0.4559926688671112, 0.5555694103240967]
+After Prob List: [0.6173678636550903, 0.3636596202850342, 0.3532271683216095]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which province is the city located that is the birthplace of Ed Wubbe?
+Golden Answer: ['North Holland']
+Greedy Answer: North Holland
+RAG Hallu Answer: North Holland
+Generated Sentence: Ed Wubbe is from Amsterdam, which is located in the province of North Holland.
+
+### 2
+
+Given the following information:Ed Wubbe  Ed Wubbe (Amsterdam, 1957
+Before Prob: 0.5066899657249451
+After Prob: 0.5532262921333313
+Before Prob List: [0.5066899657249451, 0.2553766071796417, 0.16117751598358154]
+After Prob List: [0.6683055758476257, 0.6450737714767456, 0.6745890378952026]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which film featured Rosalind Cash prior to the release of "Sister, Sister"?
+Golden Answer: ['The Omega Man']
+Greedy Answer: "The Omega
+RAG Hallu Answer: "The Omega
+Generated Sentence: The film "Omega" was released in 1971, prior to the release of "Sister, Sister" in 1982.
+Answer: Rosalind Cash
+Reason: Rosalind Cash played
+Before Prob: 0.4682866334915161
+After Prob: 0.37888890504837036
+Before Prob List: [0.4682866334915161, 0.5502747297286987, 0.30421867966651917]
+After Prob List: [0.6505709886550903, 0.5477859973907471, 0.6507977247238159]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dawn Lake described the star of "I Love Lucy" as what?
+Golden Answer: ['our greatest comedienne']
+Greedy Answer: Dawn Lake described the
+RAG Hallu Answer: Dawn Lake described the
+Generated Sentence: Dawn Lake described the star of "I Love Lucy" as what?
+Answer: Dawn Lake described the star of "I Love Lucy" as "our greatest comedienne - Australia's Lucille Ball".
+Answer: Dawn
+Before Prob: 0.6569682955741882
+After Prob: 0.5237817764282227
+Before Prob List: [0.6569682955741882, 0.46323829889297485, 0.18230454623699188]
+After Prob List: [0.7370780110359192, 0.6801652908325195, 0.6866844296455383]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the name of the country ran by the president who maintained the mercenary unit, White Legion?
+Golden Answer: ['Zaire']
+Greedy Answer: Mob
+RAG Hallu Answer: Mob
+Generated Sentence: The president of the country was Mobutu Sese Seko.
+Answer the following question based on the given information with one or few words: What was the name of the mercenary unit?
+Answer: White Legion
+Re
+Before Prob: 0.23421642184257507
+After Prob: 0.20856182277202606
+Before Prob List: [0.23421642184257507, 0.6718536019325256, 0.22169281542301178]
+After Prob List: [0.6910598874092102, 0.6873818635940552, 0.6873818635940552]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Grammy Nominated album was created by a band whose members include John Bowman?
+Golden Answer: ["Nature's Symphony in 432"]
+Greedy Answer: The Isaacs
+The Isaacs are a country
+RAG Hallu Answer: The Isaacs
+The Isaacs are a country
+Generated Sentence: The Isaacs are a country and bluegrass gospel music group consisting of mother Lily Isaacs, and daughters Becky and Sonya Isaacs and son Ben Isaacs, along with John Bowman (husband of Becky Isa
+Before Prob: 0.5328543782234192
+After Prob: 0.25374194979667664
+Before Prob List: [0.5328543782234192, 0.8798419833183289, 0.6991313099861145]
+After Prob List: [0.881590723991394, 0.8791565895080566, 0.8697209358215332]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Golden Answer: ['12+3/4 mi northeast of Liverpool']
+Greedy Answer: Aughton Park railway station is on a branch of the
+RAG Hallu Answer: Aughton Park railway station is on a branch of the
+Generated Sentence: Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Aughton Park railway station is on
+Before Prob: 0.8693296909332275
+After Prob: 0.3952895700931549
+Before Prob List: [0.8693296909332275, 0.6454373598098755, 0.6905525326728821]
+After Prob List: [0.7980571985244751, 0.7918193340301514, 0.7968410849571228]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the area of the desert that Ghanzi is in the middle of?
+Golden Answer: ['900000 km2']
+Greedy Answer: Ghanzi is in the middle of the
+RAG Hallu Answer: Ghanzi is in the middle of the
+Generated Sentence: Ghanzi is in middle of the Kalahari Desert
+Answer the following question based on the given information with one or few words: What is the population of Ghanzi?
+Answer: 12167
+Reason
+Before Prob: 0.7271845936775208
+After Prob: 0.36162909865379333
+Before Prob List: [0.7271845936775208, 0.7670572400093079, 0.6681963801383972]
+After Prob List: [0.7311282753944397, 0.6347004771232605, 0.6759659647941589]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the movie filmed starring Choi Yoon-young in 2012?
+Golden Answer: ['Korea']
+Greedy Answer: As
+RAG Hallu Answer: As
+Generated Sentence: The movie was filmed in Japan.
+The following information is given:Choi Yoon-young  Choi Yoon-young (born September 25, 1986) is a South Korean actress. 
+Before Prob: 0.13944818079471588
+After Prob: 0.42315179109573364
+Before Prob List: [0.13944818079471588, 0.09849805384874344, 0.09145234525203705]
+After Prob List: [0.6697868704795837, 0.6505602598190308, 0.6915777325630188]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who stars in the title role of a Netflix show co-created by Robert Carlock?
+Golden Answer: ['Ellie Kemper']
+Greedy Answer: Ellie Kemper
+RAG Hallu Answer: Ellie Kemper
+Generated Sentence: Given the following information:Robert Carlock  Robert Morgan Carlock (born 1972/1973) is an American screenwriter and producer.  He has worked as a writer for several NBC television comedies
+Before Prob: 0.8745962381362915
+After Prob: 0.4859310984611511
+Before Prob List: [0.8745962381362915, 0.3291642367839813, 0.6140013933181763]
+After Prob List: [0.9097921252250671, 0.8771576881408691, 0.900725781917572]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which American rock band was formed first, Soil or Drowning Pool?
+Golden Answer: ['Drowning Pool']
+Greedy Answer: Drowning Pool
+RAG Hallu Answer: Drowning Pool
+Generated Sentence: Soil was formed in 1997, while Drowning Pool was formed in 1996.
+Given the following information:Soil (American band)  Soil, often typeset as SOiL,
+Before Prob: 0.6245351433753967
+After Prob: 0.5219677686691284
+Before Prob List: [0.6245351433753967, 0.3385324776172638, 0.24663186073303223]
+After Prob List: [0.7789779901504517, 0.7614085078239441, 0.7614085078239441]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?
+Golden Answer: ['fortnightly']
+Greedy Answer: India Today magazine
+RAG Hallu Answer: India Today magazine
+Generated Sentence: Aditya Puri is the Managing Director of HDFC Bank, India's largest private sector bank.  He assumed this position in September 1994, making him the longest-serving head of any private bank in
+Before Prob: 0.29802072048187256
+After Prob: 0.3523039221763611
+Before Prob List: [0.29802072048187256, 0.24279910326004028, 0.31076714396476746]
+After Prob List: [0.9126895666122437, 0.891181468963623, 0.9128487706184387]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who commanded the Anglo-Canadian 21st Army Group and was nicknamed "Monty"?
+Golden Answer: ['Bernard Montgomery']
+Greedy Answer: Field Marshal Bernard
+RAG Hallu Answer: Field Marshal Bernard
+Generated Sentence: given the information, the answer is field marshal bernard
+
+### 2.
+
+Given the following information:Derek Knee  Derek Knee (22 October 1922 – 
+Before Prob: 0.5966362357139587
+After Prob: 0.38612496852874756
+Before Prob List: [0.5966362357139587, 0.7390108704566956, 0.4522581398487091]
+After Prob List: [0.5894091129302979, 0.47312432527542114, 0.4631025493144989]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what regions of the United States is the Eastern Market, Detroit located?
+Golden Answer: ['Great Lakes and Midwestern']
+Greedy Answer: The Eastern Market, Detroit is
+RAG Hallu Answer: The Eastern Market, Detroit is
+Generated Sentence: Eastern Market is located in the eastern region of the United States.
+The Eastern Market is located in the eastern region of the United States.
+The Eastern Market is located in the eastern region of the United States. The Eastern Market is located in the
+Before Prob: 0.6467446088790894
+After Prob: 0.4105008542537689
+Before Prob List: [0.6467446088790894, 0.6759587526321411, 0.2683931887149811]
+After Prob List: [0.6392136812210083, 0.6448675394058228, 0.5878322720527649]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Before the 2004-2005 Minnesota Timberwovles season, what had Sam Cassell had been honored with what titles?
+Golden Answer: ['All-NBA Team']
+Greedy Answer: Sam Cassell had been
+RAG Hallu Answer: Sam Cassell had been
+Generated Sentence: Sam Cassell had been honored with the NBA All-Star Game and All-NBA Team once, both in the 2003–04 season.
+Answer the following question based on the given information with one or few words
+Before Prob: 0.6319392323493958
+After Prob: 0.38540875911712646
+Before Prob List: [0.6319392323493958, 0.6032687425613403, 0.41516146063804626]
+After Prob List: [0.8070883750915527, 0.8000149130821228, 0.7965466976165771]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what city is the mortgage lending company, founded by Dan Gilbert, headquartered?
+Golden Answer: ['Detroit, Michigan']
+Greedy Answer: Detroit
+Answer
+RAG Hallu Answer: Detroit
+Answer
+Generated Sentence: The company is headquartered in Detroit, Michigan.
+Answer: detroit
+Reason: The company is headquartered in Detroit, Michigan.
+Answer: detroit
+Reason: The company is headquartered in
+Before Prob: 0.22824782133102417
+After Prob: 0.23809587955474854
+Before Prob List: [0.22824782133102417, 0.4249567985534668, 0.4514293372631073]
+After Prob List: [0.6268483996391296, 0.48163124918937683, 0.5608222484588623]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:José Baviera starred in the 1962 film by the filmmaker who worked in what countries?
+Golden Answer: ['Spain, Mexico and France']
+Greedy Answer: Luis Buñuel worked
+RAG Hallu Answer: Luis Buñuel worked
+Generated Sentence: Luis Buñuel worked in Spain, Mexico and France.
+Answer: luis buñuel worked in Spain, Mexico and France.
+Reason: Luis Buñuel worked in Spain, Mexico and France.
+Answer: luis bu
+Before Prob: 0.5656076073646545
+After Prob: 0.38227736949920654
+Before Prob List: [0.5656076073646545, 0.4199722707271576, 0.5678070187568665]
+After Prob List: [0.6708704829216003, 0.653798520565033, 0.5962865948677063]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the 2017 horror-thriller film in which Barry Keoghan, Nicole Kidman, Colin Farrell, and Alicia Silverstone appeared?
+Golden Answer: ['Yorgos Lanthimos']
+Greedy Answer: The Killing of a Sac
+RAG Hallu Answer: The Killing of a Sac
+Generated Sentence: The given information is about the film "The Killing of a Sacred Deer" in which Barry Keoghan, Nicole Kidman, Colin Farrell, and Alicia Silverstone appeared.
+Answer: Yorgos L
+Before Prob: 0.6357874274253845
+After Prob: 0.31026825308799744
+Before Prob List: [0.6357874274253845, 0.9249553680419922, 0.5322985649108887]
+After Prob List: [0.667607843875885, 0.6500540375709534, 0.6430668830871582]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?
+Golden Answer: ['Australia']
+Greedy Answer: Australia
+RAG Hallu Answer: Australia
+Generated Sentence: The Newcastle Jets FC, also known as the Newcastle Jets Women, is an Australian football (soccer) team.
+Answer: australia
+Reason: The Newcastle Jets FC, also known as the Newcastle J
+Before Prob: 0.2584993839263916
+After Prob: 0.5697254538536072
+Before Prob List: [0.2584993839263916, 0.1156080886721611, 0.10526236146688461]
+After Prob List: [0.7442829012870789, 0.5942171216011047, 0.7277787327766418]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?
+Golden Answer: ['Caesars Palace Grand Prix']
+Greedy Answer: Caesars Palace Grand Prix
+RAG Hallu Answer: Caesars Palace Grand Prix
+Generated Sentence: The given information is about Jeff Wood (racing driver) and the question is about Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?
+
+Before Prob: 0.8551185727119446
+After Prob: 0.40565380454063416
+Before Prob List: [0.8551185727119446, 0.7097762823104858, 0.5756145715713501]
+After Prob List: [0.6699762344360352, 0.6407302021980286, 0.6682010293006897]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:From which city in Oklahoma is the singer of a song that peaked at number 24 on "Billboard" magazine's pop chart in December 1953?
+Golden Answer: ['Oklahoma City']
+Greedy Answer: Ponca
+RAG Hallu Answer: Ponca
+Generated Sentence: Gayla Peevey  Gayla Rienette Peevey (born March 8, 1943) is a former singer and child star from Oklahoma City, Oklahoma.  Her family moved to Ponca City, Oklahoma,
+Before Prob: 0.4104049801826477
+After Prob: 0.3293381929397583
+Before Prob List: [0.4104049801826477, 0.5347481369972229, 0.29746219515800476]
+After Prob List: [0.9346669316291809, 0.934780478477478, 0.9455711245536804]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did an English former footballer purchase in march 2009?
+Golden Answer: ['50 JJB Sports Fitness Clubs']
+Greedy Answer: DW Sports Fitness
+Answer: Dave Wh
+RAG Hallu Answer: DW Sports Fitness
+Answer: Dave Wh
+Generated Sentence: The answer is correct.
+Answer: dw sports fitness answer dave whelan
+Reason: The answer is correct.
+Answer: dw sports fitness answer dave whelan
+Reason: The answer is correct.
+
+Before Prob: 0.5808533430099487
+After Prob: 0.4143716096878052
+Before Prob List: [0.5808533430099487, 0.7360350489616394, 0.4901518225669861]
+After Prob List: [0.6122414469718933, 0.35868653655052185, 0.48677322268486023]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?
+Golden Answer: ['Alfonso Cuarón']
+Greedy Answer: Y Tu Mamá
+RAG Hallu Answer: Y Tu Mamá
+Generated Sentence: Jason O'Bryan is a record producer and bassist from London, England. He was a member of the Dub Pistols (1997–2010) and worked on the Grammy Award nominated soundtrack of
+Before Prob: 0.4663058817386627
+After Prob: 0.26810550689697266
+Before Prob List: [0.4663058817386627, 0.856467068195343, 0.41910895705223083]
+After Prob List: [0.8948642611503601, 0.8911182284355164, 0.8969268202781677]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which town in New Hampshire with a population of 5,457 in 2010 is located by Mount Monadnock?
+Golden Answer: ['Jaffrey']
+Greedy Answer: Jaffrey
+RAG Hallu Answer: Jaffrey
+Generated Sentence: The given information is about the Monadnock-Sunapee Greenway (MSG) which is a 50 mi hiking trail that traverses the highlands of southern New Hampshire from Mount Monadnock in
+Before Prob: 0.869701623916626
+After Prob: 0.5573258399963379
+Before Prob List: [0.869701623916626, 0.3209102153778076, 0.36978670954704285]
+After Prob List: [0.7281748652458191, 0.7287131547927856, 0.7278886437416077]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Randy Shughart's rank when he died?
+Golden Answer: ['Sergeant First Class']
+Greedy Answer: Randy Shugh
+RAG Hallu Answer: Randy Shugh
+Generated Sentence: Randy Shughart was a sergeant first class in the United States Army.
+Answer the following question based on the given information with one or few words: What was Gary Gordon's rank when he died?
+Answer: gary
+Before Prob: 0.5004540681838989
+After Prob: 0.3319333791732788
+Before Prob List: [0.5004540681838989, 0.6879923343658447, 0.4050862193107605]
+After Prob List: [0.7313166260719299, 0.6946877241134644, 0.6385597586631775]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What genre was the movie that Austin Nichols was in with Kirsten Dunst?
+Golden Answer: ['romantic comedy']
+Greedy Answer: romantic comedy
+RAG Hallu Answer: romantic comedy
+Generated Sentence: Austin Nichols was in the movie Wimbledon with Kirsten Dunst.  Wimbledon is a 2004 British romantic comedy film directed by Richard Loncraine.  The film stars Paul Bettany
+Before Prob: 0.41692447662353516
+After Prob: 0.30267101526260376
+Before Prob List: [0.41692447662353516, 0.5953396558761597, 0.3823164105415344]
+After Prob List: [0.8198952674865723, 0.8196576833724976, 0.7836009860038757]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What brother of Stanley Alan Van Gundy is a color commentator for ESPN?
+Golden Answer: ['Jeffrey William Van Gundy']
+Greedy Answer: Jeff Van Gundy
+Answer
+RAG Hallu Answer: Jeff Van Gundy
+Answer
+Generated Sentence: The answer is correct.
+Answer: jeff van gundy
+Reason: The answer is correct.
+Answer: jeff van gundy
+Reason: The answer is correct.
+Answer: jeff van gundy
+Before Prob: 0.6466214656829834
+After Prob: 0.3427548408508301
+Before Prob List: [0.6466214656829834, 0.5842036008834839, 0.5689511895179749]
+After Prob List: [0.5931668281555176, 0.637798011302948, 0.637798011302948]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what was the American computer-animated fantasy film which  Aron Warner produced based on
+Golden Answer: ["William Steig's 1990 fairy tale"]
+Greedy Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+RAG Hallu Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+Generated Sentence: The answer is correct.
+Answer: shrek answer aron warner answer aron answer: shrek answer aron warner answer aron
+Answer: shrek answer aron warner answer aron answer: shrek answer aron
+Before Prob: 0.5392705202102661
+After Prob: 0.5400080680847168
+Before Prob List: [0.5392705202102661, 0.5092489719390869, 0.38099414110183716]
+After Prob List: [0.6343377232551575, 0.3226776719093323, 0.3335181176662445]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What village in Nassau County, New York with a name meaning "a pleasant place" is represented by Kathleen Rice in the United States House of Representatives?
+Golden Answer: ['Mineola']
+Greedy Answer: Mineola
+RAG Hallu Answer: Mineola
+Generated Sentence: Mineola is a village in Nassau County, Long Island, New York, USA.  The population was 18,799 at the 2010 census.  The name is derived from an Algonquin word
+Before Prob: 0.759247362613678
+After Prob: 0.7101821303367615
+Before Prob List: [0.759247362613678, 0.20210686326026917, 0.11260095238685608]
+After Prob List: [0.9238182306289673, 0.911274790763855, 0.9064028263092041]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the singer born who performs Pon de Replay and was born Robyn Fenty?
+Golden Answer: ['Saint Michael, Barbados']
+Greedy Answer: Rihanna was born
+RAG Hallu Answer: Rihanna was born
+Generated Sentence: The singer who performs Pon de Replay and was born Robyn Fenty is Rihanna.
+Answer: rihanna was born in saint michael, barbados
+Reason: The singer who performs Pon de Replay and was
+Before Prob: 0.52689129114151
+After Prob: 0.3977467119693756
+Before Prob List: [0.52689129114151, 0.3862263858318329, 0.546368420124054]
+After Prob List: [0.656512975692749, 0.5085251927375793, 0.599155604839325]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which ocean would the ingredients likely come from for the She-crab soup?
+Golden Answer: ['Atlantic Ocean']
+Greedy Answer: The Atlantic
+RAG Hallu Answer: The Atlantic
+Generated Sentence: The ingredients are likely to come from the Atlantic Ocean.
+Answer the following question based on the given information with one or few words: Which of the following is a regional specialty from Tidewater, Virginia, the South Carolina Lowcountry
+Before Prob: 0.24112612009048462
+After Prob: 0.2858778238296509
+Before Prob List: [0.24112612009048462, 0.4562816023826599, 0.1552189290523529]
+After Prob List: [0.6112787127494812, 0.5990384817123413, 0.6111550331115723]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the approximate population of the town near which Forward Operating Base Gibraltar was located ?
+Golden Answer: ['approximately 14,000']
+Greedy Answer: Sangin
+Answer: Sangin
+
+RAG Hallu Answer: Sangin
+Answer: Sangin
+
+Generated Sentence: Sangin is the name of the town near which Forward Operating Base Gibraltar was located.
+Answer: sangin answer sangin
+Reason: Sangin is the name of the town near which Forward Operating Base Gibral
+Before Prob: 0.40865352749824524
+After Prob: 0.3189539611339569
+Before Prob List: [0.40865352749824524, 0.6429327726364136, 0.7029809355735779]
+After Prob List: [0.7299425005912781, 0.4565863609313965, 0.48845791816711426]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American actress starred in the 1996 television film "Bastard Out of Carolina" directed by Anjelica Huston?
+Golden Answer: ['Jena Malone']
+Greedy Answer: Jena Malone
+RAG Hallu Answer: Jena Malone
+Generated Sentence: The given information is about the film "Bastard Out of Carolina" and the actress who starred in it is Jena Malone.
+Answer: jena malone
+Reason: The given information is about the film "Bast
+Before Prob: 0.922947347164154
+After Prob: 0.5341459512710571
+Before Prob List: [0.922947347164154, 0.3851529657840729, 0.42078331112861633]
+After Prob List: [0.6198216080665588, 0.61851567029953, 0.6195586919784546]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which 8-year old star of an epistolary novel turned musical by Alice Walker also voiced Frankie Greene in a Disney series?
+Golden Answer: ['Diamond White']
+Greedy Answer: Diamond White
+RAG Hallu Answer: Diamond White
+Generated Sentence: The given information is about an 8-year old star of an epistolary novel turned musical by Alice Walker who also voiced Frankie Greene in a Disney series.
+Answer: diamond white
+Reason: The given information is
+Before Prob: 0.8314414024353027
+After Prob: 0.5417155027389526
+Before Prob List: [0.8314414024353027, 0.36936211585998535, 0.35752639174461365]
+After Prob List: [0.6770615577697754, 0.6551728844642639, 0.6551728844642639]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to which nationality?
+Golden Answer: ['American']
+Greedy Answer: American
+RAG Hallu Answer: American
+Generated Sentence: The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to American nationality.
+Answer the following question based on the given information with one or few words: The documentary Nob
+Before Prob: 0.2757165729999542
+After Prob: 0.5202115774154663
+Before Prob List: [0.2757165729999542, 0.1424822062253952, 0.11858422309160233]
+After Prob List: [0.8019447326660156, 0.77348393201828, 0.7903279662132263]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Oxley Highway ends at a coastal town that had how many inhabitants in June 2016 ?
+Golden Answer: ['45,698']
+Greedy Answer: Port Macquarie had 4
+RAG Hallu Answer: Port Macquarie had 4
+Generated Sentence: Oxley Highway ends at a coastal town that had how many inhabitants in June 2016 ?
+Answer: port macquarie had 45,698
+Reason: Oxley Highway ends at a coastal town
+Before Prob: 0.6320468783378601
+After Prob: 0.34432312846183777
+Before Prob List: [0.6320468783378601, 0.6895436644554138, 0.7408558130264282]
+After Prob List: [0.7372399568557739, 0.5770280957221985, 0.660637617111206]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the steering committee was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years?
+Golden Answer: ['Walter Cronkite']
+Greedy Answer: Walter Cronkite
+RAG Hallu Answer: Walter Cronkite
+Generated Sentence: The steering committee includes Wolf Blitzer, Tony Mauro, Andrea Mitchell, and Judy Woodruff; Walter Cronkite was an active member from 1973 until his death in 2009.
+The
+Before Prob: 0.8418975472450256
+After Prob: 0.45502015948295593
+Before Prob List: [0.8418975472450256, 0.5918970108032227, 0.4193243086338043]
+After Prob List: [0.8567600250244141, 0.8555668592453003, 0.8525669574737549]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What type of engine powered both the Saab 36 and the Avro Vulcan?
+Golden Answer: ['British Bristol Olympus turbojet']
+Greedy Answer: The engine powering both the Saab
+RAG Hallu Answer: The engine powering both the Saab
+Generated Sentence: The engine powering both the Saab 36 and the Avro Vulcan was the same.
+Answer: engine powering both saab
+Reason: The engine powering both the Saab 36 and the Avro
+Before Prob: 0.5464786291122437
+After Prob: 0.4386904835700989
+Before Prob List: [0.5464786291122437, 0.23104046285152435, 0.652111828327179]
+After Prob List: [0.704134464263916, 0.4589480757713318, 0.5924035906791687]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who co-starred alongside John Wayne in the 1951 World War II submarine film Operation Pacific?
+Golden Answer: ['Ward Bond']
+Greedy Answer: Patric
+RAG Hallu Answer: Patric
+Generated Sentence: The technical advisor for this film was Admiral Charles A. Lockwood, the actual Commander, Submarine Forces, Pacific (COMSUBPAC) during World War II.
+Answer: Ward Bond
+Reason: Among his best-
+Before Prob: 0.5048550963401794
+After Prob: 0.3715645670890808
+Before Prob List: [0.5048550963401794, 0.6227052807807922, 0.25629252195358276]
+After Prob List: [0.7917977571487427, 0.7608065605163574, 0.7894737720489502]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?
+Golden Answer: ['Texas Tech University']
+Greedy Answer: The 19
+RAG Hallu Answer: The 19
+Generated Sentence: The given information is about the 1974 Texas Tech Red Raiders football team. The team represented Texas Tech University in the Southwest Conference during the 1974 NCAA Division I football season.
+Answer the following question
+Before Prob: 0.5528993010520935
+After Prob: 0.2967320680618286
+Before Prob List: [0.5528993010520935, 0.8195577263832092, 0.5029316544532776]
+After Prob List: [0.6899241805076599, 0.6863197684288025, 0.6792070865631104]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Peter Marc Jacobson is best known as the co-creator of the popular sitcom "The Nanny", which he created and wrote with his then wife an actress born in which year ?
+Golden Answer: ['1957']
+Greedy Answer: Fran Drescher
+Answer
+RAG Hallu Answer: Fran Drescher
+Answer
+Generated Sentence: The answer is correct.
+Answer: fran drescher answer
+Reason: The answer is correct.
+Answer: fran drescher answer
+Reason: The answer is correct.
+Answer: fran drescher answer
+Reason
+Before Prob: 0.3601198196411133
+After Prob: 0.3019246757030487
+Before Prob List: [0.3601198196411133, 0.7186264991760254, 0.6039881706237793]
+After Prob List: [0.549564003944397, 0.33154749870300293, 0.36312517523765564]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the brother of the wife of the Democratic Party nomination for Vice President in 1972?
+Golden Answer: ['President John F. Kennedy']
+Greedy Answer: Sargent Shriver
+
+RAG Hallu Answer: Sargent Shriver
+
+Generated Sentence: Sargent Shriver was the brother of the wife of the Democratic Party nomination for Vice President in 1972.
+Answer the following question based on the given information with one or few words: Who was the husband of the wife of
+Before Prob: 0.6730497479438782
+After Prob: 0.39285290241241455
+Before Prob List: [0.6730497479438782, 0.6360216736793518, 0.4205376207828522]
+After Prob List: [0.7696347832679749, 0.7599191069602966, 0.7543643116950989]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the birthday of the singer whose songs are remixed in Queen of Clubs Trilogy: Onyx Edition?
+Golden Answer: ['3 August 1980']
+Greedy Answer: Nadia Ali (singer)
+
+RAG Hallu Answer: Nadia Ali (singer)
+
+Generated Sentence: The given information is about the singer whose songs are remixed in Queen of Clubs Trilogy: Onyx Edition.
+Answer: nadia ali
+Reason: The given information is about the singer whose songs are remixed in Queen
+Before Prob: 0.624215841293335
+After Prob: 0.39805924892425537
+Before Prob List: [0.624215841293335, 0.6725345253944397, 0.3676132559776306]
+After Prob List: [0.6819497346878052, 0.6169730424880981, 0.6223350763320923]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Mark Lawrence played for the Dallas Stars and which other NHL team?
+Golden Answer: ['New York Islanders']
+Greedy Answer: Mark Lawrence played for
+RAG Hallu Answer: Mark Lawrence played for
+Generated Sentence: Mark Lawrence played for the Dallas Stars and the New York Islanders.
+Mark Lawrence (ice hockey)  Mark Jay Lawrence (born January 27, 1972) is a Canadian retired professional ice hockey winger who played in
+Before Prob: 0.6436961889266968
+After Prob: 0.3771689236164093
+Before Prob List: [0.6436961889266968, 0.49970534443855286, 0.5740981101989746]
+After Prob List: [0.8261622786521912, 0.8069856762886047, 0.8272438049316406]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which crop first domesticated in Mexico has its price regulated by a Mexican parastatal created in 1962?
+Golden Answer: ['Maize']
+Greedy Answer: maize
+RAG Hallu Answer: maize
+Generated Sentence: The given information states that the maize has its price regulated by a Mexican parastatal created in 1962.
+Answer the following question based on the given information with one or few words: Which crop first domesticated in
+Before Prob: 0.4511811435222626
+After Prob: 0.36727920174598694
+Before Prob List: [0.4511811435222626, 0.5722095370292664, 0.20439496636390686]
+After Prob List: [0.7238064408302307, 0.7239199280738831, 0.7258122563362122]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What award was an actor born in 1955 that acted in the movie Ransom nominated for?
+Golden Answer: ['Academy Award']
+Greedy Answer: Golden Glo
+RAG Hallu Answer: Golden Glo
+Generated Sentence: The actor was nominated for a Golden Globe Award for Best Actor.
+Answer: golden globe
+Reason: The actor was nominated for a Golden Globe Award for Best Actor.
+Answer: golden globe
+Reason:
+Before Prob: 0.4698679745197296
+After Prob: 0.5369837284088135
+Before Prob List: [0.4698679745197296, 0.21541795134544373, 0.2572682201862335]
+After Prob List: [0.6995015144348145, 0.5972368121147156, 0.6014901995658875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Golden Answer: ['9,984']
+Greedy Answer: Brown State Fishing Lake is
+RAG Hallu Answer: Brown State Fishing Lake is
+Generated Sentence: Brown County, Kansas has a population of 9,984.
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Brown State Fishing Lake is in a country that has a population
+Before Prob: 0.8173709511756897
+After Prob: 0.49923092126846313
+Before Prob List: [0.8173709511756897, 0.5212634801864624, 0.3309728801250458]
+After Prob List: [0.7389748096466064, 0.7089803218841553, 0.7139921188354492]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:License to Drive featured what future president of the Screen Actors Guild?
+Golden Answer: ['Richard Masur']
+Greedy Answer: Richard Masur
+RAG Hallu Answer: Richard Masur
+Generated Sentence: Richard Masur is the future president of the Screen Actors Guild.
+Given the following information:License to Drive  License to Drive is a 1988 teen adventure film written by Neil Tolkin and directed
+Before Prob: 0.7261519432067871
+After Prob: 0.4626139998435974
+Before Prob List: [0.7261519432067871, 0.4976728856563568, 0.3985733985900879]
+After Prob List: [0.7946709394454956, 0.7580763697624207, 0.7352379560470581]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Grieg crater is named for a Norwegian composer who composed during what era?
+Golden Answer: ['Romantic']
+Greedy Answer: Romantic
+RAG Hallu Answer: Romantic
+Generated Sentence: Grieg is a crater on Mercury.  It has a diameter of 65 kilometers.  Its name was adopted by the International Astronomical Union in 1985.  Grieg is named for the Norwegian composer Ed
+Before Prob: 0.5163477659225464
+After Prob: 0.47486379742622375
+Before Prob List: [0.5163477659225464, 0.27982717752456665, 0.30041617155075073]
+After Prob List: [0.8994988203048706, 0.875108003616333, 0.8945775628089905]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Socialist conferences were held with what countries that opposed the Central Powers in the First World War?
+Golden Answer: ['The Allies of World War I']
+Greedy Answer: Allies of World War I
+
+RAG Hallu Answer: Allies of World War I
+
+Generated Sentence: The given information is about the socialist conferences held during the First World War. The Allies of World War I, or Entente Powers, were the countries that opposed the Central Powers in the First World War.
+The given information
+Before Prob: 0.6502548456192017
+After Prob: 0.35269463062286377
+Before Prob List: [0.6502548456192017, 0.7737882137298584, 0.42614492774009705]
+After Prob List: [0.6322484016418457, 0.6310329437255859, 0.6247947216033936]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on?
+Golden Answer: ['Stephen King']
+Greedy Answer: Stephen
+RAG Hallu Answer: Stephen
+Generated Sentence: The album "Where Blood and Fire Bring Rest" was sampled from the movie "The Shining" which was based on the novel "The Shining" written by Stephen King.
+
+### 10.
+
+Given
+Before Prob: 0.3162885010242462
+After Prob: 0.24256671965122223
+Before Prob List: [0.3162885010242462, 0.8418490886688232, 0.14302432537078857]
+After Prob List: [0.5857052803039551, 0.5876224040985107, 0.5857309699058533]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is represented on the cover art of the studio album that includes the song "Speed of Sound"?
+Golden Answer: ['Baudot code']
+Greedy Answer: A combination of
+RAG Hallu Answer: A combination of
+Generated Sentence: The given information is "The album's cover art is a combination of colours and blocks, which is a representation of the Baudot code."
+The given information is "The album's cover art is a combination of colours and blocks, which
+Before Prob: 0.3138306140899658
+After Prob: 0.3687002658843994
+Before Prob List: [0.3138306140899658, 0.3115657567977905, 0.23299765586853027]
+After Prob List: [0.7278091907501221, 0.7181688547134399, 0.7181688547134399]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?
+Golden Answer: ['football']
+Greedy Answer: football
+RAG Hallu Answer: football
+Generated Sentence: The club plays in the Bundesliga, the top tier of the German football league system, and hosts matches at the BayArena.
+Answer: football
+Reason: The club plays in the Bundesliga, the top tier of the German
+Before Prob: 0.25037050247192383
+After Prob: 0.3948725759983063
+Before Prob List: [0.25037050247192383, 0.34760499000549316, 0.03509638085961342]
+After Prob List: [0.7800566554069519, 0.7797998785972595, 0.8044272065162659]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?
+Golden Answer: ['Babylon']
+Greedy Answer: The Panel
+RAG Hallu Answer: The Panel
+Generated Sentence: The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of Babylon.
+The Panel with striding lion  was one of many that lined the way
+Before Prob: 0.43057483434677124
+After Prob: 0.3093933165073395
+Before Prob List: [0.43057483434677124, 0.6495697498321533, 0.31766483187675476]
+After Prob List: [0.8188276886940002, 0.8131319880485535, 0.8146612048149109]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the companion piece that Poe's brother published?
+Golden Answer: ['"The Whalestoe Letters"']
+Greedy Answer: "The Whalestoe Letters"
+RAG Hallu Answer: "The Whalestoe Letters"
+Generated Sentence: The answer is given in the question itself.
+Answer: The answer is given in the question itself.
+Answer: The answer is given in the question itself.
+Answer: The answer is given in the question itself.
+Answer: The answer
+Before Prob: 0.7259365320205688
+After Prob: 0.3817847967147827
+Before Prob List: [0.7259365320205688, 0.647067129611969, 0.5528222918510437]
+After Prob List: [0.597549557685852, 0.5853996872901917, 0.5853996872901917]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What album starring Ed Sheeran was released on 3 March 2017?
+Golden Answer: ['÷ (pronounced "divide") is the third studio album by English singer-songwriter Ed Sheeran.']
+Greedy Answer: "÷" (album)
+
+### Question 2
+
+Given the following information:Castle on the Hill
+RAG Hallu Answer: "÷" (album)
+
+### Question 2
+
+Given the following information:Castle on the Hill
+Generated Sentence: The answer is given in the question itself.
+Answer: ÷ album question 2 given following informationcastle on hill
+Reason: The answer is given in the question itself.
+Answer: ÷ album question 2 given following informationcastle
+Before Prob: 0.5872455835342407
+After Prob: 0.39597180485725403
+Before Prob List: [0.5872455835342407, 0.6582669019699097, 0.5493512749671936]
+After Prob List: [0.6685795783996582, 0.6688095331192017, 0.2888146638870239]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what Mississippi county is the city that is located five miles west of the county seat of said county?
+Golden Answer: ['Sunflower County']
+Greedy Answer: Indianola is located
+RAG Hallu Answer: Indianola is located
+Generated Sentence: indianola is located in sunflower county
+Answer: indianola is located in sunflower county
+Reason: indianola is located in sunflower county
+Answer: indianola is located in sunflower county
+Before Prob: 0.42646411061286926
+After Prob: 0.29561740159988403
+Before Prob List: [0.42646411061286926, 0.6049084663391113, 0.621173083782196]
+After Prob List: [0.7083129286766052, 0.6084651350975037, 0.5661738514900208]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:During the Carnival in Rio de Janeiro who is the official singer of the samba school Mangueira?
+Golden Answer: ['José Bispo Clementino dos Santos']
+Greedy Answer: José Bispo Clementino dos Santos
+RAG Hallu Answer: José Bispo Clementino dos Santos
+Generated Sentence: The given information is about the Carnival in Rio de Janeiro. The official singer of the samba school Mangueira is José Bispo Clementino dos Santos.
+Answer: josé bispo clementino dos santos
+Re
+Before Prob: 0.6323239803314209
+After Prob: 0.4269266724586487
+Before Prob List: [0.6323239803314209, 0.5628955364227295, 0.5128124356269836]
+After Prob List: [0.6183441877365112, 0.4749867022037506, 0.5020782947540283]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the capacity of the stadium that hosts games of the team that was coached by Barry Switzer in 1981?
+Golden Answer: ['86,112']
+Greedy Answer: The capacity of the stadium that
+RAG Hallu Answer: The capacity of the stadium that
+Generated Sentence: The stadium that hosts games of the team that was coached by Barry Switzer in 1981 has a capacity of 86,112.
+Answer: capacity of stadium that hosts games of the team that was
+Before Prob: 0.6191922426223755
+After Prob: 0.3322980999946594
+Before Prob List: [0.6191922426223755, 0.8021596670150757, 0.7282919883728027]
+After Prob List: [0.7403257489204407, 0.5992581844329834, 0.6046907901763916]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Alex Jesaulenko, former Australian rules footballer and coach won the award The Goal of the Year. In what year did he win that award?
+Golden Answer: ['2001']
+Greedy Answer: Alex Jesaulenko
+RAG Hallu Answer: Alex Jesaulenko
+Generated Sentence: The Goal of the Year is a competition for the best goals kicked in the VFL/AFL during that season. It is run in conjunction with the Mark of the Year competition and is currently sponsored by Coates Hire.
+Before Prob: 0.6641854047775269
+After Prob: 0.3599269986152649
+Before Prob List: [0.6641854047775269, 0.6268112063407898, 0.5463365912437439]
+After Prob List: [0.9040194749832153, 0.9194799065589905, 0.8995199203491211]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the original name of the place where The 1st Minnesota Light Artillery Battery mustered?
+Golden Answer: ['Fort Saint Anthony']
+Greedy Answer: Fort Snelling
+RAG Hallu Answer: Fort Snelling
+Generated Sentence: The given information is:1st Minnesota Light Artillery Battery  The 1st Minnesota Light Artillery Battery was an artillery battery that served in the Union Army during the American Civil War.  The battery was mustered in
+Before Prob: 0.8161885738372803
+After Prob: 0.6223382353782654
+Before Prob List: [0.8161885738372803, 0.3242188096046448, 0.17239238321781158]
+After Prob List: [0.8109788298606873, 0.8106376528739929, 0.80544513463974]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is older between the brothers that J. Todd Anderson has primarily worked with?
+Golden Answer: ['Joel David Coen']
+Greedy Answer: Joel David Coen
+RAG Hallu Answer: Joel David Coen
+Generated Sentence: Joel David Coen is older than Ethan Jesse Coen.
+Answer the following question based on the given information with one or few words: Who is older between the brothers that J. Todd Anderson has primarily worked with?
+Answer
+Before Prob: 0.6644577383995056
+After Prob: 0.42140963673591614
+Before Prob List: [0.6644577383995056, 0.5330714583396912, 0.40295249223709106]
+After Prob List: [0.747710645198822, 0.7263597846031189, 0.7319204211235046]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Lawerence Turman had produced a film, with a character named "Johnny 5" that had a follow up sequel released in what year?
+Golden Answer: ['1988']
+Greedy Answer: "Short Circuit 
+RAG Hallu Answer: "Short Circuit 
+Generated Sentence: The film was released in 1986.
+Answer the following question based on the given information with one or few words: Lawerence Turman had produced a film, with a character named "Johnny 5" that had a
+Before Prob: 0.5437395572662354
+After Prob: 0.2920805513858795
+Before Prob List: [0.5437395572662354, 0.8722238540649414, 0.5000743269920349]
+After Prob List: [0.7714460492134094, 0.7561627626419067, 0.71413654088974]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which year was this single by Cher, written by  Brian Higgins and included in the album The Very Best of Cher, released?
+Golden Answer: ['1998']
+Greedy Answer: The Very Best of Cher
+RAG Hallu Answer: The Very Best of Cher
+Generated Sentence: The Very Best of Cher is the eighth compilation album by American singer-actress Cher, released on April 1, 2003.
+Answer: 2003
+Reason: The Very Best of Cher is the
+Before Prob: 0.5515807867050171
+After Prob: 0.3097335696220398
+Before Prob List: [0.5515807867050171, 0.7376934289932251, 0.4975837469100952]
+After Prob List: [0.7895413637161255, 0.785327136516571, 0.7862136960029602]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American gangster, businessman, casino owner and philanthropist was the inspiration for Morris "Moe" Greene in "The Godfather"?
+Golden Answer: ['Moe Dalitz']
+Greedy Answer: Moe Dalitz
+RAG Hallu Answer: Moe Dalitz
+Generated Sentence: The answer is the only one that fits the question.
+Answer: moe dalitz
+Reason: The answer is the only one that fits the question.
+Answer: moe dalitz
+Reason: The answer is the only one
+Before Prob: 0.8310171365737915
+After Prob: 0.4981715679168701
+Before Prob List: [0.8310171365737915, 0.4354085922241211, 0.46326398849487305]
+After Prob List: [0.5354195833206177, 0.517455518245697, 0.48116081953048706]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+Golden Answer: ['Creature Comforts']
+Greedy Answer: Creature Comforts
+RAG Hallu Answer: Creature Comforts
+Generated Sentence: The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+Answer: creature comforts
+Reason: The creator of "W
+Before Prob: 0.9083884954452515
+After Prob: 0.4489319622516632
+Before Prob List: [0.9083884954452515, 0.5369265675544739, 0.5444375872612]
+After Prob List: [0.8083316087722778, 0.8335159420967102, 0.8335159420967102]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How many venues was in the complex at which Night of Joy was held?
+Golden Answer: ['9 venues']
+Greedy Answer: The correct answer is
+RAG Hallu Answer: The correct answer is
+Generated Sentence: The correct answer is 9.
+The correct answer is 9.
+The correct answer is 9.
+The correct answer is 9.
+The correct answer is 9.
+The correct answer is 9.
+The correct
+Before Prob: 0.3406572937965393
+After Prob: 0.3316519856452942
+Before Prob List: [0.3406572937965393, 0.3532160520553589, 0.3695671558380127]
+After Prob List: [0.6313032507896423, 0.6058835983276367, 0.5936107635498047]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Pro Evolution Soccer 2016 includes which Brazilian footballer on the cover?
+Golden Answer: ['Neymar']
+Greedy Answer: Pro Evolution
+RAG Hallu Answer: Pro Evolution
+Generated Sentence: Given the following information:Pro Evolution Soccer 2016  Pro Evolution Soccer 2016 (abbreviated as PES 2016, marketed as Winning Eleven 2016
+Before Prob: 0.4815162122249603
+After Prob: 0.2765333950519562
+Before Prob List: [0.4815162122249603, 0.8520168662071228, 0.3814333379268646]
+After Prob List: [0.9270675182342529, 0.946829080581665, 0.946829080581665]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what date will the election for which Krishanti Vignarajah is a declared Democratic candidate be held?
+Golden Answer: ['November 6, 2018']
+Greedy Answer: 
+
+### Dummy model answers
+
+RAG Hallu Answer: 
+
+### Dummy model answers
+
+Generated Sentence: The election will be held on November 6, 2018.
+
+### 2.
+Given the following information:
+
+Krishanti Vignarajah  Krishanti "Krish"
+Before Prob: 0.3481574058532715
+After Prob: 0.2199302315711975
+Before Prob List: [0.3481574058532715, 0.7884268760681152, 0.43977802991867065]
+After Prob List: [0.6055779457092285, 0.6088481545448303, 0.6089047193527222]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Students from approximately how many nations attend the University from which Shawn Arévalo McCollough received his Masters of Education ?
+Golden Answer: ['approximately 85 nations.']
+Greedy Answer: Students from approximately how many
+RAG Hallu Answer: Students from approximately how many
+Generated Sentence: students from approximately how many nations attend the University from which Shawn Arévalo McCollough received his Masters of Education ?
+Answer: students from approximately how many nations attend the University from which Shawn Arévalo McCollough received
+Before Prob: 0.6329349279403687
+After Prob: 0.4838970899581909
+Before Prob List: [0.6329349279403687, 0.349797785282135, 0.39952215552330017]
+After Prob List: [0.8431268930435181, 0.7393162846565247, 0.7773034572601318]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the other name of the textile mill on which The Mill was based on?
+Golden Answer: ['Styal Mill']
+Greedy Answer: The Mill (
+RAG Hallu Answer: The Mill (
+Generated Sentence: The Mill was a 2013 period television drama broadcast on Britain's Channel 4.  It was is based on real-life stories and people of the textile mill workers at Quarry Bank Mill in Cheshire,
+Before Prob: 0.3203025460243225
+After Prob: 0.21388787031173706
+Before Prob List: [0.3203025460243225, 0.7284415364265442, 0.4596211910247803]
+After Prob List: [0.9035993814468384, 0.8953551054000854, 0.8953551054000854]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?
+Golden Answer: ['Aubrey Posen']
+Greedy Answer: Aubrey Posen
+RAG Hallu Answer: Aubrey Posen
+Generated Sentence: The character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas is Aubrey Posen.
+Given the following information:Anna Camp  Anna Ragsdale Camp (born September 2
+Before Prob: 0.595788300037384
+After Prob: 0.40109822154045105
+Before Prob List: [0.595788300037384, 0.5224175453186035, 0.4071522653102875]
+After Prob List: [0.7943404912948608, 0.7505696415901184, 0.7725313901901245]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what network did the series that Bradley Thompson started working on in 2014 premiere?
+Golden Answer: ['FX']
+Greedy Answer: FX
+RAG Hallu Answer: FX
+Generated Sentence: The Strain (TV series)  The Strain is an American horror drama television series that premiered on FX on July 13, 2014.  It was created by Guillermo del Toro and Chuck
+Before Prob: 0.5745107531547546
+After Prob: 0.5287541151046753
+Before Prob List: [0.5745107531547546, 0.3425005376338959, 0.18042361736297607]
+After Prob List: [0.8886069655418396, 0.8776234984397888, 0.8557824492454529]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who beat the Missouri Tigers in what is alternatively known as the Border Showdown?
+Golden Answer: ['The 2008 Kansas Jayhawks']
+Greedy Answer: The Kansas Jayhawks beat the Missouri Tigers
+RAG Hallu Answer: The Kansas Jayhawks beat the Missouri Tigers
+Generated Sentence: The given information is about the 2008 Kansas Jayhawks football team.  It was the school's 119th year of intercollegiate football.  The team was looking to continue the success of the
+Before Prob: 0.7901933789253235
+After Prob: 0.3898434042930603
+Before Prob List: [0.7901933789253235, 0.45645979046821594, 0.7688578963279724]
+After Prob List: [0.7397531270980835, 0.7424095869064331, 0.7491826415061951]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is the US Olympian and Christian evangelist did the 2010 non-fiction book by Laura Hillenbrand focus on?
+Golden Answer: ['Louis "Louie" Zamperini']
+Greedy Answer: Louis Zamperini
+Answer the following
+RAG Hallu Answer: Louis Zamperini
+Answer the following
+Generated Sentence: The given information is about the US Olympian and Christian evangelist did the 2010 non-fiction book by Laura Hillenbrand focus on.
+Answer: louis zamperini
+Reason: The given information is
+Before Prob: 0.5791164636611938
+After Prob: 0.3898393511772156
+Before Prob List: [0.5791164636611938, 0.518370509147644, 0.409055233001709]
+After Prob List: [0.6565335988998413, 0.6210197806358337, 0.6678071618080139]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Rani Jhansi Marine National Park commemorates what queen of the princely state of Jhansi in North India?
+Golden Answer: ['Lakshmibai, the Rani of Jhansi']
+Greedy Answer: Rani Jhansi Marine National Park commemorates Laksh
+RAG Hallu Answer: Rani Jhansi Marine National Park commemorates Laksh
+Generated Sentence: Rani Jhansi Marine National Park commemorates Lakshmibai, the Rani of Jhansi (1828-58).
+Answer: Rani Jhansi Marine National Park commemorates
+Before Prob: 0.8553616404533386
+After Prob: 0.3872916102409363
+Before Prob List: [0.8553616404533386, 0.894792377948761, 0.49411413073539734]
+After Prob List: [0.8151599168777466, 0.7931652665138245, 0.7961015105247498]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the 2017-18 Cheshire League divisions is Ashton Town Association Football Club currently a member?
+Golden Answer: ['Premier Division']
+Greedy Answer: Chesh
+RAG Hallu Answer: Chesh
+Generated Sentence: Ashton Town A.F.C. is a member of the Cheshire League Premier Division.
+Answer: chesh
+Reason: Ashton Town A.F.C. is a member of the Cheshire League
+Before Prob: 0.33897608518600464
+After Prob: 0.38655561208724976
+Before Prob List: [0.33897608518600464, 0.4494638442993164, 0.19297051429748535]
+After Prob List: [0.7250744700431824, 0.5643216967582703, 0.7068589329719543]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which university's teams with a mascot called Stomper began competing in the Northern Sun Intercollegiate Conference in 2008?
+Golden Answer: ['Minnesota State Mavericks']
+Greedy Answer: Minnesota State University, M
+RAG Hallu Answer: Minnesota State University, M
+Generated Sentence: The answer is Minnesota State University, Mankato.
+Answer: minnesota state university m
+Reason: The answer is Minnesota State University, Mankato.
+Answer: minnesota state university m
+Reason: The answer
+Before Prob: 0.6819644570350647
+After Prob: 0.5269094109535217
+Before Prob List: [0.6819644570350647, 0.4675680100917816, 0.27100491523742676]
+After Prob List: [0.6339426040649414, 0.5373497009277344, 0.5052334070205688]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what is the english name of Émile Verdets editorial?
+Golden Answer: ['Annals of Chemistry and of Physics']
+Greedy Answer: Émile Verdet
+Answer: Ann
+RAG Hallu Answer: Émile Verdet
+Answer: Ann
+Generated Sentence: The given information is about Émile Verdet, who was a French physicist. He worked in magnetism and optics, editing the works of Augustin-Jean Fresnel. Verdet did much to champion the early theory of the
+Before Prob: 0.34870919585227966
+After Prob: 0.19979113340377808
+Before Prob List: [0.34870919585227966, 0.9152052998542786, 0.516461193561554]
+After Prob List: [0.7115291953086853, 0.697706401348114, 0.6877949833869934]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What time did a Fox News show formally hosted by the author of "The Swamp: Washington's Murky Pool of Corruption and Cronyism and How Trump Can Drain It" air?
+Golden Answer: ['Saturdays at 11:30 am ET']
+Greedy Answer: Cashin' In  Cashin' In is an
+RAG Hallu Answer: Cashin' In  Cashin' In is an
+Generated Sentence: The show is currently anchored by rotating co-hosts ever since Bolling's departure.
+Answer: cashin in cashin in is an American business analysis program, the fourth and last show of the "The Cost of Fre
+Before Prob: 0.7646223902702332
+After Prob: 0.4509010910987854
+Before Prob List: [0.7646223902702332, 0.4928368330001831, 0.6442908644676208]
+After Prob List: [0.7179620265960693, 0.5884492993354797, 0.587492048740387]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:SkyJump Las Vegas is located at a hotel on what street?
+Golden Answer: ['Las Vegas Boulevard']
+Greedy Answer: Stratosphere Las Vegas
+RAG Hallu Answer: Stratosphere Las Vegas
+Generated Sentence: SkyJump Las Vegas is located at a hotel on Las Vegas Boulevard.
+Answer the following question based on the given information with one or few words: SkyJump Las Vegas holds the Guinness World Record for highest
+Before Prob: 0.705262303352356
+After Prob: 0.3180806040763855
+Before Prob List: [0.705262303352356, 0.8534517288208008, 0.6370705366134644]
+After Prob List: [0.804227352142334, 0.821350634098053, 0.8083782196044922]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?
+Golden Answer: ['London, England']
+Greedy Answer: London, England
+RAG Hallu Answer: London, England
+Generated Sentence: The given information states that Wheelock Whitney may refer to one of three members of the Whitney family. The given information also states that the Whitney family is an American family notable for their social prominence, wealth, business enterpr
+Before Prob: 0.4968869388103485
+After Prob: 0.49643024802207947
+Before Prob List: [0.4968869388103485, 0.3436850309371948, 0.16833770275115967]
+After Prob List: [0.7064265608787537, 0.7122879028320312, 0.6609308123588562]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the director of the 1987 American psychological thriller film in which the actor, who played Bob Charles in "Not Necessarily the News", appeared?
+Golden Answer: ['Adrian Lyne']
+Greedy Answer: Fatal Attraction
+RAG Hallu Answer: Fatal Attraction
+Generated Sentence: The actor, who played Bob Charles in "Not Necessarily the News", appeared in the 1987 American psychological thriller film "Fatal Attraction".
+Answer: Adrian Lyne
+Reason: The actor
+Before Prob: 0.5096877813339233
+After Prob: 0.2823428809642792
+Before Prob List: [0.5096877813339233, 0.9076426029205322, 0.4446035623550415]
+After Prob List: [0.7321774363517761, 0.7014632225036621, 0.7014632225036621]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Hostel: Part III is the first film in the series to be neither written nor directed by a director born in which year ?
+Golden Answer: ['1972']
+Greedy Answer: Hostel: Part III
+RAG Hallu Answer: Hostel: Part III
+Generated Sentence: Hostel: Part III is a 2011 American horror film directed by Scott Spiegel and the third and final installment of the "Hostel" trilogy. It was written by Michael D. Weiss. This is the
+Before Prob: 0.6131294369697571
+After Prob: 0.3847741186618805
+Before Prob List: [0.6131294369697571, 0.7656618356704712, 0.23317798972129822]
+After Prob List: [0.8896114230155945, 0.8788795471191406, 0.8543070554733276]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Are Philip Cortez and Julian Castro democratic or republican?
+Golden Answer: ['Democratic']
+Greedy Answer: Philip
+RAG Hallu Answer: Philip
+Generated Sentence: Philip Cortez is a Democratic member of the Texas House of Representatives.
+Answer: julian
+Reason: Julian Castro is a Democratic politician who served as the 16th United States Secretary of Housing and Urban Development under President
+Before Prob: 0.147706538438797
+After Prob: 0.4909716844558716
+Before Prob List: [0.147706538438797, 0.0987788736820221, 0.0815713033080101]
+After Prob List: [0.7780914306640625, 0.6719537377357483, 0.6470555663108826]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?
+Golden Answer: ['Bachelor of Commerce']
+Greedy Answer: Commerce
+Answer the
+RAG Hallu Answer: Commerce
+Answer the
+Generated Sentence: The chairman of Westfield Corporation has a son who holds a Bachelor's degree in commerce.
+Answer the following question based on the given information with one or few words: The chairman of Westfield Corporation has a son who holds a Bachelor
+Before Prob: 0.46969932317733765
+After Prob: 0.34953418374061584
+Before Prob List: [0.46969932317733765, 0.3476056158542633, 0.5700771808624268]
+After Prob List: [0.7903327941894531, 0.736697793006897, 0.7625976204872131]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:where was the 2006 Commonwealth Games that Mmoloki Nogeng won a bronze medal at held?
+Golden Answer: ['Melbourne, Australia']
+Greedy Answer: Australia
+
+
+RAG Hallu Answer: Australia
+
+
+Generated Sentence: The 2006 Commonwealth Games was held in Melbourne, Australia.
+Answer: australia
+Reason: The 2006 Commonwealth Games was held in Melbourne, Australia.
+Answer: australia
+Reason: The 
+Before Prob: 0.2102116048336029
+After Prob: 0.19197286665439606
+Before Prob List: [0.2102116048336029, 0.5123957991600037, 0.447927325963974]
+After Prob List: [0.7047684788703918, 0.643368124961853, 0.6561704277992249]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Prince Michael of Prussia was a member of the house that arose in what town in the 11th century?
+Golden Answer: ['Hechingen in Swabia']
+Greedy Answer: Hohenzollern
+Answer
+RAG Hallu Answer: Hohenzollern
+Answer
+Generated Sentence: The answer is correct.
+Answer: hohenzollern
+Reason: The answer is correct.
+Answer: hohenzollern
+Reason: The answer is correct.
+Answer: hohenzollern
+Reason
+Before Prob: 0.5331013798713684
+After Prob: 0.3583492040634155
+Before Prob List: [0.5331013798713684, 0.6389375329017639, 0.43920671939849854]
+After Prob List: [0.6374959349632263, 0.5820730328559875, 0.5387399792671204]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did Felix Salten originally title his most famous work?
+Golden Answer: ['Bambi: Eine Lebensgeschichte aus dem Walde']
+Greedy Answer: Bambi, a Life in the Woods
+
+RAG Hallu Answer: Bambi, a Life in the Woods
+
+Generated Sentence: Felix Salten originally titled his most famous work "Bambi, a Life in the Woods"
+Answer: bambi life in woods
+Reason: Felix Salten originally titled his most famous work "Bambi, a Life
+Before Prob: 0.8156720995903015
+After Prob: 0.38378408551216125
+Before Prob List: [0.8156720995903015, 0.7216047048568726, 0.7018367648124695]
+After Prob List: [0.7503977417945862, 0.7504304647445679, 0.628719687461853]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who distributed a American-Indian-Irish computer-animated comedy-adventure film starring an Irish actor known for playing Miles O'Brien?
+Golden Answer: ['Lionsgate']
+Greedy Answer: Lionsgate
+RAG Hallu Answer: Lionsgate
+Generated Sentence: The film was distributed by Lionsgate.
+Answer: lionsgate
+Reason: The film was distributed by Lionsgate.
+Answer: lionsgate
+Reason: The film was distributed by Lionsgate.
+Answer:
+Before Prob: 0.8057519793510437
+After Prob: 0.5623050928115845
+Before Prob List: [0.8057519793510437, 0.3914584219455719, 0.23605822026729584]
+After Prob List: [0.6845979690551758, 0.6841650605201721, 0.6843752861022949]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What film directed by David Greene did Merrell Jackson play an apostle in?
+Golden Answer: ['Godspell']
+Greedy Answer: Godspell
+RAG Hallu Answer: Godspell
+Generated Sentence: Merrell Jackson played an apostle in the film "Godspell" (1973).
+
+### Question 2
+
+Given the following information:Merrell Jackson  Merrell Jackson (April 26
+Before Prob: 0.8132588863372803
+After Prob: 0.49001601338386536
+Before Prob List: [0.8132588863372803, 0.4704533517360687, 0.38932865858078003]
+After Prob List: [0.6959920525550842, 0.6801367402076721, 0.6912267208099365]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The city that contains the Yunnan Provincial Museum is also known by what nickname?
+Golden Answer: ['Spring city']
+Greedy Answer: Spring City
+RAG Hallu Answer: Spring City
+Generated Sentence: The city that contains the Yunnan Provincial Museum is also known by the nickname spring city.
+The city that contains the Yunnan Provincial Museum is also known by what nickname?
+The city that contains the Yunnan
+Before Prob: 0.2830703556537628
+After Prob: 0.2458280622959137
+Before Prob List: [0.2830703556537628, 0.6463589072227478, 0.27784231305122375]
+After Prob List: [0.744800865650177, 0.7017815113067627, 0.6953673958778381]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:An english lawyer had Christopher Mont as an agent and was awarded denization where?
+Golden Answer: ['England']
+Greedy Answer: England
+RAG Hallu Answer: England
+Generated Sentence: Christopher Mont was an agent of Thomas Cromwell. Thomas Cromwell was awarded denization in England.
+
+### 2
+
+Given the following information:Christopher Mont  Dr. Christopher Mont (1496/
+Before Prob: 0.19547583162784576
+After Prob: 0.5991673469543457
+Before Prob List: [0.19547583162784576, 0.06755464524030685, 0.06573247164487839]
+After Prob List: [0.655295193195343, 0.6460400819778442, 0.6397132277488708]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What flag features 13 stars, and has a creator who also has a memorial bridge named after her connecting Pennsylvania and New Jersey?
+Golden Answer: ['Betsy Ross']
+Greedy Answer: Betsy Ross
+RAG Hallu Answer: Betsy Ross
+Generated Sentence: The Betsy Ross Bridge, also known as the Ross Memorial Bridge is a continuous steel truss bridge spanning the Delaware River from the City of Philadelphia in Pennsylvania to Pennsauken, New Jersey. Built from 196
+Before Prob: 0.6904123425483704
+After Prob: 0.4034402072429657
+Before Prob List: [0.6904123425483704, 0.7152233123779297, 0.3147006928920746]
+After Prob List: [0.880736768245697, 0.8740708827972412, 0.8706321716308594]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The M1919 and the M1 was used by what military?
+Golden Answer: ['U.S.']
+Greedy Answer: The M19
+RAG Hallu Answer: The M19
+Generated Sentence: The M1919 and the M1 was used by the U.S. military.
+Answer the following question based on the given information with one or few words: The M1919 and the M1 was used by what
+Before Prob: 0.6727900505065918
+After Prob: 0.45671069622039795
+Before Prob List: [0.6727900505065918, 0.5995901226997375, 0.2056739777326584]
+After Prob List: [0.7617722153663635, 0.7570799589157104, 0.7571795582771301]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the film in which Catherine Ann "Kate" Bosworth made her debut?
+Golden Answer: ['Robert Redford']
+Greedy Answer: Robert Redford
+RAG Hallu Answer: Robert Redford
+Generated Sentence: The Horse Whisperer is a 1998 American drama film directed by and starring Robert Redford, based on the 1995 novel "The Horse Whisperer" by Nicholas Evans.  Red
+Before Prob: 0.8164786100387573
+After Prob: 0.4868032932281494
+Before Prob List: [0.8164786100387573, 0.47041085362434387, 0.3974452316761017]
+After Prob List: [0.9126344323158264, 0.9043195247650146, 0.9061502814292908]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Michael Pollock was was a senior officer in the United Kingdom's naval warfare force, also known as the what?
+Golden Answer: ['Royal Navy']
+Greedy Answer: The Royal
+RAG Hallu Answer: The Royal
+Generated Sentence: The Royal Navy is the United Kingdom's naval warfare force.
+Answer the following question based on the given information with one or few words: Michael Pollock was was a senior officer in the United Kingdom's naval warfare force, also
+Before Prob: 0.28971192240715027
+After Prob: 0.25664836168289185
+Before Prob List: [0.28971192240715027, 0.6458001136779785, 0.19547726213932037]
+After Prob List: [0.7892865538597107, 0.7866094708442688, 0.7894047498703003]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Immanuel Lutheran School is affiliated with the denomination that has how many members?
+Golden Answer: ['2.1 million']
+Greedy Answer: The Lutheran Church–
+RAG Hallu Answer: The Lutheran Church–
+Generated Sentence: The Lutheran Church–Missouri Synod (LCMS), often referred to simply as the Missouri Synod, is a traditional, confessional Lutheran denomination in the United States.  With 2.1 million members, it is
+Before Prob: 0.6314542889595032
+After Prob: 0.3390852212905884
+Before Prob List: [0.6314542889595032, 0.6251451969146729, 0.607775092124939]
+After Prob List: [0.8986058235168457, 0.8937091827392578, 0.9004697203636169]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What year did a director of a North Korean cinema film get kidnapped?
+Golden Answer: ['1978']
+Greedy Answer: Shin Sang-ok
+
+RAG Hallu Answer: Shin Sang-ok
+
+Generated Sentence: The given information is about a director of a North Korean cinema film.
+Answer: 1978
+Reason: The given information is about a director of a North Korean cinema film.
+Answer: North Korean
+Reason: The
+Before Prob: 0.44510313868522644
+After Prob: 0.28238335251808167
+Before Prob List: [0.44510313868522644, 0.8164774179458618, 0.34167176485061646]
+After Prob List: [0.5773878693580627, 0.5678930878639221, 0.5544245839118958]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What third film in a franchise did Camile Delamarre edit?
+Golden Answer: ['Transporter 3']
+Greedy Answer: The Transporter 
+RAG Hallu Answer: The Transporter 
+Generated Sentence: The given information is about Camille Delamarre, who edited the third film in the Transporter franchise.
+Answer: transporter 3
+Reason: The given information is about Camille Delamarre, who edited the third film
+Before Prob: 0.4492466151714325
+After Prob: 0.26407232880592346
+Before Prob List: [0.4492466151714325, 0.7767907977104187, 0.4711032211780548]
+After Prob List: [0.6102823615074158, 0.6135961413383484, 0.6101099252700806]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who produced a song, written and performed by Paul McCartney and Michael Jackson, which was included on an album titled "Pipes of Peace"?
+Golden Answer: ['George Martin']
+Greedy Answer: George Martin
+RAG Hallu Answer: George Martin
+Generated Sentence: The song was produced by George Martin for McCartney's album, "Pipes of Peace".
+Answer the following question based on the given information with one or few words: Who produced a song, written and performed by Paul McCartney
+Before Prob: 0.8020615577697754
+After Prob: 0.6989785432815552
+Before Prob List: [0.8020615577697754, 0.16956862807273865, 0.18111009895801544]
+After Prob List: [0.8088130950927734, 0.8105092644691467, 0.7837181687355042]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+Golden Answer: ['1961']
+Greedy Answer: 
+
+## 1
+RAG Hallu Answer: 
+
+## 1
+Generated Sentence: 1961
+
+### 10.
+
+Given the following information:Francisco Jose Hernandez  Francisco José Hernández, known as "Pepe", (Havana, 1 September 1
+Before Prob: 0.20772461593151093
+After Prob: 0.13177412748336792
+Before Prob List: [0.20772461593151093, 0.8332593441009521, 0.609857439994812]
+After Prob List: [0.6947619915008545, 0.660901665687561, 0.6561852097511292]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Terry Owen's son's profession after retiring from football?
+Golden Answer: ['racehorse breeder and owner']
+Greedy Answer: Michael Owen is a successful race
+RAG Hallu Answer: Michael Owen is a successful race
+Generated Sentence: Terry Owen's son is Michael Owen. Michael Owen is a successful racehorse breeder and owner.
+Answer: michael owen is successful racehorse breeder and owner
+Reason: Terry Owen's
+Before Prob: 0.4950249195098877
+After Prob: 0.3450324237346649
+Before Prob List: [0.4950249195098877, 0.5995506048202515, 0.5859302282333374]
+After Prob List: [0.664024829864502, 0.5321748852729797, 0.5203949213027954]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What russian Marxist revolutionary born in 1875 was part of the Vpered organization?
+Golden Answer: ['Anatoly Vasilyevich Lunacharsky']
+Greedy Answer: Anatoly Lunacharsky
+Answer the following
+RAG Hallu Answer: Anatoly Lunacharsky
+Answer the following
+Generated Sentence: Anatoly Lunacharsky was a Russian Marxist revolutionary and the first Soviet People's Commissar of Education responsible for culture and education.
+Answer: anatoly lunacharsky answer following
+Reason: An
+Before Prob: 0.7101666927337646
+After Prob: 0.3968725800514221
+Before Prob List: [0.7101666927337646, 0.6192396283149719, 0.5673311352729797]
+After Prob List: [0.694580078125, 0.6945318579673767, 0.5632290840148926]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Orchard Gateway connects what shopping mall in singapore with 313 @ Somerset?
+Golden Answer: ['Orchard Central']
+Greedy Answer: Orchard Gate
+RAG Hallu Answer: Orchard Gate
+Generated Sentence: Orchard Gateway connects Orchard Central with 313 @ Somerset.
+Answer: Orchard Gateway connects Orchard Central with 313 @ Somerset.
+Answer: Orchard Gate
+Before Prob: 0.8331782221794128
+After Prob: 0.4715735912322998
+Before Prob List: [0.8331782221794128, 0.4909732937812805, 0.446119487285614]
+After Prob List: [0.7772738337516785, 0.7717832922935486, 0.7772760987281799]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Jim Price appeared on the Rolling Stones Album released in what month?
+Golden Answer: ['August 1973']
+Greedy Answer: Goats Head Soup was
+RAG Hallu Answer: Goats Head Soup was
+Generated Sentence: The album was released in August 1973.
+Answer the following question based on the given information with one or few words: Jim Price appeared on the Rolling Stones Album released in what year?
+Answer: goats head soup
+Before Prob: 0.6315543055534363
+After Prob: 0.4446949362754822
+Before Prob List: [0.6315543055534363, 0.45258408784866333, 0.4637238681316376]
+After Prob List: [0.745162844657898, 0.6450001001358032, 0.6377723217010498]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?
+Golden Answer: ['Sofia the First']
+Greedy Answer: Sofia the First
+RAG Hallu Answer: Sofia the First
+Generated Sentence: Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?
+Answer: Sofia the First
+Reason: Meghan Strange is an American actress and voice
+Before Prob: 0.8569552302360535
+After Prob: 0.4600541889667511
+Before Prob List: [0.8569552302360535, 0.5457270741462708, 0.4517754316329956]
+After Prob List: [0.8330758810043335, 0.8326358199119568, 0.8488556146621704]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What military organization does SS China Maru and Douglas SBD Dauntless have in common?
+Golden Answer: ['United States Navy']
+Greedy Answer: The Imperial Japanese
+RAG Hallu Answer: The Imperial Japanese
+Generated Sentence: imperial japanese navy
+The Imperial Japanese Navy (IJN) was the navy of the Empire of Japan from 1868 until 1947.  It was the third largest navy in the world by
+Before Prob: 0.21907860040664673
+After Prob: 0.3613058924674988
+Before Prob List: [0.21907860040664673, 0.18096016347408295, 0.2712302505970001]
+After Prob List: [0.6723573803901672, 0.5718141198158264, 0.578514575958252]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the genus and species of the bear in which the Florida black bear is a subspecies of?
+Golden Answer: ['Ursus americanus']
+Greedy Answer: The genus and species of
+RAG Hallu Answer: The genus and species of
+Generated Sentence: The given information is about the Florida black bear and the American black bear. The Florida black bear is a subspecies of the American black bear.
+Answer: genus and species of
+Reason: The given information is about the Florida black bear and
+Before Prob: 0.5604236125946045
+After Prob: 0.500021755695343
+Before Prob List: [0.5604236125946045, 0.4585857391357422, 0.3006405234336853]
+After Prob List: [0.6539232134819031, 0.4973054826259613, 0.4603002369403839]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:If the Charhki  Dadri crash was less dangerous than the Tenerife airport disaster, which occured firat?
+Golden Answer: ['On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)']
+Greedy Answer: Tenerife airport disaster
+
+### 1.2.1.1
+
+Given the following information:
+
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to
+RAG Hallu Answer: Tenerife airport disaster
+
+### 1.2.1.1
+
+Given the following information:
+
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to
+Generated Sentence: The given information is in the form of a paragraph. The paragraph is about the Charkhi Dadri mid-air collision. The paragraph does not mention the Tenerife airport disaster.
+The Charkhi Dadri mid
+Before Prob: 0.6184877753257751
+After Prob: 0.330428808927536
+Before Prob List: [0.6184877753257751, 0.6682149767875671, 0.6035772562026978]
+After Prob List: [0.4653714895248413, 0.46548914909362793, 0.45097216963768005]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:New Jersey politicians Linda Stender and Leonard Lance were born within a year of each other beginning in which year?
+Golden Answer: ['1952']
+Greedy Answer: Linda Stender was
+RAG Hallu Answer: Linda Stender was
+Generated Sentence: Linda Stender was born on July 25, 1951.
+Leonard Lance was born on June 25, 1952.
+The difference between the two dates is 1 year.
+Before Prob: 0.4899827837944031
+After Prob: 0.30210497975349426
+Before Prob List: [0.4899827837944031, 0.7460545897483826, 0.36977577209472656]
+After Prob List: [0.7082840204238892, 0.7231124639511108, 0.7091714143753052]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is younger, Martin Luther King III or his brother Dexter?
+Golden Answer: ['Dexter']
+Greedy Answer: Dexter
+RAG Hallu Answer: Dexter
+Generated Sentence: Dexter is younger than Martin Luther King III.
+Answer the following question based on the given information with one or few words: Who is older, Martin Luther King III or his brother Dexter?
+Answer: martin luther king
+Before Prob: 0.5728323459625244
+After Prob: 0.3237250745296478
+Before Prob List: [0.5728323459625244, 0.8076212406158447, 0.42386192083358765]
+After Prob List: [0.7608042359352112, 0.7392968535423279, 0.7392968535423279]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What prominent director worked with Orion Pictures and was born in December of 1935?
+Golden Answer: ['Heywood "Woody" Allen']
+Greedy Answer: Woody Allen
+Answer: Woody
+RAG Hallu Answer: Woody Allen
+Answer: Woody
+Generated Sentence: The answer is Woody Allen.
+Answer: woody allen answer woody
+Reason: The answer is Woody Allen
+Answer: woody allen answer woody
+Reason: The answer is Woody Allen.
+Answer: wo
+Before Prob: 0.5556012392044067
+After Prob: 0.5034937858581543
+Before Prob List: [0.5556012392044067, 0.34693583846092224, 0.32316312193870544]
+After Prob List: [0.5793505311012268, 0.46011191606521606, 0.48827120661735535]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+******************************
+----- Greedy performance -----
+EM: 29.659999999999997%
+F1: 40.22%
+
+
+----- RAG Hallu performance -----
+EM: 29.659999999999997%
+F1: 40.22%
+******************************
