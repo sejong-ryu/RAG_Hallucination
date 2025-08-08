@@ -451,7 +451,7 @@ if __name__ == '__main__':
 
         results.append(res)
 
-    save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}.jsonl'
+    save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}.parquet'
     utils.save_as_parquet(save_path, results)
 
 

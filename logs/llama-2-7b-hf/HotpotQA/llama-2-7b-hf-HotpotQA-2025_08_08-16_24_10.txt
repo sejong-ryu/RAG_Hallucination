@@ -1,0 +1,1120 @@
+Q:True to the Game starred which film and television actor and playwright?
+Golden Answer: ['Nelsan Ellis']
+Greedy Answer: Nelsan Ellis
+RAG Hallu Answer: Nelsan Ellis
+Generated Sentence: 
+Nelsan Ellis starred in the film True to the Game.
+
+### 2.
+
+Given the following information:True to the Game (film)  True to the Game is an American drama film based on
+Answer Prob: 0.8005766272544861
+Marginalized Prob: 0.4521402418613434
+Answer Prob List: [0.8005766272544861, 0.6419031620025635, 0.35453879833221436]
+Marginalized Prob List: [0.6418904066085815, 0.6265538930892944, 0.6218956112861633]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Richard Neville came to fame as an editor of a counterculture magazine first published in what year?
+Golden Answer: ['1963']
+Greedy Answer: 1963
+RAG Hallu Answer: 1963
+Generated Sentence: 
+The first version of the magazine was published in 1963.
+
+### 2.
+
+Given the following information:OZ (magazine)  OZ was an underground alternative magazine.  First published
+Answer Prob: 0.7497898936271667
+Marginalized Prob: 0.4479656517505646
+Answer Prob List: [0.6023445129394531, 0.7497898936271667, 0.3609919846057892]
+Marginalized Prob List: [0.6065381765365601, 0.6320784091949463, 0.605777382850647]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was Elvis Presley's "G.I. Blues" which was released for the motion picture "G.I. Blues"'s soundtrack?
+Golden Answer: ['October 1960']
+Greedy Answer: Elvis Presley's
+RAG Hallu Answer: Elvis Presley's
+Generated Sentence: 
+Elvis Presley's "G.I. Blues" was released for the motion picture "G.I. Blues"'s soundtrack in October 1960.
+Elvis Presley's "G.I
+Answer Prob: 0.7628884315490723
+Marginalized Prob: 0.4103894531726837
+Answer Prob List: [0.7628884315490723, 0.6712068319320679, 0.4316640794277191]
+Marginalized Prob List: [0.782582700252533, 0.7822821140289307, 0.7706833481788635]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Beyond Our Ken (1958–1964) is a radio comedy programme, the predecessor to "Round the Horne" (1965–1968), both programmes starred which English actor, whose most notable role was in the 1960s BBC radio?
+Golden Answer: ['Hugh William Paddick']
+Greedy Answer: Hugh Paddick
+
+RAG Hallu Answer: Hugh Paddick
+
+Generated Sentence: 
+Hugh Paddick was an English actor, whose most notable role was in the 1960s BBC radio show "Round the Horne", in sketches such as "Charles and Fiona" (as Charles)
+Answer Prob: 0.7222955822944641
+Marginalized Prob: 0.44955962896347046
+Answer Prob List: [0.7222955822944641, 0.32761386036872864, 0.5881854891777039]
+Marginalized Prob List: [0.8602160811424255, 0.8220999836921692, 0.8354929089546204]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Stocks Reservoir is used for meeting by a company that was founded in what year?
+Golden Answer: ['1995']
+Greedy Answer: 1995
+RAG Hallu Answer: 1995
+Generated Sentence: 
+Stocks Reservoir was opened on 5 July 1932 by HRH Prince George, K.G.
+United Utilities Group PLC (UU), the United Kingdom's largest listed water company,
+Answer Prob: 0.7499840259552002
+Marginalized Prob: 0.3944593667984009
+Answer Prob List: [0.534505307674408, 0.7499840259552002, 0.6533920168876648]
+Marginalized Prob List: [0.8541708588600159, 0.8818402886390686, 0.8550983667373657]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Seema Kennedy is a British Conservative Party politician for a constituency represented in the House of Commons of the UK Parliament since what year?
+Golden Answer: ['2015']
+Greedy Answer: 2015
+RAG Hallu Answer: 2015
+Generated Sentence: 
+
+### 2.
+
+Given the following information:South Ribble (UK Parliament constituency)  South Ribble is a constituency represented in the House of Commons of the UK Parliament since 2015 by
+Answer Prob: 0.7781165242195129
+Marginalized Prob: 0.3744865655899048
+Answer Prob List: [0.7147443294525146, 0.7781165242195129, 0.6193620562553406]
+Marginalized Prob List: [0.7087040543556213, 0.7228875160217285, 0.699104905128479]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:AKA Cartoon Network included which series created by David Feiss?
+Golden Answer: ['Cow and Chicken']
+Greedy Answer: Cow and Chicken
+RAG Hallu Answer: Cow and Chicken
+Generated Sentence: 
+Cow and Chicken is an American animated comedy television series created by David Feiss for Cartoon Network, and the 3rd of the network's Cartoon Cartoons. It follows the surreal adventures of two funny
+Answer Prob: 0.9175609946250916
+Marginalized Prob: 0.5491363406181335
+Answer Prob List: [0.9175609946250916, 0.35632842779159546, 0.4020541310310364]
+Marginalized Prob List: [0.883853018283844, 0.8823817372322083, 0.8741058111190796]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Doctor Pepper was a song that included which American rapper from Atlanta?
+Golden Answer: ['OG Maco']
+Greedy Answer: OG Maco
+RAG Hallu Answer: OG Maco
+Generated Sentence: 
+OG Maco was a rapper from Atlanta, Georgia.
+Doctor Pepper was a song that included OG Maco.
+Doctor Pepper was a song that included which American rapper from Atlanta?
+Doctor Pe
+Answer Prob: 0.8630064129829407
+Marginalized Prob: 0.4658656120300293
+Answer Prob List: [0.8630064129829407, 0.4799150228500366, 0.5200366377830505]
+Marginalized Prob List: [0.6347768902778625, 0.6344777941703796, 0.6222624778747559]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Argentine footballer born in 1987 wears the Nike Hypervenom?
+Golden Answer: ['Gonzalo Higuaín']
+Greedy Answer: Gonzalo Higuaín
+RAG Hallu Answer: Gonzalo Higuaín
+Generated Sentence: 
+
+Answer:
+
+### 1.1.2
+
+Given the following information:Nike Hypervenom  The "Nike Hypervenom" is a football boot that is manufactured by Nike.  This
+Answer Prob: 0.9148067831993103
+Marginalized Prob: 0.4819630980491638
+Answer Prob List: [0.9148067831993103, 0.5235890746116638, 0.46649226546287537]
+Marginalized Prob List: [0.6123881340026855, 0.6083524823188782, 0.6079863905906677]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What magazine is Japanese, about new manga and video games based on popular manga,  and used the magazine Hobby's Jump as it's prototype.
+Golden Answer: ['V Jump']
+Greedy Answer: V Jump
+RAG Hallu Answer: V Jump
+Generated Sentence: 
+V Jump is a Japanese magazine about new manga and video games based on popular manga.
+Hobby's Jump was a video game magazine published by Shueisha between 1983 and 19
+Answer Prob: 0.8099758625030518
+Marginalized Prob: 0.5504696369171143
+Answer Prob List: [0.8099758625030518, 0.2993406355381012, 0.36388909816741943]
+Marginalized Prob List: [0.8181008100509644, 0.8132396340370178, 0.8181008100509644]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Zarathos is a fictional character appearing in American comic books published by Marvel Comics, and is depicted usually as a villain in stories featuring which name of many fictional supernatural antiheroes appearing in American comic books published by Marvel Comics?
+Golden Answer: ['Ghost Rider']
+Greedy Answer: Ghost Rider
+RAG Hallu Answer: Ghost Rider
+Generated Sentence: 
+Ghost Rider is the name of many fictional supernatural antiheroes appearing in American comic books published by Marvel Comics. Marvel had previously used the name for a Western character whose name was later changed to Phantom Rider.
+Answer Prob: 0.7919791340827942
+Marginalized Prob: 0.46260109543800354
+Answer Prob List: [0.5044363737106323, 0.7919791340827942, 0.4308708906173706]
+Marginalized Prob List: [0.8861793279647827, 0.9069186449050903, 0.8990510702133179]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the movie "Happy Working Song" was used in?
+Golden Answer: ['Kevin Lima']
+Greedy Answer: Ench
+RAG Hallu Answer: Ench
+Generated Sentence: 
+The movie "Happy Working Song" was used in "Enchanted" which was directed by Kevin Lima.
+Answer: enchanted
+Answer: Kevin Lima
+Answer: Kevin
+Answer: Lima
+Answer: Kevin Lima
+Answer
+Answer Prob: 0.40412065386772156
+Marginalized Prob: 0.4834604561328888
+Answer Prob List: [0.40412065386772156, 0.18150335550308228, 0.3101952075958252]
+Marginalized Prob List: [0.5582428574562073, 0.5006183385848999, 0.4841121733188629]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:British writer Victoria Coren Mitchel once worked for the "Erotic Review" but went on to host what BBC television quiz show?
+Golden Answer: ['Only Connect']
+Greedy Answer: Only Connect
+RAG Hallu Answer: Only Connect
+Generated Sentence: 
+The answer is "Only Connect" because Victoria Coren Mitchell is a British writer who worked for the "Erotic Review" but went on to host the BBC television quiz show "Only Connect".
+The answer is "Only Connect"
+Answer Prob: 0.41094970703125
+Marginalized Prob: 0.3574793040752411
+Answer Prob List: [0.3802422285079956, 0.41094970703125, 0.3567659556865692]
+Marginalized Prob List: [0.6055442690849304, 0.5965175032615662, 0.5896024703979492]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:America: Imagine the World Without Her is a 2014 American political documentary film by a man that was president of what school from 2010 to 2012?
+Golden Answer: ["The King's College"]
+Greedy Answer: America: Imagine the
+RAG Hallu Answer: America: Imagine the
+Generated Sentence: America: Imagine the World Without Her is a 2014 American political documentary film by Dinesh D'Souza based on his book of the same name. It is a follow-up to his film "" (2
+Answer Prob: 0.8373692631721497
+Marginalized Prob: 0.40490955114364624
+Answer Prob List: [0.6036751866340637, 0.8373692631721497, 0.6348423361778259]
+Marginalized Prob List: [0.9139968156814575, 0.9260333776473999, 0.9260333776473999]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 9th AVN Awards were held at the hotel owned and operated by what company?
+Golden Answer: ['Caesars Entertainment Corporation']
+Greedy Answer: Caesars Entertainment Corporation
+RAG Hallu Answer: Caesars Entertainment Corporation
+Generated Sentence: 
+The 9th AVN Awards were held at the hotel owned and operated by caesars entertainment corporation.
+The 9th AVN Awards were held at the hotel owned and operated by caesars entertainment corporation.
+Answer Prob: 0.6824519038200378
+Marginalized Prob: 0.374224990606308
+Answer Prob List: [0.6142743229866028, 0.6824519038200378, 0.690561056137085]
+Marginalized Prob List: [0.7007679343223572, 0.7925987839698792, 0.6864579319953918]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Sniper Wolf is a fictional character who appears in the 1998 stealth game "Metal Gear Solid", produced by what video game company?
+Golden Answer: ['Konami Computer Entertainment Japan']
+Greedy Answer: Konami
+Answer the
+RAG Hallu Answer: Konami
+Answer the
+Generated Sentence: 
+Sniper Wolf is a fictional character who appears in the 1998 stealth game "Metal Gear Solid", produced by konami
+Answer: konami
+Sniper Wolf is a fictional character who
+Answer Prob: 0.42972859740257263
+Marginalized Prob: 0.2755606174468994
+Answer Prob List: [0.42972859740257263, 0.6696071624755859, 0.5882214307785034]
+Marginalized Prob List: [0.7380090951919556, 0.6594104766845703, 0.6667788624763489]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the American for-profit college who Herman A. DeVry found, founded
+Golden Answer: ['1931']
+Greedy Answer: DeVry University was
+RAG Hallu Answer: DeVry University was
+Generated Sentence: 
+DeVry University ( ) is an American for-profit college.
+The school was founded in 1931 as DeForest Training School, and officially became DeVry University in 2002.
+H
+Answer Prob: 0.6154487133026123
+Marginalized Prob: 0.3368518352508545
+Answer Prob List: [0.6154487133026123, 0.6663278937339783, 0.5576015114784241]
+Marginalized Prob List: [0.85544753074646, 0.851658821105957, 0.8410780429840088]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Adebayo Akinfenwa was a star in the 2006 Football League Trophy Final, but know plays for this team?
+Golden Answer: ['Wycombe Wanderers']
+Greedy Answer: Wycombe Wanderers
+RAG Hallu Answer: Wycombe Wanderers
+Generated Sentence: 
+Adebayo Akinfenwa was a star in the 2006 Football League Trophy Final, but know plays for this team?
+Adebayo Akinfenwa was a star in the 200
+Answer Prob: 0.8140331506729126
+Marginalized Prob: 0.4522843062877655
+Answer Prob List: [0.46060189604759216, 0.8140331506729126, 0.5239183306694031]
+Marginalized Prob List: [0.8475533127784729, 0.8509358763694763, 0.8559769988059998]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the British documentary that covered the killing of the wife of the 1970s punk rock scene?
+Golden Answer: ['Alan G. Parker']
+Greedy Answer: Alan G. Parker
+RAG Hallu Answer: Alan G. Parker
+Generated Sentence: 
+Alan G Parker directed the British documentary that covered the killing of the wife of the 1970s punk rock scene.
+The movie was produced by Ben Timlett and Christine Alderson.
+It had its US the
+Answer Prob: 0.6666231751441956
+Marginalized Prob: 0.40593042969703674
+Answer Prob List: [0.6279757618904114, 0.6666231751441956, 0.4009513556957245]
+Marginalized Prob List: [0.7456104755401611, 0.7793388366699219, 0.7284864187240601]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dalila Bela worked on this Canadian television series based on a 1908 novel by Lucy Maud Montgomery
+Golden Answer: ['Anne']
+Greedy Answer: Anne
+RAG Hallu Answer: Anne
+Generated Sentence: 
+Dalila Bela worked on this Canadian television series based on a 1908 novel by Lucy Maud Montgomery
+Dalila Bela worked on this Canadian television series based on a 1908 novel by
+Answer Prob: 0.6958886384963989
+Marginalized Prob: 0.8673143982887268
+Answer Prob List: [0.0745011642575264, 0.6958886384963989, 0.03254714980721474]
+Marginalized Prob List: [0.8011603355407715, 0.7956770062446594, 0.7687458992004395]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 2016 Superbike World Championship was won by which British racer?
+Golden Answer: ['Jonathan Rea']
+Greedy Answer: Jonathan Rea
+RAG Hallu Answer: Jonathan Rea
+Generated Sentence: 
+Jonathan Rea won his second consecutive Superbike World Championship title at the first race of the last round at Losail, while Kawasaki had secured the manufacturers' title at the previous event at Jerez.
+Answer Prob: 0.8515920042991638
+Marginalized Prob: 0.5372048616409302
+Answer Prob List: [0.8515920042991638, 0.39285677671432495, 0.34674686193466187]
+Marginalized Prob List: [0.8860977292060852, 0.8806326389312744, 0.877038836479187]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who played Prince Charles in the 2006 British fictional drama film depicting the British Royal Family's response to the death of Diana?
+Golden Answer: ['Alex Jennings']
+Greedy Answer: Alex Jennings
+RAG Hallu Answer: Alex Jennings
+Generated Sentence: 
+Alex Jennings played Prince Charles in the 2006 British fictional drama film depicting the British Royal Family's response to the death of Diana.
+Alex Jennings (born 10 May 195
+Answer Prob: 0.79529869556427
+Marginalized Prob: 0.4812609851360321
+Answer Prob List: [0.79529869556427, 0.4515559673309326, 0.42186498641967773]
+Marginalized Prob List: [0.8074988126754761, 0.8074988126754761, 0.776511549949646]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What year was the 1960 Green Bay Packers season head coach enshrined in the Pro Football Hall of Feam?
+Golden Answer: ['1971']
+Greedy Answer: 1971
+RAG Hallu Answer: 1971
+Generated Sentence: 
+The NFL's Super Bowl trophy is named in his honor following his sudden death from cancer in 1970.  He was enshrined in the Pro Football Hall of Fame in 1971, the year
+Answer Prob: 0.7997670769691467
+Marginalized Prob: 0.4523867666721344
+Answer Prob List: [0.4508550763130188, 0.7997670769691467, 0.5311288237571716]
+Marginalized Prob List: [0.84645015001297, 0.8733119368553162, 0.8733119368553162]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Loro Boriçi was the reserve of an Italian footballer who won the FIFA World Cup in what year?
+Golden Answer: ['1938']
+Greedy Answer: 1938
+RAG Hallu Answer: 1938
+Generated Sentence: 
+Loro Boriçi was the reserve of an Italian footballer who won the FIFA World Cup in what year?
+Loro Boriçi was the reserve of Silvio Piola who won the FIFA World Cup in 19
+Answer Prob: 0.82499760389328
+Marginalized Prob: 0.39041781425476074
+Answer Prob List: [0.681502103805542, 0.82499760389328, 0.6186033487319946]
+Marginalized Prob List: [0.800590455532074, 0.8080480098724365, 0.8006042242050171]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What U.S. arts honor list has been running since 1972, and inducted the actor Harvey Fierstein in 2007?
+Golden Answer: ['American Theater Hall of Fame']
+Greedy Answer: American Theater Hall of Fame
+RAG Hallu Answer: American Theater Hall of Fame
+Generated Sentence: 
+The American Theater Hall of Fame in New York City was founded in 1972.
+Earl Blackwell was the first head of the organization's Executive Committee.
+In an announcement in 1972,
+Answer Prob: 0.8287172317504883
+Marginalized Prob: 0.43905195593833923
+Answer Prob List: [0.608814001083374, 0.8287172317504883, 0.4573560655117035]
+Marginalized Prob List: [0.8858213424682617, 0.8919890522956848, 0.8858213424682617]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Holy Trinity Cathedral is part of the diocese that is a member church of what larger body?
+Golden Answer: ['Anglican Communion']
+Greedy Answer: Anglican Communion
+RAG Hallu Answer: Anglican Communion
+Generated Sentence: 
+The Anglican Diocese of Accra is a diocese of the Church of the Province of West Africa, a member church of the Anglican Communion.
+The Anglican Communion is a worldwide association of Anglic
+Answer Prob: 0.7752252817153931
+Marginalized Prob: 0.38774746656417847
+Answer Prob List: [0.6464993953704834, 0.7752252817153931, 0.5892908573150635]
+Marginalized Prob List: [0.8006705045700073, 0.8023806810379028, 0.7883111238479614]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the birth name of the dead magician who Frances Farmer was trying to contact?
+Golden Answer: ['Erik Weisz']
+Greedy Answer: Harry Houd
+RAG Hallu Answer: Harry Houd
+Generated Sentence: 
+Harry Houdini was the birth name of the dead magician who Frances Farmer was trying to contact.
+Answer the following question based on the given information with one or few words: What was the name of the hotel where Frances Far
+Answer Prob: 0.7110040187835693
+Marginalized Prob: 0.4985412657260895
+Answer Prob List: [0.7110040187835693, 0.3421980142593384, 0.38139012455940247]
+Marginalized Prob List: [0.6965728998184204, 0.697059154510498, 0.6807523965835571]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which American state in the New Engand region does Quebec Route 243 become Vermont Route 243?
+Golden Answer: ['Vermont']
+Greedy Answer: Vermont
+RAG Hallu Answer: Vermont
+Generated Sentence: Vermont is the state in the New England region of the northeastern United States.  It borders the other U.S. states of Massachusetts to the south, New Hampshire to the east, New York to the west, and the
+Answer Prob: 0.7866283655166626
+Marginalized Prob: 0.7171160578727722
+Answer Prob List: [0.7866283655166626, 0.18940626084804535, 0.12583348155021667]
+Marginalized Prob List: [0.8211336731910706, 0.8202309608459473, 0.7902888655662537]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the current NCAA division of the teams represented by the former Iowa State College of Agricultural and Mechanic Arts?
+Golden Answer: ['Division I']
+Greedy Answer: Division I
+RAG Hallu Answer: Division I
+Generated Sentence: 
+The Missouri Valley Conference is a Division I conference.
+The Missouri Valley Conference is a Division I conference. The Missouri Valley Conference (also called MVC or simply "The Valley") is the second-oldest collegiate athletic conference in the United
+Answer Prob: 0.5084728002548218
+Marginalized Prob: 0.5220582485198975
+Answer Prob List: [0.2110111564397812, 0.5084728002548218, 0.2659047544002533]
+Marginalized Prob List: [0.6459121108055115, 0.658561646938324, 0.6403371691703796]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How much damage in dollars did the hurricane do that forced the shop called "Bikini Barbers" to close?
+Golden Answer: ['about $75 billion']
+Greedy Answer: $75 billion
+
+RAG Hallu Answer: $75 billion
+
+Generated Sentence: 
+The hurricane did $75 billion in damage.
+The hurricane did $75 billion in damage. The hurricane did $75 billion in damage. The hurricane did $75 billion in damage.
+Answer Prob: 0.5020913481712341
+Marginalized Prob: 0.3652806282043457
+Answer Prob List: [0.5020913481712341, 0.4594454765319824, 0.40999990701675415]
+Marginalized Prob List: [0.6340814232826233, 0.6488720774650574, 0.6221456527709961]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which brother of José Treviño Morales was born on 18 November 1970 ?
+Golden Answer: ['Miguel Treviño Morales']
+Greedy Answer: Miguel Treviño Morales
+RAG Hallu Answer: Miguel Treviño Morales
+Generated Sentence: 
+Miguel Treviño Morales was born on 18 November 1970.
+Answer: miguel treviño morales
+Miguel Treviño Morales was born on 18 November 1
+Answer Prob: 0.9335647225379944
+Marginalized Prob: 0.5421668887138367
+Answer Prob List: [0.9335647225379944, 0.526971161365509, 0.32273048162460327]
+Marginalized Prob List: [0.7139663696289062, 0.6915848255157471, 0.6147838830947876]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What country of origin does 5urprise and Seo Kang-joon have in common?
+Golden Answer: ['South Korean']
+Greedy Answer: South Korea
+RAG Hallu Answer: South Korea
+Generated Sentence: 
+Seo Kang-joon is a member of the group 5urprise. 5urprise is a "first ever South Korean actor group".
+
+Answer:
+
+### 2.
+
+Given the following
+Answer Prob: 0.584283173084259
+Marginalized Prob: 0.5744543671607971
+Answer Prob List: [0.584283173084259, 0.23825383186340332, 0.19583527743816376]
+Marginalized Prob List: [0.553498387336731, 0.5561003088951111, 0.5467646718025208]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Michael Benyaer is best known for his role as bob in a Canadian television series that aired starting which year ?
+Golden Answer: ['1994']
+Greedy Answer: ReBoot
+
+##
+RAG Hallu Answer: ReBoot
+
+##
+Generated Sentence: 
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+
+Answer: reboot
+Answer Prob: 0.3519519865512848
+Marginalized Prob: 0.30189061164855957
+Answer Prob List: [0.3519519865512848, 0.7290992140769958, 0.2287491112947464]
+Marginalized Prob List: [0.7487217783927917, 0.6132877469062805, 0.7091512680053711]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the nationality of the person released the song "Have Mercy on the Criminal"?
+Golden Answer: ['English']
+Greedy Answer: English
+RAG Hallu Answer: English
+Generated Sentence: 
+Elton John  Sir Elton Hercules John, (born Reginald Kenneth Dwight; 25 March 1947), is an English singer, pianist, and composer.  He has worked with lyricist
+Answer Prob: 0.1751362383365631
+Marginalized Prob: 0.3794955909252167
+Answer Prob List: [0.17107920348644257, 0.1751362383365631, 0.11758091300725937]
+Marginalized Prob List: [0.8925080895423889, 0.9037144780158997, 0.9023504257202148]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the amusement zone founded at which the mummified body of Elmer McCurdy was positively identified in 1976, founded ?
+Golden Answer: ['1902']
+Greedy Answer: The Pike was founded
+RAG Hallu Answer: The Pike was founded
+Generated Sentence: 
+The Pike was an amusement zone in Long Beach, California.
+The Pike was founded in 1902 along the shoreline south of Ocean Boulevard with several independent arcades, food stands, gift shops
+Answer Prob: 0.5605953335762024
+Marginalized Prob: 0.34981998801231384
+Answer Prob List: [0.5605953335762024, 0.653272271156311, 0.39374691247940063]
+Marginalized Prob List: [0.8872557282447815, 0.8803436756134033, 0.8872557282447815]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:A Canadian former professional hockey player, who led the Generals to a Memorial Cup victory in 1990, was drafted by Nordiques in 1991 but refused and played for what team instead?
+Golden Answer: ["Canadian national men's hockey team"]
+Greedy Answer: Eric Lindros played for the Canadian
+RAG Hallu Answer: Eric Lindros played for the Canadian
+Generated Sentence: 
+Eric Lindros played for Canadian national men's hockey team, and then returned to the Generals for the rest of the season.
+Eric Lindros played for Canadian national men's hockey team, and then returned to the Gener
+Answer Prob: 0.5974143743515015
+Marginalized Prob: 0.45565277338027954
+Answer Prob List: [0.5974143743515015, 0.43617355823516846, 0.3396461308002472]
+Marginalized Prob List: [0.7438206672668457, 0.6856492757797241, 0.682490348815918]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What British painter and musician was the bass player included on Anthology 1?
+Golden Answer: ['Stuart Sutcliffe']
+Greedy Answer: Stuart Sutcliffe
+RAG Hallu Answer: Stuart Sutcliffe
+Generated Sentence: 
+Stuart Sutcliffe was the bass player included on Anthology 1.
+Stuart Sutcliffe was the bass player included on Anthology 1.
+Stuart Sutcliffe was the bass player
+Answer Prob: 0.8971182703971863
+Marginalized Prob: 0.45799878239631653
+Answer Prob List: [0.8971182703971863, 0.5529518723487854, 0.5025047063827515]
+Marginalized Prob List: [0.7004252672195435, 0.7058057188987732, 0.7031522393226624]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which area, known for gambling, was the 2015 Miss Universe Pagent held?
+Golden Answer: ['Las Vegas']
+Greedy Answer: Las Vegas
+RAG Hallu Answer: Las Vegas
+Generated Sentence: 
+
+Answer: Las Vegas is known for gambling.
+
+Answer: Las Vegas is known for gambling.
+
+Answer: Las Vegas is known for gambling.
+
+Answer: Las Vegas is
+Answer Prob: 0.8725778460502625
+Marginalized Prob: 0.5486385822296143
+Answer Prob List: [0.8725778460502625, 0.4094255864620209, 0.30180564522743225]
+Marginalized Prob List: [0.6837543845176697, 0.690130889415741, 0.690130889415741]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Jack Duarte stars as "Tomas Goycolea" in a Mexican telenovela that was created by this person?
+Golden Answer: ['Cris Morena']
+Greedy Answer: Cris Morena
+RAG Hallu Answer: Cris Morena
+Generated Sentence: 
+Cris Morena is the creator of the Mexican telenovela "Rebelde"
+Answer: Jack Duarte stars as "Tomas Goycolea" in a Mexican telenovela that was created by Cris Mor
+Answer Prob: 0.7827033996582031
+Marginalized Prob: 0.5009257793426514
+Answer Prob List: [0.7827033996582031, 0.4523769021034241, 0.35268184542655945]
+Marginalized Prob List: [0.708869218826294, 0.7019625306129456, 0.6669802069664001]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed a film that included Sarah Manninen?
+Golden Answer: ['Martha Coolidge']
+Greedy Answer: Martha Coolidge
+RAG Hallu Answer: Martha Coolidge
+Generated Sentence: 
+The Prince and Me is a 2004 romantic comedy film directed by Martha Coolidge, and starring Julia Stiles, Luke Mably, and Ben Miller, with Miranda Richardson, James Fox, and Al
+Answer Prob: 0.9023780226707458
+Marginalized Prob: 0.5767013430595398
+Answer Prob List: [0.45786920189857483, 0.9023780226707458, 0.20528846979141235]
+Marginalized Prob List: [0.9088888764381409, 0.8997307419776917, 0.8757439851760864]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Trial, released in which year, is a film directed by Orson Welles, the film begins with Welles narrating Kafka's parable "Before the Law" to pinscreen scenes created by the artist Alexandre Alexeieff, was a Russian Empire-born artist, filmmaker and illustrator who lived and worked mainly in Paris?
+Golden Answer: ['1962']
+Greedy Answer: The Trial, released
+RAG Hallu Answer: The Trial, released
+Generated Sentence: 
+The Trial, released in 1962, is a film directed by Orson Welles, the film begins with Welles narrating Kafka's parable "Before the Law" to pinscreen scenes created by the
+Answer Prob: 0.7499277591705322
+Marginalized Prob: 0.38041794300079346
+Answer Prob List: [0.7499277591705322, 0.7005185484886169, 0.5109102725982666]
+Marginalized Prob List: [0.9039273858070374, 0.9154832363128662, 0.9057212471961975]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In 2006 Tord Boontje created a special holiday collection for a department store that is headquartered in what state?
+Golden Answer: ['Minnesota']
+Greedy Answer: Minnesota
+RAG Hallu Answer: Minnesota
+Generated Sentence: 
+Target Corporation is the second-largest discount store retailer in the United States, behind Walmart, and a component of the S&P 500 Index. Founded by George Dayton and headquartered in
+Answer Prob: 0.4311288297176361
+Marginalized Prob: 0.7282105684280396
+Answer Prob List: [0.09619785845279694, 0.4311288297176361, 0.06611575931310654]
+Marginalized Prob List: [0.881976842880249, 0.8814206719398499, 0.8618968725204468]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what does Diana Scarwid and Pretty Baby have in common?
+Golden Answer: ['film']
+Greedy Answer: D
+RAG Hallu Answer: D
+Generated Sentence: 
+Diana Scarwid and Pretty Baby have in common that they are both American films.
+Diana Scarwid and Pretty Baby have in common that they are both historical drama films.
+Diana Scarwid and Pretty
+Answer Prob: 0.20214390754699707
+Marginalized Prob: 0.49800175428390503
+Answer Prob List: [0.20214390754699707, 0.11339245736598969, 0.09182801097631454]
+Marginalized Prob List: [0.663374662399292, 0.653073251247406, 0.6655886173248291]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Oli Sihvonen studied at college in what state?
+Golden Answer: ['North Carolina']
+Greedy Answer: North Carolina
+RAG Hallu Answer: North Carolina
+Generated Sentence: 
+Black Mountain College was located in North Carolina.
+
+### 2.
+
+Given the following information:Black Mountain College  Black Mountain College, a school founded in 1933 in Black Mountain, North Carolina (near
+Answer Prob: 0.6253659725189209
+Marginalized Prob: 0.5271809101104736
+Answer Prob List: [0.6253659725189209, 0.3347098231315613, 0.22929909825325012]
+Marginalized Prob List: [0.6580130457878113, 0.6554750204086304, 0.6527373790740967]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the area of the town that Church of St. Anne is located in (in Acres)?
+Golden Answer: ['887']
+Greedy Answer: 887
+RAG Hallu Answer: 887
+Generated Sentence: 
+The area of the town that Church of St. Anne is located in is 887 acres.
+The Old Town of Vilnius (Lithuanian: "Vilniaus senamiestis" , Polish: "St
+Answer Prob: 0.5428531169891357
+Marginalized Prob: 0.3614806830883026
+Answer Prob List: [0.5913944840431213, 0.5428531169891357, 0.42232754826545715]
+Marginalized Prob List: [0.686356246471405, 0.7344209551811218, 0.7063843607902527]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which world leader commanded the rebel force that ended the 1994 Rwandan Genocide, and today sponsors the CECAFA Club Cup?
+Golden Answer: ['Paul Kagame']
+Greedy Answer: Paul Kagame
+RAG Hallu Answer: Paul Kagame
+Generated Sentence: 
+Paul Kagame is the current President of Rwanda having taken office in 2000 when his predecessor, Pasteur Bizimungu, resigned. Kagame previously commanded the rebel force that
+Answer Prob: 0.8825576901435852
+Marginalized Prob: 0.47891637682914734
+Answer Prob List: [0.8825576901435852, 0.5035869479179382, 0.46550530195236206]
+Marginalized Prob List: [0.8581035137176514, 0.8581035137176514, 0.8418306708335876]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where is team based for which Timo Werner plays forward?
+Golden Answer: ['Leipzig, Saxony']
+Greedy Answer: RB Leipzig
+
+RAG Hallu Answer: RB Leipzig
+
+Generated Sentence: 
+RB Leipzig is a German association football club based in Leipzig, Saxony.
+The club was founded in 2009 by initiative of energy drink-maker Red Bull GmbH who purchased a playing right of the fifth division side SS
+Answer Prob: 0.6161478757858276
+Marginalized Prob: 0.47049927711486816
+Answer Prob List: [0.6161478757858276, 0.2319379597902298, 0.46321719884872437]
+Marginalized Prob List: [0.8286822438240051, 0.8224610686302185, 0.8286822438240051]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the head of the "VilniusBrigade" and whos death was July 1995?
+Golden Answer: ['Boris Dekanidze']
+Greedy Answer: Boris Dekanidze
+RAG Hallu Answer: Boris Dekanidze
+Generated Sentence: 
+Boris Dekanidze was the head of the "Vilnius Brigade" criminal organization in Lithuania. In 1994, he was convicted of ordering the murder of Lithuanian journalist Vitas Lingys
+Answer Prob: 0.8995913863182068
+Marginalized Prob: 0.43654295802116394
+Answer Prob List: [0.8995913863182068, 0.6516389846801758, 0.5204734206199646]
+Marginalized Prob List: [0.8644993901252747, 0.8644993901252747, 0.8462503552436829]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Sean Lawlor appeared in the 1993 Irish-British-American courtroom drama film directed by whom?
+Golden Answer: ['Jim Sheridan']
+Greedy Answer: Jim Sheridan
+RAG Hallu Answer: Jim Sheridan
+Generated Sentence: 
+Sean Lawlor appeared in the 1993 Irish-British-American courtroom drama film directed by Jim Sheridan.
+In the Name of the Father is a 1993 Irish-British-
+Answer Prob: 0.7313006520271301
+Marginalized Prob: 0.40685006976127625
+Answer Prob List: [0.6241580247879028, 0.7313006520271301, 0.42850661277770996]
+Marginalized Prob List: [0.8423877954483032, 0.8316754698753357, 0.8422819972038269]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Boston Martyrs were executed for disobeying a law banning them from where?
+Golden Answer: ['Massachusetts Bay Colony']
+Greedy Answer: Massachusetts Bay Colony
+RAG Hallu Answer: Massachusetts Bay Colony
+Generated Sentence: 
+The Boston martyrs were executed for disobeying a law banning them from the Massachusetts Bay Colony.
+The Boston martyrs is the name given in Quaker tradition to the three English members of the Society of Friends
+Answer Prob: 0.5782470107078552
+Marginalized Prob: 0.41735491156578064
+Answer Prob List: [0.590809166431427, 0.5782470107078552, 0.23843009769916534]
+Marginalized Prob List: [0.7743043899536133, 0.7937332391738892, 0.7686983346939087]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the climate of the country in which the city of Nianing is located?
+Golden Answer: ['Sahelian']
+Greedy Answer: The climate
+RAG Hallu Answer: The climate
+Generated Sentence: 
+The climate of Senegal is Sahelian, but there is a rainy season.
+The climate of Senegal is Sahelian, but there is a rainy season.  The climate of Senegal is Sahelian, but
+Answer Prob: 0.32937943935394287
+Marginalized Prob: 0.3480919301509857
+Answer Prob List: [0.32937943935394287, 0.3474489748477936, 0.2784141004085541]
+Marginalized Prob List: [0.6766794919967651, 0.6608343720436096, 0.6745797991752625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which high school did the Denver Nuggets player attend who was suspended for 15 games after a brawl in season 2006-7 ?
+Golden Answer: ['Towson Catholic High School']
+Greedy Answer: Towson Catholic High School
+RAG Hallu Answer: Towson Catholic High School
+Generated Sentence: 
+The Denver Nuggets player who was suspended for 15 games after a brawl in season 2006-7 attended Towson Catholic High School.
+The Denver Nuggets player who was suspended
+Answer Prob: 0.7151097059249878
+Marginalized Prob: 0.45151227712631226
+Answer Prob List: [0.5478381514549255, 0.7151097059249878, 0.3800269365310669]
+Marginalized Prob List: [0.7475799918174744, 0.7775377631187439, 0.6996729969978333]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The book The Tale of Jemima Puddle-Duck was written at which famous house?
+Golden Answer: ['Hill Top']
+Greedy Answer: Hill Top
+RAG Hallu Answer: Hill Top
+Generated Sentence: 
+The book The Tale of Jemima Puddle-Duck was written at Hill Top, a famous house in the English county of Cumbria.
+The book The Tale of Jemima Puddle-
+Answer Prob: 0.7631733417510986
+Marginalized Prob: 0.6598157286643982
+Answer Prob List: [0.19431139528751373, 0.7631733417510986, 0.1928292214870453]
+Marginalized Prob List: [0.7657956480979919, 0.7476194500923157, 0.7538540363311768]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name of the second studio album by American nu metalcore band Issues, a band who currently consists of clean vocalist Tyler Carter, unclean vocalist Michael Bohn, bassist Skyler Acord, guitarist AJ Rebollo, and drummer Josh Manuel?
+Golden Answer: ['Headspace']
+Greedy Answer: Headspace
+RAG Hallu Answer: Headspace
+Generated Sentence: 
+The band currently consists of clean vocalist Tyler Carter, unclean vocalist Michael Bohn, bassist Skyler Acord, guitarist AJ Rebollo, and drummer Josh Manuel.
+The band currently consists of clean vocal
+Answer Prob: 0.6263459324836731
+Marginalized Prob: 0.4357909858226776
+Answer Prob List: [0.6263459324836731, 0.5073444247245789, 0.29934123158454895]
+Marginalized Prob List: [0.8155883550643921, 0.8223892450332642, 0.8155883550643921]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:MG EX-E was inspired by this sports car that was manufactured from 1975 to when
+Golden Answer: ['1985']
+Greedy Answer: Ferrari 30
+RAG Hallu Answer: Ferrari 30
+Generated Sentence: 
+The MG EX-E was inspired by the Ferrari 308.
+The MG EX-E was a mid-engined sportscar inspired by the Ferrari 308 and designed by Roy Axe and Ger
+Answer Prob: 0.8219519853591919
+Marginalized Prob: 0.47024863958358765
+Answer Prob List: [0.8219519853591919, 0.5508447289466858, 0.3837498724460602]
+Marginalized Prob List: [0.7673561573028564, 0.7544348239898682, 0.768632709980011]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How many people does the company brewing Denmark's most well-known beers employ?
+Golden Answer: ['41,000']
+Greedy Answer: The company brewing Denmark'
+RAG Hallu Answer: The company brewing Denmark'
+Generated Sentence: 
+The company brewing Denmark's most well-known beers employs around 41,000 people.
+Answer the following question based on the given information with one or few words: What is the name of the
+Answer Prob: 0.704318642616272
+Marginalized Prob: 0.357637882232666
+Answer Prob List: [0.704318642616272, 0.7136682271957397, 0.5719838738441467]
+Marginalized Prob List: [0.7486253380775452, 0.740140438079834, 0.7322396636009216]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What 2015 South Korean film did Bae Seong-woo star in that premiered at the 2015 Cannes Film Festival?
+Golden Answer: ['Office']
+Greedy Answer: Office
+RAG Hallu Answer: Office
+Generated Sentence: 
+Office (2015 South Korean film)  Office (오피스 ) is 2015 South Korean slasher-thriller film directed by Hong Won-chan and starring Go Ah-sung
+Answer Prob: 0.6418122053146362
+Marginalized Prob: 0.8171149492263794
+Answer Prob List: [0.6418122053146362, 0.10075917840003967, 0.04367586970329285]
+Marginalized Prob List: [0.9035306572914124, 0.9035306572914124, 0.887272298336029]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What corporation based in Superior, Wisconsin sponsored the 2010 AMA Pro Supersport Championship?
+Golden Answer: ['Amsoil Inc.']
+Greedy Answer: Amsoil
+
+
+RAG Hallu Answer: Amsoil
+
+
+Generated Sentence: 
+Amsoil Inc. is an American corporation based in Superior, Wisconsin that primarily formulates and packages synthetic lubricants and filters. The company's advertising slogan is "The First in Synthetics
+Answer Prob: 0.5551163554191589
+Marginalized Prob: 0.4561016261577606
+Answer Prob List: [0.5551163554191589, 0.424628883600235, 0.23889732360839844]
+Marginalized Prob List: [0.8854066729545593, 0.8854066729545593, 0.8796494603157043]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What film was based off a book that chronicled the story of a mobster born June 11, 1943 that was associated with the Lucchese crime family?
+Golden Answer: ['Goodfellas']
+Greedy Answer: Goodfellas
+RAG Hallu Answer: Goodfellas
+Generated Sentence: 
+The book is the basis for the 1990 Academy Award-winning film "Goodfellas" directed by Martin Scorsese.
+Henry Hill, Jr. (June 11, 194
+Answer Prob: 0.7772186994552612
+Marginalized Prob: 0.45710158348083496
+Answer Prob List: [0.545912504196167, 0.7772186994552612, 0.3856954872608185]
+Marginalized Prob List: [0.8188598155975342, 0.8248558640480042, 0.8151488900184631]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How big is the state park located in Grafton County, New Hampshire?
+Golden Answer: ['5655 acre']
+Greedy Answer: 5655 acres
+
+RAG Hallu Answer: 5655 acres
+
+Generated Sentence: 
+The state park is located in Grafton County, New Hampshire.
+The state park is free to use, open year-round, and offers a hiking trail up to the 3,121-foot treeless
+Answer Prob: 0.6595205664634705
+Marginalized Prob: 0.34513339400291443
+Answer Prob List: [0.5861619114875793, 0.6595205664634705, 0.6757730841636658]
+Marginalized Prob List: [0.7512809038162231, 0.7586180567741394, 0.7531494498252869]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which role did this English actor play in the "Pirates of the Caribbean" series, who also who appeared in "Tale of the Mummy"?
+Golden Answer: ['James Norrington']
+Greedy Answer: Jack Davenport
+RAG Hallu Answer: Jack Davenport
+Generated Sentence: 
+Jack Davenport played the role of James Norrington in the "Pirates of the Caribbean" series.
+He also appeared in "Tale of the Mummy" as Jack Arthur Davenport.
+The correct
+Answer Prob: 0.8143272399902344
+Marginalized Prob: 0.46204933524131775
+Answer Prob List: [0.8143272399902344, 0.5400084257125854, 0.41067948937416077]
+Marginalized Prob List: [0.672395646572113, 0.672395646572113, 0.668154776096344]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Venetian grosso is a silver coin first introduced in Venice under a doge that died in what year?
+Golden Answer: ['1205']
+Greedy Answer: 1192
+RAG Hallu Answer: 1192
+Generated Sentence: 
+The Venetian grosso is a silver coin first introduced in Venice in 1192 under doge Enrico Dandolo.
+The Venetian grosso is a silver coin first introduced in Venice in 1
+Answer Prob: 0.587248682975769
+Marginalized Prob: 0.3131435215473175
+Answer Prob List: [0.6891645789146423, 0.587248682975769, 0.6583872437477112]
+Marginalized Prob List: [0.7585708498954773, 0.7945376038551331, 0.7604216933250427]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What Brazilian operatic soprano has sung with the Johann Strauss Orchestra?
+Golden Answer: ['Carmen Monarcha']
+Greedy Answer: Carmen Monarcha
+RAG Hallu Answer: Carmen Monarcha
+Generated Sentence: 
+Carmen Monarcha has sung with the Johann Strauss Orchestra.
+
+### 1.2.1.1.1.1.1.1.1.1.1.1.1.1.1
+Answer Prob: 0.9387398362159729
+Marginalized Prob: 0.4496423006057739
+Answer Prob List: [0.9387398362159729, 0.6401387453079224, 0.5095462799072266]
+Marginalized Prob List: [0.5272273421287537, 0.5272273421287537, 0.5265271663665771]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the 1947 film noir for which Fergus McDonell was nominated for the Academy Award for Best Film Editing?
+Golden Answer: ['Carol Reed']
+Greedy Answer: Carol Reed
+RAG Hallu Answer: Carol Reed
+Generated Sentence: 
+Carol Reed directed the 1947 film noir for which Fergus McDonell was nominated for the Academy Award for Best Film Editing.
+
+Answer:
+
+```
+Odd Man Out  Odd
+Answer Prob: 0.8749547600746155
+Marginalized Prob: 0.5472925901412964
+Answer Prob List: [0.45951250195503235, 0.8749547600746155, 0.29086655378341675]
+Marginalized Prob List: [0.6291884183883667, 0.6624006032943726, 0.6542072892189026]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Somebody Up There Likes Me starred the actor who played Ron Swanson on what NBC sitcom?
+Golden Answer: ['Parks and Recreation']
+Greedy Answer: Parks and Recreation
+RAG Hallu Answer: Parks and Recreation
+Generated Sentence: 
+The actor who played Ron Swanson on what NBC sitcom?
+Answer: parks and recreation
+The actor who played Ron Swanson on what NBC sitcom?
+Answer: parks and recreation
+The actor who
+Answer Prob: 0.8676542043685913
+Marginalized Prob: 0.4581352770328522
+Answer Prob List: [0.8676542043685913, 0.4021899700164795, 0.6209040880203247]
+Marginalized Prob List: [0.5968663096427917, 0.5537307858467102, 0.6278198957443237]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed Irreplaceable You starring British stage and film actress Gugu Mbatha-Raw?
+Golden Answer: ['Stephanie Laing']
+Greedy Answer: Stephanie Laing
+RAG Hallu Answer: Stephanie Laing
+Generated Sentence: 
+Stephanie Laing is the director of Irreplaceable You starring British stage and film actress Gugu Mbatha-Raw.
+Given the following information:Irreplaceable You  Irreplaceable You is an
+Answer Prob: 0.9163540005683899
+Marginalized Prob: 0.571771502494812
+Answer Prob List: [0.39497846364974976, 0.9163540005683899, 0.31460073590278625]
+Marginalized Prob List: [0.720462441444397, 0.7569482326507568, 0.7467536330223083]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the square footage of the shopping mall SEA LIFE Grapevine is located in?
+Golden Answer: ['over 1600000 sqft']
+Greedy Answer: Grapevine Mills
+Answer the following question
+RAG Hallu Answer: Grapevine Mills
+Answer the following question
+Generated Sentence: 
+Answer: Grapevine Mills is a diverse-scale (outlet) shopping mall in Grapevine, Texas in the Dallas-Fort Worth Metroplex. Grapevine Mills currently totals over
+Answer Prob: 0.6931805610656738
+Marginalized Prob: 0.3288056552410126
+Answer Prob List: [0.6931805610656738, 0.6871578097343445, 0.7062221169471741]
+Marginalized Prob List: [0.8538638353347778, 0.8598731160163879, 0.874152660369873]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Ghazi Attack stars an Indian actor who is known for his owrks in Telugu cinema, and who, in 2006, received the National Film Award for co-producing what?
+Golden Answer: ['Bommalata – A Bellyful of Dreams']
+Greedy Answer: Rana Daggubati
+The Ghazi Attack
+RAG Hallu Answer: Rana Daggubati
+The Ghazi Attack
+Generated Sentence: 
+Rana Daggubati is an Indian actor who is known for his works in Telugu cinema, and who, in 2006, received the National Film Award for co-producing Bommalata – A Bel
+Answer Prob: 0.7084426879882812
+Marginalized Prob: 0.34112221002578735
+Answer Prob List: [0.7084426879882812, 0.6314811110496521, 0.7396230697631836]
+Marginalized Prob List: [0.8080943822860718, 0.8080943822860718, 0.8050934672355652]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name shared between a city in Prestatyn, Wales and a company operating holiday parks in the UK
+Golden Answer: ['Pontins']
+Greedy Answer: Pontins
+RAG Hallu Answer: Pontins
+Generated Sentence: 
+Pontins is the trading name of Britannia Jinky Jersey Ltd, a company operating holiday parks in the UK.
+The original Pontins company was founded in 1946 by Fred Pontin.
+P
+Answer Prob: 0.513813853263855
+Marginalized Prob: 0.4505084156990051
+Answer Prob List: [0.46469205617904663, 0.513813853263855, 0.17690469324588776]
+Marginalized Prob List: [0.8164752125740051, 0.8210709691047668, 0.7640306949615479]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Dutch symphonic metal band released the song "Get the Devil Out of Me"?
+Golden Answer: ['Delain']
+Greedy Answer: Delain
+RAG Hallu Answer: Delain
+Generated Sentence: 
+Delain is a Dutch symphonic metal band formed in 2002 by former Within Temptation keyboardist Martijn Westerholt, and Charlotte Wessels. The name of the band comes from the Kingdom of Del
+Answer Prob: 0.702934980392456
+Marginalized Prob: 0.5463544130325317
+Answer Prob List: [0.702934980392456, 0.35745394229888916, 0.22775037586688995]
+Marginalized Prob List: [0.9161947965621948, 0.9161947965621948, 0.9099684953689575]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
