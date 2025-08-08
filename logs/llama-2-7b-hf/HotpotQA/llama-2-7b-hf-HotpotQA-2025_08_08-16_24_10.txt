@@ -1118,3 +1118,52 @@ Marginalized Prob List: [0.9161947965621948, 0.9161947965621948, 0.9099684953689
 
 
 
+Q:The first film released by production company Division Films was located where?
+Golden Answer: ['Florida']
+Greedy Answer: Los
+RAG Hallu Answer: Los
+Generated Sentence: 
+The first film released by production company Division Films was located where?
+The first film released by production company Division Films was located where?
+The first film released by production company Division Films was located where?
+The first film released by production company
+Answer Prob: 0.3599117398262024
+Marginalized Prob: 0.7233092784881592
+Answer Prob List: [0.3599117398262024, 0.07633088529109955, 0.06352820247411728]
+Marginalized Prob List: [0.7688567638397217, 0.7441214919090271, 0.7721878290176392]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Stuart Clarke and David Lieberman were fictional characters showcased in which comics universe?
+Golden Answer: ['Marvel']
+Greedy Answer: Marvel
+RAG Hallu Answer: Marvel
+Generated Sentence: 
+Stuart Clarke and David Lieberman were fictional characters showcased in which comics universe?
+Stuart Clarke and David Lieberman were fictional characters showcased in the Marvel Comics universe.
+St
+Answer Prob: 0.38078147172927856
+Marginalized Prob: 0.7154476046562195
+Answer Prob List: [0.08630181103944778, 0.38078147172927856, 0.06827035546302795]
+Marginalized Prob List: [0.7078983783721924, 0.7403900623321533, 0.7475695013999939]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the year of the event which occured first, Richard Nixon was born, or The Trial of Henry Kissinger was published?
+Golden Answer: ['1913']
+Greedy Answer: The Trial of Henry
+RAG Hallu Answer: The Trial of Henry
+Generated Sentence: 
+The Trial of Henry Kissinger was published in 2001.
+Richard Nixon was born in 1913.
+Therefore, the year of the event which occured first, Richard Nixon was
+Answer Prob: 0.7355380058288574
+Marginalized Prob: 0.35811176896095276
+Answer Prob List: [0.7355380058288574, 0.7477574348449707, 0.5538516640663147]
+Marginalized Prob List: [0.751040518283844, 0.751539409160614, 0.7731308937072754]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
