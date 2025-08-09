@@ -1,7 +1,7 @@
 import utils
 
 if __name__ == '__main__':
-    data = utils.load_parquet_data('../results/llama-2-7b-hf/HotpotQA-2000.jsonl')
+    data = utils.load_parquet_data('../results/llama-2-7b-hf/HotpotQA-2000-2per-seed0-cons3.parquet')
 
     # evaluate Greedy
     print('------------------Greedy------------------')

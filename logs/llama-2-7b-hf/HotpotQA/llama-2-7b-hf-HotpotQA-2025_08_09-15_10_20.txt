@@ -1,0 +1,1335 @@
+Q:Who is older, Anne Noe or Jean-Marie Pfaff?
+Golden Answer: ['Jean-Marie Pfaff']
+Greedy Answer: Jean-Marie Pfaff
+Consistency Answer: Jean-Marie Pfaff
+Sampled Answer List: Jean-Marie Pfaff, Anne Noe
+Answer, Anne Noe is older, Jean-Marie Pfaff, Jean-Marie Pfaff
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?
+Golden Answer: ["Donald J. Trump's private jet"]
+Greedy Answer: Boeing 757
+Answer
+Consistency Answer: The Boeing 757 is
+Sampled Answer List: The Boeing 757 is, Boeing 757
+B, Donald Trump
+Answer: Boeing , Trump Force One is built by Boeing, Trump Force One
+The aircraft called Trump
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?
+Golden Answer: ['a family member']
+Greedy Answer: The VMA
+Consistency Answer: The VMA
+Sampled Answer List: Banshe, The VMA, VMAQ, VMAQ, The VMA
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In the epic of Gilgamesh, where did the wise female divinity associated with fermentation live?
+Golden Answer: ['the Waters of Death']
+Greedy Answer: Siduri lived on the
+Consistency Answer: Siduri lived on the
+Sampled Answer List: Siduri lived on the, Mashu 
+, 
+
+The wise, Siduri lived on the, Mashu
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had what nickname?
+Golden Answer: ['The Worm']
+Greedy Answer: Dennis Rodman
+Consistency Answer: Dennis Rodman
+Sampled Answer List: Dennis Rodman, Dennis Rodman, Dennis Rodman, Dennis Rodman, The 1
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the city George Consider Hale was born in founded?
+Golden Answer: ['in the 1830s']
+Greedy Answer: 1830s
+Answer
+Consistency Answer: 1830
+
+##
+Sampled Answer List: 1830s
+Answer, 1830s
+
+, 1830
+
+##, 1830
+
+##, 1850
+
+##
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which province is the city located that is the birthplace of Ed Wubbe?
+Golden Answer: ['North Holland']
+Greedy Answer: North Holland
+Consistency Answer: Amsterdam is
+Sampled Answer List: Amsterdam is, 
+The, Amsterdam
+, Amsterdam is, North Holland
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which film featured Rosalind Cash prior to the release of "Sister, Sister"?
+Golden Answer: ['The Omega Man']
+Greedy Answer: The Omega Man
+Consistency Answer: The Omega Man
+Sampled Answer List: The Omega Man, Roots
+Ro, The Omega Man, "The Omega, "The Omega
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dawn Lake described the star of "I Love Lucy" as what?
+Golden Answer: ['our greatest comedienne']
+Greedy Answer: Lucille Ball
+Answer
+Consistency Answer: Dawn Lake described the
+Sampled Answer List: Lucille Ball
+The, Dawn Lake described the, Lucille Ball
+Answer, Lucille Ball
+D, Dawn Lake described the
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the name of the country ran by the president who maintained the mercenary unit, White Legion?
+Golden Answer: ['Zaire']
+Greedy Answer: Zaire
+Consistency Answer: Zaire
+Sampled Answer List: Zaire, Zaire, Zaire, Zaire, Zaire
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Grammy Nominated album was created by a band whose members include John Bowman?
+Golden Answer: ["Nature's Symphony in 432"]
+Greedy Answer: The Isaacs
+The Isaacs are a country
+Consistency Answer: Nature's Symphony in 432
+Sampled Answer List: Nature's Symphony in 432, Nature's Symphony in 432, The Isaacs
+Born in 19, The Isaacs
+Answer: The Isaacs are,  The Isaacs  The Isaacs are a
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Golden Answer: ['12+3/4 mi northeast of Liverpool']
+Greedy Answer: Aughton Park railway station is on a branch of the
+Consistency Answer: Aughton Park railway station is on a branch of the
+Sampled Answer List: Aughton Park railway station is on a branch of the, Aughton Park railway station is on a branch of the, Aughton Park railway station is on a branch of the, 11+3/4 mi
+
+###, 11½ miles (19 km) north east
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the area of the desert that Ghanzi is in the middle of?
+Golden Answer: ['900000 km2']
+Greedy Answer: The area of the desert that Ghanzi
+Consistency Answer: The area of the desert that Ghanzi
+Sampled Answer List: The desert that Ghanzi is in the, 117910 km2, Ghanzi is in the middle of the, The area of the desert that Ghanzi, The area of the desert that Ghanzi
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the movie filmed starring Choi Yoon-young in 2012?
+Golden Answer: ['Korea']
+Greedy Answer: As
+Consistency Answer: Japan
+Sampled Answer List: Japan, As, Japan, South, South
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who stars in the title role of a Netflix show co-created by Robert Carlock?
+Golden Answer: ['Ellie Kemper']
+Greedy Answer: Ellie Kemper
+Consistency Answer: Ellie Kemper
+Sampled Answer List: Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which American rock band was formed first, Soil or Drowning Pool?
+Golden Answer: ['Drowning Pool']
+Greedy Answer: Soil
+So
+Consistency Answer: Soil (American
+Sampled Answer List: Soil (American, Soil was formed, Soil (American, Drowning Pool, Soil
+Wh
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?
+Golden Answer: ['fortnightly']
+Greedy Answer: 
+
+
+Consistency Answer: 
+At what
+Sampled Answer List: The magazine publish, 
+
+, 
+At what, 
+At what,  India Today
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who commanded the Anglo-Canadian 21st Army Group and was nicknamed "Monty"?
+Golden Answer: ['Bernard Montgomery']
+Greedy Answer: Bernard Montgomery
+Consistency Answer: Bernard Montgomery
+Sampled Answer List: Field Marshal Bernard, Bernard Montgomery, Bernard Montgomery, Derek Kne, Bernard Montgomery
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what regions of the United States is the Eastern Market, Detroit located?
+Golden Answer: ['Great Lakes and Midwestern']
+Greedy Answer: Eastern Market, Detroit is located
+Consistency Answer: The Eastern Market, Detroit is
+Sampled Answer List: The Eastern Market, Detroit is, The Eastern Market, Detroit is, Midwestern region
+In what, The Eastern Market, Detroit is, Eastern Market, Detroit is located
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Before the 2004-2005 Minnesota Timberwovles season, what had Sam Cassell had been honored with what titles?
+Golden Answer: ['All-NBA Team']
+Greedy Answer: Cassell had been hon
+Consistency Answer: Cassell had been hon
+Sampled Answer List: Cassell had been hon, Sam Cassell had been, Cassell had been hon, Sam Cassell had been, Cassell had been hon
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what city is the mortgage lending company, founded by Dan Gilbert, headquartered?
+Golden Answer: ['Detroit, Michigan']
+Greedy Answer: Cleveland, Ohio
+Consistency Answer: Cleveland, Ohio
+Sampled Answer List: Cleveland, Ohio, Detroit
+G, Quicken Lo, Cleveland, Ohio, Cleveland, Ohio
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:José Baviera starred in the 1962 film by the filmmaker who worked in what countries?
+Golden Answer: ['Spain, Mexico and France']
+Greedy Answer: Luis Buñuel worked
+Consistency Answer: José Baviera starred
+Sampled Answer List: José Baviera starred, Luis Buñuel worked, José Baviera starred, Luis Buñuel worked, Luis Buñuel
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the 2017 horror-thriller film in which Barry Keoghan, Nicole Kidman, Colin Farrell, and Alicia Silverstone appeared?
+Golden Answer: ['Yorgos Lanthimos']
+Greedy Answer: Yorgos Lanthimos
+Consistency Answer: Yorgos Lanthimos
+Sampled Answer List: Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?
+Golden Answer: ['Australia']
+Greedy Answer: Australia
+Consistency Answer: Australia
+Sampled Answer List: Australia, Australia, Australia, Australia, Australia
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?
+Golden Answer: ['Caesars Palace Grand Prix']
+Greedy Answer: Caesars Palace Grand Prix
+Consistency Answer: Caesars Palace Grand Prix
+Sampled Answer List: Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:From which city in Oklahoma is the singer of a song that peaked at number 24 on "Billboard" magazine's pop chart in December 1953?
+Golden Answer: ['Oklahoma City']
+Greedy Answer: Gayla
+Consistency Answer: Ponca
+Sampled Answer List: Ponca,  Gay, Gayla, Gayla, Ponca
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did an English former footballer purchase in march 2009?
+Golden Answer: ['50 JJB Sports Fitness Clubs']
+Greedy Answer: Dave Whelan purchased the 50 JJB
+Consistency Answer: Dave Whelan purchased the 50 JJB
+Sampled Answer List: A retailing and fitness business
+Answer:, Dave Whelan purchased the 50 JJB, Dave Whelan purchased 50 JJB Sports, DW Sports Fitness
+Answer:Dave, Dave Whelan purchased the 50 JJB
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?
+Golden Answer: ['Alfonso Cuarón']
+Greedy Answer: Alfonso Cuarón
+Consistency Answer: Alfonso Cuarón
+Sampled Answer List: Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which town in New Hampshire with a population of 5,457 in 2010 is located by Mount Monadnock?
+Golden Answer: ['Jaffrey']
+Greedy Answer: Jaffrey
+Consistency Answer: Jaffrey
+Sampled Answer List: Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Randy Shughart's rank when he died?
+Golden Answer: ['Sergeant First Class']
+Greedy Answer: Sergeant First Class
+Consistency Answer: Sergeant First Class
+Sampled Answer List: Sergeant First Class, Sergeant First Class, Sergeant First Class, Sargent First Class, Sergeant First Class
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What genre was the movie that Austin Nichols was in with Kirsten Dunst?
+Golden Answer: ['romantic comedy']
+Greedy Answer: Romantic comedy
+Consistency Answer: romantic comedy
+Sampled Answer List: romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What brother of Stanley Alan Van Gundy is a color commentator for ESPN?
+Golden Answer: ['Jeffrey William Van Gundy']
+Greedy Answer: Jeff Van Gundy
+Answer
+Consistency Answer: Jeff Van Gundy
+Answer
+Sampled Answer List: Jeff Van Gundy
+Answer, Jeff Van Gundy
+Answer, Jeff Van Gundy 
+, Jeff Van Gundy
+Wh, Jeff Van Gundy
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what was the American computer-animated fantasy film which  Aron Warner produced based on
+Golden Answer: ["William Steig's 1990 fairy tale"]
+Greedy Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+Consistency Answer: Shrek
+Aron Warner Aron J. Warner is an
+Sampled Answer List: Shrek
+Aron Warner Aron J. Warner is an, Shrek
+Answer: Aron Warner
+Answer: Shrek, Shrek
+Answer the following question based on the given information with, Shrek
+What is the name of the American actor and producer, Shrek
+The given information is about the Shrek.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What village in Nassau County, New York with a name meaning "a pleasant place" is represented by Kathleen Rice in the United States House of Representatives?
+Golden Answer: ['Mineola']
+Greedy Answer: Mineola
+Consistency Answer: Mineola
+Sampled Answer List: Mineola, Mineola, Mineola, Mineola, Mineola
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the singer born who performs Pon de Replay and was born Robyn Fenty?
+Golden Answer: ['Saint Michael, Barbados']
+Greedy Answer: Barbados
+Answer:
+Consistency Answer: Barbados
+Answer:
+Sampled Answer List: Barbados
+The name, Barbados
+Answer:,  Saint Michael
+Answer, Barbados
+Answer:, Rihanna was born
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which ocean would the ingredients likely come from for the She-crab soup?
+Golden Answer: ['Atlantic Ocean']
+Greedy Answer: Atlantic Ocean
+Consistency Answer: Atlantic ocean
+Sampled Answer List: Atlantic ocean, Atlantic ocean, Atlantic Ocean, The Atlantic, Atlantic Ocean
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the approximate population of the town near which Forward Operating Base Gibraltar was located ?
+Golden Answer: ['approximately 14,000']
+Greedy Answer: Sangin
+Answer: Sangin
+
+Consistency Answer: 14,000
+
+Sampled Answer List: 14,000
+, The approximate population of the town near which, Sangin 
+
+## 1, Sangin
+Question: Given the following, Sangin
+Answer: Sangin (
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American actress starred in the 1996 television film "Bastard Out of Carolina" directed by Anjelica Huston?
+Golden Answer: ['Jena Malone']
+Greedy Answer: Jena Malone
+Consistency Answer: Jena Malone
+Sampled Answer List: Jena Malone, Jena Malone, Jena Malone, Jena Malone, Jena Malone
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which 8-year old star of an epistolary novel turned musical by Alice Walker also voiced Frankie Greene in a Disney series?
+Golden Answer: ['Diamond White']
+Greedy Answer: Diamond White
+Consistency Answer: Diamond White
+Sampled Answer List: Diamond White, Diamond White, Diamond White, Diamond White, Diamond White
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to which nationality?
+Golden Answer: ['American']
+Greedy Answer: American
+Consistency Answer: American
+Sampled Answer List: , American, American, , American
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Oxley Highway ends at a coastal town that had how many inhabitants in June 2016 ?
+Golden Answer: ['45,698']
+Greedy Answer: 45,698
+Consistency Answer: 45,698
+Sampled Answer List: 45,698, 45,698, Port Macquarie had 4, Port Macquarie had a population, 45,698
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the steering committee was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years?
+Golden Answer: ['Walter Cronkite']
+Greedy Answer: Walter Cronkite
+Consistency Answer: Walter Cronkite
+Sampled Answer List: Walter Cronkite, Walter Cronk, Walter Cronkite, Walter Cronkite, Walter Cronkite
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What type of engine powered both the Saab 36 and the Avro Vulcan?
+Golden Answer: ['British Bristol Olympus turbojet']
+Greedy Answer: The engine powering both the Saab
+Consistency Answer: The engine powering both the Saab
+Sampled Answer List: The engine powering both the Saab, The engine powering both the Saab, Turbojet
+Question 3:,  Bristol Olympus turbojet,  The Vulcan was powered
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who co-starred alongside John Wayne in the 1951 World War II submarine film Operation Pacific?
+Golden Answer: ['Ward Bond']
+Greedy Answer: Ward Bond
+Consistency Answer: Ward Bond
+Sampled Answer List: Ward Bond, Ward Bond, Ward Bond, Patric, Ward Bond
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?
+Golden Answer: ['Texas Tech University']
+Greedy Answer: Texas Tech University
+Consistency Answer: Texas Tech University
+Sampled Answer List: Texas Tech University, Texas Tech University, Texas Tech University, Texas Tech University, Texas Tech University
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Peter Marc Jacobson is best known as the co-creator of the popular sitcom "The Nanny", which he created and wrote with his then wife an actress born in which year ?
+Golden Answer: ['1957']
+Greedy Answer: 1957
+Consistency Answer: The correct answer is:
+Sampled Answer List: 1957, The correct answer is:, The correct answer is , Fran Drescher
+Peter, Peter Marc Jacobson is
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the brother of the wife of the Democratic Party nomination for Vice President in 1972?
+Golden Answer: ['President John F. Kennedy']
+Greedy Answer: Sargent Shriver
+
+Consistency Answer: Sargent Shriver
+
+Sampled Answer List: Sargent Shriver
+, Sargent Shriver
+, Robert F. Kennedy
+, Sargent Shriver
+, Sargent Shriver
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the birthday of the singer whose songs are remixed in Queen of Clubs Trilogy: Onyx Edition?
+Golden Answer: ['3 August 1980']
+Greedy Answer: Nadia Ali (singer)
+
+Consistency Answer: 3 August 1980
+Sampled Answer List: Nadia Ali was born on 3, Nadia Ali (born 3 August, Nadia Ali
+Ans: Nad, 3 August 1980, 3 August 1980
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Mark Lawrence played for the Dallas Stars and which other NHL team?
+Golden Answer: ['New York Islanders']
+Greedy Answer: Dallas Stars and New
+Consistency Answer: Mark Lawrence played for
+Sampled Answer List: New York Islanders, New York Islanders, Mark Lawrence played for, Mark Lawrence played for, Mark Lawrence played for
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which crop first domesticated in Mexico has its price regulated by a Mexican parastatal created in 1962?
+Golden Answer: ['Maize']
+Greedy Answer: Maize
+Consistency Answer: maize
+Sampled Answer List: maize, maize, Maize, Maize, Maize
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What award was an actor born in 1955 that acted in the movie Ransom nominated for?
+Golden Answer: ['Academy Award']
+Greedy Answer: Golden Glo
+Consistency Answer: Golden Glo
+Sampled Answer List: Golden Glo, Golden Glo, Golden Glo, Golden Glo, Mel Gib
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Golden Answer: ['9,984']
+Greedy Answer: Brown State Fishing Lake is
+Consistency Answer: Brown State Fishing Lake is
+Sampled Answer List: The answer is Kansas.
+, Brown State Fishing Lake is, Brown State Fishing Lake is, 9,984, Brown State Fishing Lake is
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:License to Drive featured what future president of the Screen Actors Guild?
+Golden Answer: ['Richard Masur']
+Greedy Answer: Richard Masur
+Consistency Answer: Corey Ha
+Sampled Answer List: Corey Ha, Richard Masur, Corey Ha, Corey Ha, Richard Masur
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Grieg crater is named for a Norwegian composer who composed during what era?
+Golden Answer: ['Romantic']
+Greedy Answer: Romantic
+Consistency Answer: Romantic
+Sampled Answer List: Romantic, Romantic, Edvard, Romantic, Romantic
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Socialist conferences were held with what countries that opposed the Central Powers in the First World War?
+Golden Answer: ['The Allies of World War I']
+Greedy Answer: Socialist conferences were held with
+Consistency Answer: Socialist conferences were held with
+Sampled Answer List: Entente or Allied powers., 
+  Allies of World,  Socialist conferences were held, Socialist conferences were held with, Socialist conferences were held with
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on?
+Golden Answer: ['Stephen King']
+Greedy Answer: Stephen King
+Consistency Answer: Stephen King
+Sampled Answer List: Stephen King, Stephen King, Stephen King, Stephen King, Stephen King
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is represented on the cover art of the studio album that includes the song "Speed of Sound"?
+Golden Answer: ['Baudot code']
+Greedy Answer: The cover art
+Consistency Answer: a combination of
+Sampled Answer List: X&amp, The cover art, a combination of, The Baudot, a combination of
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?
+Golden Answer: ['football']
+Greedy Answer: Football
+Consistency Answer: Football
+Sampled Answer List: Football, football, Football, Football, Football
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?
+Golden Answer: ['Babylon']
+Greedy Answer: Ishtar
+Consistency Answer: The Panel
+Sampled Answer List: The Panel, The Panel, Ishtar, The Isht,  Isht
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the companion piece that Poe's brother published?
+Golden Answer: ['"The Whalestoe Letters"']
+Greedy Answer: The Whalestoe Letters
+Answer
+Consistency Answer: The Whalestoe Letters
+The
+Sampled Answer List: The Whalestoe Letters
+Answer, The Whalestoe Letters
+Question, The Whalestoe Letters
+The, The Whalestoe Letters  The, The Whalestoe Letters
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What album starring Ed Sheeran was released on 3 March 2017?
+Golden Answer: ['÷ (pronounced "divide") is the third studio album by English singer-songwriter Ed Sheeran.']
+Greedy Answer: ÷ (album)
+
+### Question 2
+
+Given the following information:Castle on the Hill (
+Consistency Answer: ÷ (album)
+What album starring Ed Sheeran was released on 3 March 2017?
+Sampled Answer List: ÷ (album)
+What album starring Ed Sheeran was released on 3 March 2017?, ÷ (album)
+
+### 31.
+
+Given the following information:Castle on the Hill, ÷ (album)
+
+### 1.1.2.1
+
+Given the following information:Cast, ÷ (album)
+
+### Question 10
+
+Given the following information:
+
+  ÷ (, 
+
+## 25.
+
+The first ever World Cup was held in 1930.
+
+The
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what Mississippi county is the city that is located five miles west of the county seat of said county?
+Golden Answer: ['Sunflower County']
+Greedy Answer: Indianola is located
+Consistency Answer: Sunflower County
+Sampled Answer List: Indianola is a, Sunflower County, Holly Ridge, Indianola, Mississippi, Sunflower County
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:During the Carnival in Rio de Janeiro who is the official singer of the samba school Mangueira?
+Golden Answer: ['José Bispo Clementino dos Santos']
+Greedy Answer: Jamelão
+Answer the following
+Consistency Answer: Jamelão  José Bispo
+Sampled Answer List: Jamelão  José Bispo, Jamelão  José Bispo, Jamelão
+The Carn, Jamelão
+Answer the following, Jamelão
+Answer: Jam
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the capacity of the stadium that hosts games of the team that was coached by Barry Switzer in 1981?
+Golden Answer: ['86,112']
+Greedy Answer: 86,112
+Consistency Answer: 86,112
+Sampled Answer List: 86,112, 86,112, 86,112, 86,112, 86,112
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Alex Jesaulenko, former Australian rules footballer and coach won the award The Goal of the Year. In what year did he win that award?
+Golden Answer: ['2001']
+Greedy Answer: 2001
+Consistency Answer: 2001
+Sampled Answer List: 1970, 2001, 2001, Alex Jesaulenko, In 200
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the original name of the place where The 1st Minnesota Light Artillery Battery mustered?
+Golden Answer: ['Fort Saint Anthony']
+Greedy Answer: Fort Snelling
+Consistency Answer: Fort Snelling
+Sampled Answer List: Fort Snelling, Fort Snelling, Fort Snelling, Fort Snelling, Fort Snelling
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is older between the brothers that J. Todd Anderson has primarily worked with?
+Golden Answer: ['Joel David Coen']
+Greedy Answer: Joel David Coen
+Consistency Answer: Joel Coen is
+Sampled Answer List: Joel Coen is, Joel is older between, The Coen brothers., Joel
+
+##, Joel Coen is
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Lawerence Turman had produced a film, with a character named "Johnny 5" that had a follow up sequel released in what year?
+Golden Answer: ['1988']
+Greedy Answer: 1988
+Consistency Answer: 1988
+Sampled Answer List: 1988, 1988, 1988, 1988, 1988
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which year was this single by Cher, written by  Brian Higgins and included in the album The Very Best of Cher, released?
+Golden Answer: ['1998']
+Greedy Answer: 2003
+Consistency Answer: 2003
+Sampled Answer List: 2003, 2003, 2003, 2003, 2003
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American gangster, businessman, casino owner and philanthropist was the inspiration for Morris "Moe" Greene in "The Godfather"?
+Golden Answer: ['Moe Dalitz']
+Greedy Answer: Moe Dalitz
+Consistency Answer: Moe Dalitz
+Sampled Answer List: Moe Dalitz, Moe Dalitz, Moe Dalitz, Moe Dalitz, Moe Dalitz
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+Golden Answer: ['Creature Comforts']
+Greedy Answer: Creature Comforts
+Consistency Answer: Creature Comforts
+Sampled Answer List: Creature Comforts, Creature Comforts, Creature Comforts, Creature Comforts, Creature Comforts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How many venues was in the complex at which Night of Joy was held?
+Golden Answer: ['9 venues']
+Greedy Answer: 9
+
+
+Consistency Answer: 9
+Sampled Answer List: 10
+, 9, 9 venues, 9 venues, 9
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Pro Evolution Soccer 2016 includes which Brazilian footballer on the cover?
+Golden Answer: ['Neymar']
+Greedy Answer: Neymar
+Consistency Answer: Neymar
+Sampled Answer List: Neymar, Neymar, Neymar, Neymar, Neymar
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what date will the election for which Krishanti Vignarajah is a declared Democratic candidate be held?
+Golden Answer: ['November 6, 2018']
+Greedy Answer: 
+
+### Dummy model answers
+
+Consistency Answer: 
+The election for which Krishanti V
+Sampled Answer List: 
+Answers
+2. Given the, 
+The election for which Krishanti V, 
+
+### Detailed Solution
+, 
+The election for which Krishanti V, On November 6, 201
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Students from approximately how many nations attend the University from which Shawn Arévalo McCollough received his Masters of Education ?
+Golden Answer: ['approximately 85 nations.']
+Greedy Answer: 85 nations
+Answer
+Consistency Answer: Students from approximately how many
+Sampled Answer List: 1. 85, 85
+
+##, Students from approximately how many, Students from approximately how many, 85 nations
+St
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the other name of the textile mill on which The Mill was based on?
+Golden Answer: ['Styal Mill']
+Greedy Answer: Quarry
+Consistency Answer: Quarry
+Sampled Answer List: The Mill was, The Mill (, Quarry, Styal Mill, Quarry
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?
+Golden Answer: ['Aubrey Posen']
+Greedy Answer: Anna Camp portrays
+Consistency Answer: Anna Ragsdale Camp
+Sampled Answer List: Anna Ragsdale Camp, Anna Camp 
+
+, Anna Camp portrayed as, Anna Ragsdale Camp, Anna Camp portrayed the
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what network did the series that Bradley Thompson started working on in 2014 premiere?
+Golden Answer: ['FX']
+Greedy Answer: FX
+Consistency Answer: The St
+Sampled Answer List: The St, On F, The St, FX, FX
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who beat the Missouri Tigers in what is alternatively known as the Border Showdown?
+Golden Answer: ['The 2008 Kansas Jayhawks']
+Greedy Answer: The Kansas Jayhawks beat the Missouri Tigers
+Consistency Answer: Kansas Jayhawks
+
+### Question 
+Sampled Answer List: Kansas Jayhawks
+
+### Question , Kansas Jayhawks
+
+### 2, Kansas Jayhawks beat Missouri Tigers in what, Kansas Jayhawks
+Answer: Kansas Jayh, Kansas Jayhawks
+
+### Question 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is the US Olympian and Christian evangelist did the 2010 non-fiction book by Laura Hillenbrand focus on?
+Golden Answer: ['Louis "Louie" Zamperini']
+Greedy Answer: Louis Zamperini
+Answer the following
+Consistency Answer: Louis Zamperini
+Answer the following
+Sampled Answer List: Louis Zamperini 
+
+##, Louis "Louie" Zamperini, Louis Zamperini
+Answer the following, Louis Zamperini
+Answer: Angel, Louis Zamperini
+Answer the following
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Rani Jhansi Marine National Park commemorates what queen of the princely state of Jhansi in North India?
+Golden Answer: ['Lakshmibai, the Rani of Jhansi']
+Greedy Answer: Rani Jhansi Marine National Park commemorates Laksh
+Consistency Answer: Lakshmibai, the Rani of Jhansi
+Sampled Answer List: Lakshmibai, the Rani of Jhansi, Rani Jhansi Marine National Park commemorates Laksh, Lakshmibai, the Rani of Jhansi, Lakshmibai, the Rani of Jhansi, Lakshmibai, the Rani of Jhansi
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the 2017-18 Cheshire League divisions is Ashton Town Association Football Club currently a member?
+Golden Answer: ['Premier Division']
+Greedy Answer: Premier Division
+Consistency Answer: Premier Division
+Sampled Answer List: Premier Division, Premier Division, Premier Division, Premier Division, Asht
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which university's teams with a mascot called Stomper began competing in the Northern Sun Intercollegiate Conference in 2008?
+Golden Answer: ['Minnesota State Mavericks']
+Greedy Answer: Minnesota State University, M
+Consistency Answer: Minnesota State University, M
+Sampled Answer List: Minnesota State University, M, The University of Minnesota,, Minnesota State University, M, Minnesota State Mavericks, Minnesota State University, M
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what is the english name of Émile Verdets editorial?
+Golden Answer: ['Annals of Chemistry and of Physics']
+Greedy Answer: Annales de chimie et de phys
+Consistency Answer: Annales de chimie et de phys
+Sampled Answer List: Annales de chimie et de phys, Annales de chimie et de phys, Annales de chimie et de phys, Annales de chimie et de phys, Annales de chimie et de phys
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What time did a Fox News show formally hosted by the author of "The Swamp: Washington's Murky Pool of Corruption and Cronyism and How Trump Can Drain It" air?
+Golden Answer: ['Saturdays at 11:30 am ET']
+Greedy Answer: 11:30 am ET
+The show was
+Consistency Answer: Cashin' In  Cashin' In is an
+Sampled Answer List: Cashin' In  Cashin' In is an, Cashin' In aired at 11:3, 11:30 am ET
+What time did, Cashin' In is an American business analysis program, the, 11:30 am ET on the Fox News
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:SkyJump Las Vegas is located at a hotel on what street?
+Golden Answer: ['Las Vegas Boulevard']
+Greedy Answer: Las Vegas Boulevard
+Consistency Answer: Las Vegas Boulevard
+Sampled Answer List: Las Vegas Boulevard, Las Vegas Boulevard, Las Vegas Boulevard, Las Vegas Boulevard, Las Vegas Boulevard
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?
+Golden Answer: ['London, England']
+Greedy Answer: England
+
+
+Consistency Answer: England
+
+
+Sampled Answer List: London, England, England
+
+, England
+
+, 
+
+##, 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the director of the 1987 American psychological thriller film in which the actor, who played Bob Charles in "Not Necessarily the News", appeared?
+Golden Answer: ['Adrian Lyne']
+Greedy Answer: Adrian Lyne
+Consistency Answer: Adrian Lyne
+Sampled Answer List: Adrian Lyne, Adrian Lyne, Adrian Lyne, Adrian Lyne, Adrian Lyne
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Hostel: Part III is the first film in the series to be neither written nor directed by a director born in which year ?
+Golden Answer: ['1972']
+Greedy Answer: 1972
+Consistency Answer: 1972
+Sampled Answer List: 1972, 1972, 1972, 1972, 1972
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Are Philip Cortez and Julian Castro democratic or republican?
+Golden Answer: ['Democratic']
+Greedy Answer: Philip
+Consistency Answer: Philip
+Sampled Answer List: Philip, Philip, Philip, Philip, They
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?
+Golden Answer: ['Bachelor of Commerce']
+Greedy Answer: Commerce
+Answer the
+Consistency Answer: Commerce
+Answer the
+Sampled Answer List: Commerce
+Answer the, Commerce
+
+##, Commerce
+1., Commerce
+Answer:, Business
+The chairman of
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:where was the 2006 Commonwealth Games that Mmoloki Nogeng won a bronze medal at held?
+Golden Answer: ['Melbourne, Australia']
+Greedy Answer: Melbourne, Australia
+Consistency Answer: Melbourne, Australia
+Sampled Answer List: Australia
+Answer, Melbourne, Australia, Melbourne, Australia, Melbourne, Australia, Melbourne, Australia
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Prince Michael of Prussia was a member of the house that arose in what town in the 11th century?
+Golden Answer: ['Hechingen in Swabia']
+Greedy Answer: Hohenzollern
+Answer
+Consistency Answer: Swabia
+Answer: Sw
+Sampled Answer List: Swabia
+Answer: Sw,  Hechingen
+House,  Hechingen
+Prince, House of Hohenzollern, Hohenzollern
+H
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did Felix Salten originally title his most famous work?
+Golden Answer: ['Bambi: Eine Lebensgeschichte aus dem Walde']
+Greedy Answer: Bambi, a Life in the Woods
+
+Consistency Answer: Bambi, a Life in the Woods
+
+Sampled Answer List: Bambi
+
+### 16., Bambi, a Life in the Woods
+, Bambi: A Life in the Woods
+, Bambi
+
+### 4.1, Bambi, a Life in the Woods.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who distributed a American-Indian-Irish computer-animated comedy-adventure film starring an Irish actor known for playing Miles O'Brien?
+Golden Answer: ['Lionsgate']
+Greedy Answer: Lionsgate
+Consistency Answer: Lionsgate
+Sampled Answer List: Lionsgate, Lionsgate, Lionsgate, Lionsgate, Lionsgate
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What film directed by David Greene did Merrell Jackson play an apostle in?
+Golden Answer: ['Godspell']
+Greedy Answer: Godspell
+Consistency Answer: Godspell
+Sampled Answer List: Godspell, Godspell, Godspell, Godspell, Godspell
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The city that contains the Yunnan Provincial Museum is also known by what nickname?
+Golden Answer: ['Spring city']
+Greedy Answer: Kunming
+Consistency Answer: Kunming
+Sampled Answer List: The city, Kunming, Kunming, Kunming, Kunming
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:An english lawyer had Christopher Mont as an agent and was awarded denization where?
+Golden Answer: ['England']
+Greedy Answer: England
+Consistency Answer: England
+Sampled Answer List: England, England, England, England, England
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What flag features 13 stars, and has a creator who also has a memorial bridge named after her connecting Pennsylvania and New Jersey?
+Golden Answer: ['Betsy Ross']
+Greedy Answer: The Betsy
+Consistency Answer: The Betsy
+Sampled Answer List: The Betsy, Betsy Ross, The Betsy, The Betsy, Betsy Ross
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The M1919 and the M1 was used by what military?
+Golden Answer: ['U.S.']
+Greedy Answer: The M19
+Consistency Answer: The M19
+Sampled Answer List: The M19, The M19, U.S., The M19, The M19
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the film in which Catherine Ann "Kate" Bosworth made her debut?
+Golden Answer: ['Robert Redford']
+Greedy Answer: Robert Redford
+Consistency Answer: Robert Redford
+Sampled Answer List: Robert Redford, Robert Redford, Robert Redford, Robert Redford, Robert Redford
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Michael Pollock was was a senior officer in the United Kingdom's naval warfare force, also known as the what?
+Golden Answer: ['Royal Navy']
+Greedy Answer: Royal Navy
+Consistency Answer: Royal Navy
+Sampled Answer List: Royal Navy, Royal Navy, Royal Navy, Royal Navy, Royal Navy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Immanuel Lutheran School is affiliated with the denomination that has how many members?
+Golden Answer: ['2.1 million']
+Greedy Answer: The Lutheran Church–
+Consistency Answer: The Lutheran Church–
+Sampled Answer List: 2.1 million, The Lutheran Church–, The Lutheran Church–, The Lutheran Church–, The Lutheran Church–
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What year did a director of a North Korean cinema film get kidnapped?
+Golden Answer: ['1978']
+Greedy Answer: 1978
+Consistency Answer: 1978
+Sampled Answer List: 1978, 1978, 1978, 1978, 1978
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What third film in a franchise did Camile Delamarre edit?
+Golden Answer: ['Transporter 3']
+Greedy Answer: Transporter 3
+Consistency Answer: Transporter 3
+Sampled Answer List: Transporter 3, Transporter 3, Transporter 3, Transporter 3, The Transporter 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who produced a song, written and performed by Paul McCartney and Michael Jackson, which was included on an album titled "Pipes of Peace"?
+Golden Answer: ['George Martin']
+Greedy Answer: George Martin
+Consistency Answer: George Martin
+Sampled Answer List: George Martin, George Martin, George Martin, George Martin, George Martin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+Golden Answer: ['1961']
+Greedy Answer: 1961
+Consistency Answer: 1961
+Sampled Answer List: 1961, 1961, 1961, 1961, 1961
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Terry Owen's son's profession after retiring from football?
+Golden Answer: ['racehorse breeder and owner']
+Greedy Answer: Michael Owen is a successful race
+Consistency Answer: He became a successful racehorse
+Sampled Answer List: He became a successful racehorse, Michael Owen is a successful race, Terry Owen's son', Michael Owen is a racehor, Racehorse breeder
+The
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What russian Marxist revolutionary born in 1875 was part of the Vpered organization?
+Golden Answer: ['Anatoly Vasilyevich Lunacharsky']
+Greedy Answer: Anatoly Lunacharsky
+Answer the following
+Consistency Answer: Anatoly Lunacharsky
+Question: What
+Sampled Answer List: Anatoly Lunacharsky
+Question: What, Anatoly Lunacharsky
+What Russian Marx, Anatoly Lunacharsky
+Answer the following, Anatoly Lunacharsky.
+Anatol, Anatoly Lunacharsky
+Question: What
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Orchard Gateway connects what shopping mall in singapore with 313 @ Somerset?
+Golden Answer: ['Orchard Central']
+Greedy Answer: Orchard Gate
+Consistency Answer: Orchard Gate
+Sampled Answer List: Orchard Gate, Orchard Gate, Orchard Gate, Orchard Gate, Orchard Gate
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Jim Price appeared on the Rolling Stones Album released in what month?
+Golden Answer: ['August 1973']
+Greedy Answer: August
+Answer the following question
+Consistency Answer: August 1973
+Sampled Answer List: August 1973, Goats Head Soup was, August
+Answer the following question,  Goats Head Soup, August
+
+Given the
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?
+Golden Answer: ['Sofia the First']
+Greedy Answer: Sofia the First
+Consistency Answer: Sofia the First
+Sampled Answer List:  Sofia the, Sofia the First, Sofia the First, Sofia the First, Sofia the First
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What military organization does SS China Maru and Douglas SBD Dauntless have in common?
+Golden Answer: ['United States Navy']
+Greedy Answer: Both were used
+Consistency Answer: Both were used
+Sampled Answer List: Both are ships, Both were used, They were both, Both of them, Both were used
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the genus and species of the bear in which the Florida black bear is a subspecies of?
+Golden Answer: ['Ursus americanus']
+Greedy Answer: Ursus
+
+##
+Consistency Answer: Ursus
+
+##
+Sampled Answer List: Ursus
+
+##, Ursus
+
+##, Ursus americanus, Ursus
+
+G, The genus and species of
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:If the Charhki  Dadri crash was less dangerous than the Tenerife airport disaster, which occured firat?
+Golden Answer: ['On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)']
+Greedy Answer: The Tenerife airport disaster occured first.
+
+### 2.
+
+Given the following information:
+
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to
+Consistency Answer: Tenerife airport disaster was more dangerous than the Charhki Dadri crash.
+
+### Question 2
+
+Given the following information:  The 1977 Tenerife disaster was an air disaster that occurred on March 27, 19
+Sampled Answer List: Tenerife airport disaster was more dangerous than the Charhki Dadri crash.
+
+### Question 2
+
+Given the following information:  The 1977 Tenerife disaster was an air disaster that occurred on March 27, 19, Tenerife airport disaster
+
+### 6
+
+Given the following information:
+
+* The first of the two planes to crash was the Boeing 747-100B.
+* The second plane to crash was the Ilyushin Il-7, Tenerife airport disaster
+
+### 3.2.4.3
+
+Given the following information: 
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to,  Tenerife airport disaster  On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos, Tenerife airport disaster
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to the west of New Delhi, India. The aircraft involved were a Saudi Arabian Airlines Boeing
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:New Jersey politicians Linda Stender and Leonard Lance were born within a year of each other beginning in which year?
+Golden Answer: ['1952']
+Greedy Answer: 1951
+Consistency Answer: 1951
+Sampled Answer List: 1951, 1951, 1951, 1951, 1951
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is younger, Martin Luther King III or his brother Dexter?
+Golden Answer: ['Dexter']
+Greedy Answer: Martin Luther King
+Consistency Answer: Martin Luther King
+Sampled Answer List: Martin Luther King, Martin Luther King, Martin Luther King, Martin Luther King, Martin Luther King
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What prominent director worked with Orion Pictures and was born in December of 1935?
+Golden Answer: ['Heywood "Woody" Allen']
+Greedy Answer: Woody Allen
+Answer: Woody
+Consistency Answer: Woody Allen
+What is the name
+Sampled Answer List: Woody Allen
+What is the name, Woody Allen
+Explanation:, Woody Allen
+Answer: Orion, Woody Allen
+What prominent director worked, Woody Allen
+Given the following
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+******************************
+----- Greedy performance -----
+EM: 43.22%
+F1: 53.61%
+
+
+----- DAGCD performance -----
+EM: 44.07%
+F1: 53.99%
+******************************

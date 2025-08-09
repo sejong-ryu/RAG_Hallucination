@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "2,3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "4,5"
 
 import pickle
 import random
@@ -13,8 +13,7 @@ import logging
 from datetime import datetime
 from argparse import ArgumentParser
 import utils
-from utils import normalize_answer, find_subsequence
-import json
+from utils import normalize_answer
 
 
 def set_logger(args):
@@ -140,7 +139,6 @@ class Model:
         else:
             raise ValueError(f"Unsupported model_name: {model_name}")
 
-        
         path_prefix = f'../detector/{model_name}'
         self.detector = joblib.load(f'{path_prefix}-top{topk}-size{size}-model.pkl')
 
@@ -153,7 +151,6 @@ class Model:
                 head_idx = index % self.num_heads
                 self.topk_head_index.append([layer_idx, head_idx])
             self.topk_heads = data['topk_indices']
-        
 
         # scaling factor
         self.alpha = 4 if 'chat' in model_name_lower or 'instruct' in model_name_lower else 2
@@ -288,7 +285,7 @@ class Model:
         return normalized_entropy.item()
 
 
-    def generate(self,question: str, context: str, gen_max_length: int = 10, use_rag_hallu=True, numk=3):
+    def generate(self,question: str, context: str, gen_max_length: int = 10, use_uncertainty=True):
         '''
         Parameters:
             question: question
@@ -318,127 +315,53 @@ class Model:
 
         ##################################  Greedy  #######################################
         with torch.no_grad():
-            ### 1. Get top k tokens in first generated token position for marginalization 
-            outputs = self.model(input_ids=input_ids, attention_mask=attention_mask, output_attentions=True, return_dict=True, use_cache=True)
-            next_token_logits = outputs.logits[:, -1, :]  # (1, vocab_size)
-            probs = F.softmax(next_token_logits, dim=-1)  # (1, vocab_size)
-            topk_probs, topk_tokens = torch.topk(probs, k=numk, dim=-1, sorted=False)  # (1, topk)
-            max_index = torch.argmax(topk_probs, dim=-1).item()  # (1,)
+            generated_tokens = []
+            entropies = []
+            log_probs = []
+    
+            for cur_len in range(gen_max_length):
+                outputs = self.model(input_ids=input_ids, attention_mask=attention_mask, output_attentions=True, return_dict=True, use_cache=True)
+                next_token_logits = outputs.logits[:, -1, :]
+                token_level_probability_distribution = F.softmax(next_token_logits, dim=-1)
+                next_token = torch.argmax(token_level_probability_distribution, dim=-1)
+
+                ##################################  Uncertainty  #######################################
+                if use_uncertainty:
+                    entropy = -torch.sum(token_level_probability_distribution * torch.log(token_level_probability_distribution + 1e-8), dim=-1)
+                    entropies.append(entropy.item())
+                    
+                    log_prob = torch.log(token_level_probability_distribution[0, next_token.item()] + 1e-8)
+                    log_probs.append(log_prob.item())
+                ##################################  Uncertainty  #######################################
+
+                if next_token == self.tokenizer.eos_token_id:
+                    break
+
+                tokens_to_add = next_token
+                input_ids = torch.cat([input_ids, tokens_to_add.unsqueeze(0)], dim=-1)
+                attention_mask = torch.cat([attention_mask, torch.tensor([[1]], device=self.device)], dim=-1)
+                generated_tokens.append(tokens_to_add)
+
+        tokens = torch.cat(generated_tokens)
+        answer_text = self.tokenizer.decode(tokens, skip_special_tokens=True)
+        norm_ans = normalize_answer(answer_text)
+                
+        #print(len(tokens))
+        #print(f'Generated answer: {norm_ans}')
+        #if len(generated_tokens) == 0:
+        #    return None
+        #else:
+        if use_uncertainty:
+            top_entropy = max(entropies)
+            avg_entropy = sum(entropies) / len(entropies)
             
-            ### 2. Generate greedy tokens
-            candidate_tokens = []
-            candidate_log_probs = []
-            candidate_answers = []
-            for i in range(numk):
-                first_token_id = topk_tokens[0, i].unsqueeze(0).unsqueeze(0)
-                log_probs = [torch.log(topk_probs[0, i]).item()]  # log prob of first token
-                
-                if gen_max_length <= 1:
-                    candidate_tokens.append(first_token_id[0])
-                    candidate_log_probs.append(log_probs[0])
-                    candidate_answers.append(normalize_answer(self.tokenizer.decode(first_token_id[0], skip_special_tokens=True)))
-                else:
-                    input_ids_i = torch.cat([input_ids, first_token_id], dim=-1)  # (1, input_len + 1)
-                    attention_mask_i = torch.cat([attention_mask, torch.ones((1, 1), device=self.device, dtype=attention_mask.dtype)], dim=-1)
-                    
-                    outputs = self.model.generate(input_ids=input_ids_i,
-                                        attention_mask=attention_mask_i,
-                                        max_new_tokens=gen_max_length - 1,
-                                        do_sample=False,
-                                        num_beams=1,
-                                        return_dict_in_generate=True,
-                                        output_scores=True,
-                                        output_attentions=True)
-                    
-                    ## Decode the generated tokens
-                    generated_ids = torch.cat([first_token_id, outputs.sequences[:, input_ids_i.shape[-1]:]], dim=-1)  # only new tokens
-                    answer_text = self.tokenizer.decode(generated_ids[0], skip_special_tokens=True)
-                    norm_ans = normalize_answer(answer_text)
-                    
-                    ## Get the average log prob
-                    for score_dist in outputs.scores:
-                        top_token_id = score_dist.argmax(dim=-1).item()
-                        log_prob = torch.log(F.softmax(score_dist, dim=-1)[0, top_token_id]).item()
-                        log_probs.append(log_prob)
-                        
-                    avg_log_prob = sum(log_probs) / len(log_probs)
-                    
-                    candidate_tokens.append(generated_ids[0])
-                    candidate_log_probs.append(avg_log_prob)
-                    candidate_answers.append(norm_ans)
-                
-            pred_tokens = candidate_tokens[max_index]
+            answer_prob = torch.exp(torch.tensor(sum(log_probs) / len(log_probs))).item()
+            low_answer_prob = torch.exp(torch.tensor(min(log_probs))).item()
+            answer_probs = torch.exp(torch.tensor(log_probs)).tolist()
             
-            ##################################  RAG Hallu  #######################################
-            if use_rag_hallu:
-                ### 1. Get pred_ans after sentence
-                pred_ans = candidate_answers[max_index]
-                norm_pred_ans = normalize_answer(pred_ans)
-                new_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {norm_pred_ans}\nExplain why this is the correct answer:'
-                
-                new_tokenized_inputs = self.tokenizer(new_prompt,
-                                            return_tensors="pt",
-                                            truncation=True,
-                                            max_length=self.max_length - gen_max_length
-                                            ).to(self.device)
-                
-                reason_outputs = self.model.generate(input_ids=new_tokenized_inputs['input_ids'],
-                                             attention_mask=new_tokenized_inputs['attention_mask'],
-                                             max_new_tokens=50,
-                                             do_sample=False,
-                                             num_beams=1,
-                                             return_dict_in_generate=True,
-                                             output_attentions=True)
-                
-                reason_ids = reason_outputs.sequences[:, new_tokenized_inputs['input_ids'].shape[-1]:]
-                reason_text = self.tokenizer.decode(reason_ids[0], skip_special_tokens=True)
-                
-                ### 2. Get avg_log_prob of after sentence for candidates
-                #new_candidate_log_probs = [avg_reason_log_prob]
-                new_candidate_log_probs = []
-                for i, cand_ans in enumerate(candidate_answers):                        
-                    
-                    alt_prompt = f'Given the following information:{context}\nAnswer the following question based on the given information with one or few words: {question}\nAnswer: {cand_ans}\nExplain why this is the correct answer:'
-                    alt_tokenized_inputs = self.tokenizer(alt_prompt,
-                                                return_tensors="pt",
-                                                truncation=True,
-                                                max_length=self.max_length - gen_max_length
-                                                ).to(self.device)
-                    total_log_prob = 0.0
-                    input_ids_alt = alt_tokenized_inputs['input_ids']
-                    attention_mask_alt = alt_tokenized_inputs['attention_mask']
-
-                    for j in range(reason_ids.shape[1]):
-                        outputs = self.model(input_ids=input_ids_alt,
-                                     attention_mask=attention_mask_alt,
-                                     return_dict=True,
-                                     output_attentions=True)
-                        logits = outputs.logits[:, -1, :]
-                        prob_dist = F.softmax(logits, dim=-1)
-                        tgt_token = reason_ids[0, j].item()
-                        total_log_prob += torch.log(prob_dist[0, tgt_token]).item()
-
-                        input_ids_alt = torch.cat([input_ids_alt, reason_ids[:, j:j+1]], dim=-1)
-                        attention_mask_alt = torch.cat([attention_mask_alt, torch.ones((1, 1), device=self.device)], dim=-1)
-
-                    avg_alt_log_prob = total_log_prob / reason_ids.shape[1]
-                    new_candidate_log_probs.append(avg_alt_log_prob)
-
-                # Marginalization
-                print(candidate_log_probs)
-                print(new_candidate_log_probs)
-                candidate_log_probs = torch.tensor(candidate_log_probs)
-                new_candidate_log_probs = torch.tensor(new_candidate_log_probs)
-                joint_log_probs = candidate_log_probs + new_candidate_log_probs
-                joint_probs = torch.exp(joint_log_probs)
-                bi_dir_prob = joint_probs[max_index] / joint_probs.sum()
-                
-                ##################################  RAG Hallu  #######################################
-
-            if use_rag_hallu:
-                return pred_tokens, reason_text, max_index, topk_probs.squeeze().tolist(), (topk_probs[0, max_index].item(), torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers
-            else:
-                return pred_tokens
+            return torch.cat(generated_tokens), avg_entropy, top_entropy, entropies, answer_prob, low_answer_prob, answer_probs
+        else:
+            return torch.cat(generated_tokens)
 
 
 if __name__ == '__main__':
@@ -450,7 +373,7 @@ if __name__ == '__main__':
     parser.add_argument('--size', type=int, default=2000, help='LR-train-size')
     parser.add_argument('--numk', type=int, default=3, help='number of marialized tokens')
     parser.add_argument('--seed', type=int, default=0, help='random seed')
-    parser.add_argument('--ratio', type=float, default=0.02, help='sample ratio for validation data')
+    parser.add_argument('--ratio', type=float, default=0.01, help='sample ratio for validation data') # val 0.02, train 0.01
     args = parser.parse_args()
     args.model_path = args.model
     args.model = os.path.basename(args.model).lower()
@@ -484,51 +407,52 @@ if __name__ == '__main__':
                 question=question,
                 context=context,
                 gen_max_length=tgt_len,
-                use_rag_hallu=False
+                use_uncertainty=False
             )
             if greedy_tokens is None: continue
             greedy_ans = model.tokenizer.decode(greedy_tokens, skip_special_tokens=True)
 
-        # RAG Hallu answers
-        rag_hallu_tokens, sentence, max_index, topk_probs, (first_prob, before_prob, after_prob), (before_prob_list, after_prob_list), answers = model.generate(
+        # DAGCD answers
+        uncertain_tokens, avg_entropy, top_entropy, entropies, answer_prob, low_answer_prob, answer_probs  = model.generate(
             question=question,
             context=context,
             gen_max_length=tgt_len,
-            use_rag_hallu=True,
-            numk=args.numk
+            use_uncertainty=True
         )
-        if rag_hallu_tokens is None: continue
-        pred_ans = model.tokenizer.decode(rag_hallu_tokens, skip_special_tokens=True)
+        if uncertain_tokens is None: continue
+        pred_ans = model.tokenizer.decode(uncertain_tokens, skip_special_tokens=True)
 
         if greedy:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, 'avg_entropy': avg_entropy, 'top_entropy': top_entropy, 'entropies': ' '.join([str(entropy) for entropy in entropies]), 'answer_prob': answer_prob, 'low_answer_prob': low_answer_prob, 'answer_probs': ' '.join([str(prob) for prob in answer_probs])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
                         f"Greedy Answer: {greedy_ans}\n"
-                        f"RAG Hallu Answer: {pred_ans}\n"
-                        f"Generated Sentence: {sentence}\n"
-                        f"Answer Prob: {before_prob}\n"
-                        f"Marginalized Prob: {after_prob}\n"
-                        f"Answer Prob List: {before_prob_list}\n"
-                        f"Marginalized Prob List: {after_prob_list}")
+                        f"Uncertain Answer: {pred_ans}\n"
+                        f"Average Entropy: {avg_entropy}\n"
+                        f"Top Entropy: {top_entropy}\n"
+                        f"Entropies: {entropies}\n"
+                        f"Answer Probability: {answer_prob}\n"
+                        f"Low Answer Probability: {low_answer_prob}\n"
+                        f"Answer Probabilities: {answer_probs}")
         else:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, 'avg_entropy': avg_entropy, 'top_entropy': top_entropy, 'entropies': ' '.join([str(entropy) for entropy in entropies]), 'answer_prob': answer_prob, 'answer_probs': ' '.join([str(prob) for prob in answer_probs])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
-                        f"RAG Hallu Answer: {pred_ans}\n"
-                        f"Generated Sentence: {sentence}\n"
-                        f"Answer Prob: {before_prob}\n"
-                        f"Marginalized Prob: {after_prob}\n"
-                        f"Answer Prob List: {before_prob_list}\n"
-                        f"Marginalized Prob List: {after_prob_list}")
+                        f"Uncertain Answer: {pred_ans}\n"
+                        f"Average Entropy: {avg_entropy}\n"
+                        f"Top Entropy: {top_entropy}\n"
+                        f"Entropies: {entropies}\n"
+                        f"Answer Probability: {answer_prob}\n"
+                        f"Low Answer Probability: {low_answer_prob}\n"
+                        f"Answer Probabilities: {answer_probs}")
 
         logger.info('*-'*60)
         logger.info('\n\n')
 
         results.append(res)
 
-    #save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen.jsonl'
-    save_path = f'../results/{args.model}/{args.data}-train-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen.parquet'
+    #save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-un.parquet'
+    save_path = f'../results/{args.model}/{args.data}-train-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-un.parquet'
     utils.save_as_parquet(save_path, results)
 
 
@@ -555,12 +479,12 @@ if __name__ == '__main__':
     ############# dagcd results #############
     dagcd_f1, _, _ = utils.evaluate_f1(results, gold_ans='gold_ans', pred_ans='pred_ans')
     dagcd_em, _, _ = utils.evaluate_em(results, gold_ans='gold_ans', pred_ans='pred_ans')
-    logger.info('----- RAG Hallu performance -----')
+    logger.info('----- DAGCD performance -----')
     logger.info(f'EM: {dagcd_em * 100}%')
     logger.info(f'F1: {dagcd_f1 * 100}%')
     logger.info('*' * 30)
 
-    print('----- RAG Hallu performance -----')
+    print('----- DAGCD performance -----')
     print(f'EM: {dagcd_em * 100}%')
     print(f'F1: {dagcd_f1 * 100}%')
 
@@ -570,6 +494,6 @@ if __name__ == '__main__':
             file.write(f'EM: {greedy_em * 100}%\n')
             file.write(f'F1: {greedy_f1 * 100}%\n\n')
 
-        file.write('----- RAG Hallu performance -----\n')
+        file.write('----- DAGCD performance -----\n')
         file.write(f'EM: {dagcd_em * 100}%\n')
         file.write(f'F1: {dagcd_f1 * 100}%')

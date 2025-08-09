@@ -1,0 +1,473 @@
+Q:Who is older, Anne Noe or Jean-Marie Pfaff?
+Golden Answer: ['Jean-Marie Pfaff']
+Greedy Answer: Jean-Marie Pfaff
+Consistency Answer: Jean-Marie Pfaff
+Sampled Answer List: Jean-Marie Pfaff, Anne Noe
+Answer, Anne Noe is older, Jean-Marie Pfaff, Jean-Marie Pfaff, Anne Noe is older, Jean-Marie Pfaff, Anne Noe is older, Anne Noe
+A, Anne Noe is older
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?
+Golden Answer: ["Donald J. Trump's private jet"]
+Greedy Answer: Boeing 757
+Answer
+Consistency Answer: Trump Force One is built by Boeing
+Sampled Answer List: The Boeing 757 is, Boeing 757
+B, Donald Trump
+Answer: Boeing , Trump Force One is built by Boeing, Trump Force One
+The aircraft called Trump, Boeing 757
+The, Donald J. Trump's private jet, Trump Force One
+Trump Force One, Trump Force One is built by Boeing, Boeing 757
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?
+Golden Answer: ['a family member']
+Greedy Answer: The VMA
+Consistency Answer: The VMA
+Sampled Answer List: Banshe, The VMA, VMAQ, VMAQ, The VMA, Death of a, The VMA, A family member, The VMA, Banshe
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In the epic of Gilgamesh, where did the wise female divinity associated with fermentation live?
+Golden Answer: ['the Waters of Death']
+Greedy Answer: Siduri lived on the
+Consistency Answer: Mashu 
+
+Sampled Answer List: Siduri lived on the, Mashu 
+, 
+
+The wise, Siduri lived on the, Mashu
+
+, Mashu
+
+, Siduri lived on the, 
+
+
+
+, 
+Mashu
+, Mashu
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had what nickname?
+Golden Answer: ['The Worm']
+Greedy Answer: Dennis Rodman
+Consistency Answer: Dennis Rodman
+Sampled Answer List: Dennis Rodman, Dennis Rodman, Dennis Rodman, Dennis Rodman, The 1, Dennis Rodman, The 1, The 1, Dennis Rodman, Dennis Rodman
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the city George Consider Hale was born in founded?
+Golden Answer: ['in the 1830s']
+Greedy Answer: 1830s
+Answer
+Consistency Answer: 1830
+
+##
+Sampled Answer List: 1830s
+Answer, 1830s
+
+, 1830
+
+##, 1830
+
+##, 1850
+
+##, George Consider Hale was born in , Kansas City was founded in 18, George Consider Hale was born in , George Consider Hale was born in Kansas, 1830s
+1
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which province is the city located that is the birthplace of Ed Wubbe?
+Golden Answer: ['North Holland']
+Greedy Answer: North Holland
+Consistency Answer: Amsterdam is
+Sampled Answer List: Amsterdam is, 
+The, Amsterdam
+, Amsterdam is, North Holland, Amsterdam is, North Holland, 
+Ed, North Holland, Amsterdam
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which film featured Rosalind Cash prior to the release of "Sister, Sister"?
+Golden Answer: ['The Omega Man']
+Greedy Answer: The Omega Man
+Consistency Answer: The Omega Man
+Sampled Answer List: The Omega Man, Roots
+Ro, The Omega Man, "The Omega, "The Omega, The Omega Man, The Omega Man, The Omega Man, The Omega Man, The Omega Man
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dawn Lake described the star of "I Love Lucy" as what?
+Golden Answer: ['our greatest comedienne']
+Greedy Answer: Lucille Ball
+Answer
+Consistency Answer: Dawn Lake described the
+Sampled Answer List: Lucille Ball
+The, Dawn Lake described the, Lucille Ball
+Answer, Lucille Ball
+D, Dawn Lake described the, Lucille Ball
+Answer, Dawn Lake described the, Dawn Lake described the, Lucille Ball.
+, Dawn Lake described the
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the name of the country ran by the president who maintained the mercenary unit, White Legion?
+Golden Answer: ['Zaire']
+Greedy Answer: Zaire
+Consistency Answer: Zaire
+Sampled Answer List: Zaire, Zaire, Zaire, Zaire, Zaire, Zaire, Zaire, Zaire, Zaire, Zaire
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Grammy Nominated album was created by a band whose members include John Bowman?
+Golden Answer: ["Nature's Symphony in 432"]
+Greedy Answer: The Isaacs
+The Isaacs are a country
+Consistency Answer: Nature's Symphony in 432
+Sampled Answer List: Nature's Symphony in 432, Nature's Symphony in 432, The Isaacs
+Born in 19, The Isaacs
+Answer: The Isaacs are,  The Isaacs  The Isaacs are a, The Isaacs
+
+### Question 2, The Isaacs
+The Isaacs are a country, Nature's Symphony in 432, Nature's Symphony in 432, Nature's Symphony in 432
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Golden Answer: ['12+3/4 mi northeast of Liverpool']
+Greedy Answer: Aughton Park railway station is on a branch of the
+Consistency Answer: Aughton Park railway station is on a branch of the
+Sampled Answer List: Aughton Park railway station is on a branch of the, Aughton Park railway station is on a branch of the, Aughton Park railway station is on a branch of the, 11+3/4 mi
+
+###, 11½ miles (19 km) north east, Ormskirk railway station is on the Ormsk, 11½ miles (19 km)
+
+, Aughton Park railway station is on a branch of the, 11½ miles
+
+Answer: 11, Ormskirk railway station is on a branch of the
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the area of the desert that Ghanzi is in the middle of?
+Golden Answer: ['900000 km2']
+Greedy Answer: The area of the desert that Ghanzi
+Consistency Answer: The area of the desert that Ghanzi
+Sampled Answer List: The desert that Ghanzi is in the, 117910 km2, Ghanzi is in the middle of the, The area of the desert that Ghanzi, The area of the desert that Ghanzi, Ghanzi is in the middle of the, The area of the desert that Ghanzi, The desert that Ghanzi is in the, The area of the desert that Ghanzi, The area of the desert that Ghanzi
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the movie filmed starring Choi Yoon-young in 2012?
+Golden Answer: ['Korea']
+Greedy Answer: As
+Consistency Answer: As
+Sampled Answer List: Japan, As, Japan, South, South, As, As, Korea, As, South
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who stars in the title role of a Netflix show co-created by Robert Carlock?
+Golden Answer: ['Ellie Kemper']
+Greedy Answer: Ellie Kemper
+Consistency Answer: Ellie Kemper
+Sampled Answer List: Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper, Ellie Kemper
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which American rock band was formed first, Soil or Drowning Pool?
+Golden Answer: ['Drowning Pool']
+Greedy Answer: Soil
+So
+Consistency Answer: Soil (American
+Sampled Answer List: Soil (American, Soil was formed, Soil (American, Drowning Pool, Soil
+Wh, Drowning Pool, Soil (American, Soil
+So, Soil
+In, Soil was formed
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?
+Golden Answer: ['fortnightly']
+Greedy Answer: 
+
+
+Consistency Answer: 
+
+
+Sampled Answer List: The magazine publish, 
+
+, 
+At what, 
+At what,  India Today, 
+
+, 
+
+,  India Today, 
+Ans, 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who commanded the Anglo-Canadian 21st Army Group and was nicknamed "Monty"?
+Golden Answer: ['Bernard Montgomery']
+Greedy Answer: Bernard Montgomery
+Consistency Answer: Bernard Montgomery
+Sampled Answer List: Field Marshal Bernard, Bernard Montgomery, Bernard Montgomery, Derek Kne, Bernard Montgomery, Bernard Montgomery, Bernard Montgomery, Bernard Montgomery, Field Marshal Bernard, Bernard Montgomery
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what regions of the United States is the Eastern Market, Detroit located?
+Golden Answer: ['Great Lakes and Midwestern']
+Greedy Answer: Eastern Market, Detroit is located
+Consistency Answer: The Eastern Market, Detroit is
+Sampled Answer List: The Eastern Market, Detroit is, The Eastern Market, Detroit is, Midwestern region
+In what, The Eastern Market, Detroit is, Eastern Market, Detroit is located, Midwestern
+The Eastern Market, In the Great Lakes and, Eastern Market, Detroit is located, Michigan
+The correct answer is, Eastern Market, Detroit is located
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Before the 2004-2005 Minnesota Timberwovles season, what had Sam Cassell had been honored with what titles?
+Golden Answer: ['All-NBA Team']
+Greedy Answer: Cassell had been hon
+Consistency Answer: Cassell had been hon
+Sampled Answer List: Cassell had been hon, Sam Cassell had been, Cassell had been hon, Sam Cassell had been, Cassell had been hon, Cassell had been hon, He had been honored, Cassell had been hon, Cassell had been hon,  Sam Cassell had
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what city is the mortgage lending company, founded by Dan Gilbert, headquartered?
+Golden Answer: ['Detroit, Michigan']
+Greedy Answer: Cleveland, Ohio
+Consistency Answer: Cleveland, Ohio
+Sampled Answer List: Cleveland, Ohio, Detroit
+G, Quicken Lo, Cleveland, Ohio, Cleveland, Ohio, Cleveland
+
+,  In what, Detroit, Michigan, Detroit
+Answer, Cleveland
+The
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:José Baviera starred in the 1962 film by the filmmaker who worked in what countries?
+Golden Answer: ['Spain, Mexico and France']
+Greedy Answer: Luis Buñuel worked
+Consistency Answer: José Baviera starred
+Sampled Answer List: José Baviera starred, Luis Buñuel worked, José Baviera starred, Luis Buñuel worked, Luis Buñuel
+, José Baviera starred,  Luis Buñuel, Spanish filmmaker Luis Bu, Spain, Mexico and France, Luis Buñuel
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the 2017 horror-thriller film in which Barry Keoghan, Nicole Kidman, Colin Farrell, and Alicia Silverstone appeared?
+Golden Answer: ['Yorgos Lanthimos']
+Greedy Answer: Yorgos Lanthimos
+Consistency Answer: Yorgos Lanthimos
+Sampled Answer List: Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos, Yorgos Lanthimos
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?
+Golden Answer: ['Australia']
+Greedy Answer: Australia
+Consistency Answer: Australia
+Sampled Answer List: Australia, Australia, Australia, Australia, Australia, Australia, New, United, Australia, Australia
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?
+Golden Answer: ['Caesars Palace Grand Prix']
+Greedy Answer: Caesars Palace Grand Prix
+Consistency Answer: Caesars Palace Grand Prix
+Sampled Answer List: Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Laguna Seca Raceway, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix, Caesars Palace Grand Prix
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:From which city in Oklahoma is the singer of a song that peaked at number 24 on "Billboard" magazine's pop chart in December 1953?
+Golden Answer: ['Oklahoma City']
+Greedy Answer: Gayla
+Consistency Answer: Gayla
+Sampled Answer List: Ponca,  Gay, Gayla, Gayla, Ponca,  Pon, Gayla, Gayla, Ponca, Gayla
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did an English former footballer purchase in march 2009?
+Golden Answer: ['50 JJB Sports Fitness Clubs']
+Greedy Answer: Dave Whelan purchased the 50 JJB
+Consistency Answer: Dave Whelan purchased the 50 JJB
+Sampled Answer List: A retailing and fitness business
+Answer:, Dave Whelan purchased the 50 JJB, Dave Whelan purchased 50 JJB Sports, DW Sports Fitness
+What did an English, Dave Whelan purchased the 50 JJB, DW Sports Fitness
+Given the following, Dave Whelan purchased the 50 JJB, Dave Whelan purchased the 50 JJB, An English former footballer purchased 50 JJB Sports, DW Sports Fitness
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?
+Golden Answer: ['Alfonso Cuarón']
+Greedy Answer: Alfonso Cuarón
+Consistency Answer: Alfonso Cuarón
+Sampled Answer List: Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón, Alfonso Cuarón
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which town in New Hampshire with a population of 5,457 in 2010 is located by Mount Monadnock?
+Golden Answer: ['Jaffrey']
+Greedy Answer: Jaffrey
+Consistency Answer: Jaffrey
+Sampled Answer List: Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey, Jaffrey
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Randy Shughart's rank when he died?
+Golden Answer: ['Sergeant First Class']
+Greedy Answer: Sergeant First Class
+Consistency Answer: Sergeant First Class
+Sampled Answer List: Sergeant First Class, Sergeant First Class, Sergeant First Class, Sargent First Class, Sergeant First Class, Sergeant First, Sergeant First Class, Sergeant First Class, Sergeant First, Sergeant First Class
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What genre was the movie that Austin Nichols was in with Kirsten Dunst?
+Golden Answer: ['romantic comedy']
+Greedy Answer: Romantic comedy
+Consistency Answer: romantic comedy
+Sampled Answer List: romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy, Romantic comedy, romantic comedy, Romantic comedy, Romantic comedy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What brother of Stanley Alan Van Gundy is a color commentator for ESPN?
+Golden Answer: ['Jeffrey William Van Gundy']
+Greedy Answer: Jeff Van Gundy
+Answer
+Consistency Answer: Jeff Van Gundy
+Answer
+Sampled Answer List: Jeff Van Gundy
+Answer, Jeff Van Gundy
+Answer, Jeff Van Gundy 
+, Jeff Van Gundy
+Wh, Jeff Van Gundy
+
+, Jeff Van Gundy  Jeff, Jeff Van Gundy
+Answer, Jeff Van Gundy
+What, Jeff Van Gundy
+Answer, Jeff Van Gundy
+Answer
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what was the American computer-animated fantasy film which  Aron Warner produced based on
+Golden Answer: ["William Steig's 1990 fairy tale"]
+Greedy Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+Consistency Answer: Shrek
+Aron Warner Aron J. Warner is an
+Sampled Answer List: Shrek
+Aron Warner Aron J. Warner is an, Shrek
+Answer: Aron Warner
+Answer: Shrek, Shrek
+Answer the following question based on the given information with, Shrek
+What is the name of the American actor and producer, Shrek
+The given information is about the Shrek.
+, Shrek 
+Answer the following question based on the given information, Shrek
+Shrek was the American computer-animated fant, Shrek
+Given the following information:Bill Clinton, Shrek
+Answer: Aron Warner
+Answer: Aron, Shrek
+Which of the following is the first name of
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What village in Nassau County, New York with a name meaning "a pleasant place" is represented by Kathleen Rice in the United States House of Representatives?
+Golden Answer: ['Mineola']
+Greedy Answer: Mineola
+Consistency Answer: Mineola
+Sampled Answer List: Mineola, Mineola, Mineola, Mineola, Mineola, Mineola, Mineola, Mineola, Mineola, Mineola
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the singer born who performs Pon de Replay and was born Robyn Fenty?
+Golden Answer: ['Saint Michael, Barbados']
+Greedy Answer: Barbados
+Answer:
+Consistency Answer: Barbados
+Answer:
+Sampled Answer List: Barbados
+The name, Barbados
+Answer:,  Saint Michael
+Answer, Barbados
+Answer:, Rihanna was born, Robyn Rihanna, Barbadian singer R, Barbados
+Which, Barbadian singer R, Rihanna  Rob
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which ocean would the ingredients likely come from for the She-crab soup?
+Golden Answer: ['Atlantic Ocean']
+Greedy Answer: Atlantic Ocean
+Consistency Answer: Atlantic ocean
+Sampled Answer List: Atlantic ocean, Atlantic ocean, Atlantic Ocean, The Atlantic, Atlantic Ocean, Atlantic Ocean, The Atlantic, Atlantic Ocean, Atlantic Ocean, Atlantic Ocean
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the approximate population of the town near which Forward Operating Base Gibraltar was located ?
+Golden Answer: ['approximately 14,000']
+Greedy Answer: Sangin
+Answer: Sangin
+
+Consistency Answer: 14,000
+
+Sampled Answer List: 14,000
+, The approximate population of the town near which, Sangin 
+
+## 1, Sangin
+Question: Given the following, Sangin
+Answer: Sangin (, 14,000
+, Sangin
+Answer the following question based, 14000
+Answer, Sangin (Pashto:, Sangin (Pashto:
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+

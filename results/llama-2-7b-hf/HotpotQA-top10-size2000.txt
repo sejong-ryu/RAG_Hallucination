@@ -2,6 +2,6 @@
 EM: 43.22%
 F1: 53.61%
 
------ RAG Hallu performance -----
-EM: 43.22%
-F1: 53.61%
+----- DAGCD performance -----
+EM: 44.07%
+F1: 53.99%
