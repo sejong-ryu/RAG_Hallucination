@@ -13,7 +13,7 @@ import logging
 from datetime import datetime
 from argparse import ArgumentParser
 import utils
-from utils import normalize_answer, find_subsequence
+from utils import normalize_answer, find_subsequence, attach_llama_hooks_list
 import json
 
 
@@ -318,17 +318,32 @@ class Model:
 
         ##################################  Greedy  #######################################
         with torch.no_grad():
-            ### 1. Get top k tokens in first generated token position for marginalization 
+            ### 1. Get top k tokens in first generated token position for marginalization
+            ## Set up hooks to extract attention and feed-forward outputs
+            if use_rag_hallu:
+                attn_store, ffn_store, handles = attach_llama_hooks_list(self.model)
+            
             outputs = self.model(input_ids=input_ids, attention_mask=attention_mask, output_attentions=True, return_dict=True, use_cache=True)
+            
+            # Remove hooks
+            if use_rag_hallu:
+                for h in handles:
+                    h.remove()
+                
             next_token_logits = outputs.logits[:, -1, :]  # (1, vocab_size)
             probs = F.softmax(next_token_logits, dim=-1)  # (1, vocab_size)
             topk_probs, topk_tokens = torch.topk(probs, k=numk, dim=-1, sorted=False)  # (1, topk)
             max_index = torch.argmax(topk_probs, dim=-1).item()  # (1,)
             
-            ### 2. Generate greedy tokens
+            ### 2. Generate k greedy tokens
             candidate_tokens = []
             candidate_log_probs = []
             candidate_answers = []
+            
+            if use_rag_hallu:
+                candidate_attns = []
+                candidate_ffns = []
+
             for i in range(numk):
                 first_token_id = topk_tokens[0, i].unsqueeze(0).unsqueeze(0)
                 log_probs = [torch.log(topk_probs[0, i]).item()]  # log prob of first token
@@ -337,9 +352,18 @@ class Model:
                     candidate_tokens.append(first_token_id[0])
                     candidate_log_probs.append(log_probs[0])
                     candidate_answers.append(normalize_answer(self.tokenizer.decode(first_token_id[0], skip_special_tokens=True)))
+                    
+                    if use_rag_hallu:
+                        candidate_attns.append([attn[0][0, -1, :] for attn in attn_store])
+                        candidate_ffns.append([ffn[0][0, -1, :] for ffn in ffn_store])
+                        
                 else:
                     input_ids_i = torch.cat([input_ids, first_token_id], dim=-1)  # (1, input_len + 1)
                     attention_mask_i = torch.cat([attention_mask, torch.ones((1, 1), device=self.device, dtype=attention_mask.dtype)], dim=-1)
+                    
+                    # Set up hooks to extract attention and feed-forward outputs
+                    if use_rag_hallu:
+                        attn_store, ffn_store, handles = attach_llama_hooks_list(self.model)
                     
                     outputs = self.model.generate(input_ids=input_ids_i,
                                         attention_mask=attention_mask_i,
@@ -349,6 +373,16 @@ class Model:
                                         return_dict_in_generate=True,
                                         output_scores=True,
                                         output_attentions=True)
+                    
+                    # Remove hooks
+                    if use_rag_hallu:
+                        for h in handles:
+                            h.remove()
+                        
+                    # Get the attention and feed-forward outputs
+                    if use_rag_hallu:
+                        candidate_attns.append([torch.cat(attn, dim=1)[0, -gen_max_length:, :].mean(0) for attn in attn_store])
+                        candidate_ffns.append([torch.cat(ffn, dim=1)[0, -gen_max_length:, :].mean(0) for ffn in ffn_store])
                     
                     ## Decode the generated tokens
                     generated_ids = torch.cat([first_token_id, outputs.sequences[:, input_ids_i.shape[-1]:]], dim=-1)  # only new tokens
@@ -436,7 +470,7 @@ class Model:
                 ##################################  RAG Hallu  #######################################
 
             if use_rag_hallu:
-                return pred_tokens, reason_text, max_index, topk_probs.squeeze().tolist(), (topk_probs[0, max_index].item(), torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers
+                return pred_tokens, reason_text, max_index, topk_probs.squeeze().tolist(), (topk_probs[0, max_index].item(), torch.exp(candidate_log_probs[max_index]), bi_dir_prob), (torch.exp(candidate_log_probs).tolist(), torch.exp(new_candidate_log_probs).tolist()), candidate_answers, candidate_attns, candidate_ffns
             else:
                 return pred_tokens
 
@@ -459,8 +493,8 @@ if __name__ == '__main__':
     logger = set_logger(args)
 
     model = Model(args)
-    #data_path = f'../datasets/validation/{args.data}.parquet'
-    data_path = f'/drive2/ryusejong/DAGCD/datasets/train/{args.data}.parquet'
+    data_path = f'../datasets/validation/{args.data}.parquet'
+    #data_path = f'/drive2/ryusejong/DAGCD/datasets/train/{args.data}.parquet'
     datas = utils.load_parquet_data(data_path)
     
     # Sample 10%
@@ -484,24 +518,37 @@ if __name__ == '__main__':
                 question=question,
                 context=context,
                 gen_max_length=tgt_len,
-                use_rag_hallu=False
+                use_rag_hallu=False, 
+                numk=1
             )
             if greedy_tokens is None: continue
             greedy_ans = model.tokenizer.decode(greedy_tokens, skip_special_tokens=True)
-
+    
         # RAG Hallu answers
-        rag_hallu_tokens, sentence, max_index, topk_probs, (first_prob, before_prob, after_prob), (before_prob_list, after_prob_list), answers = model.generate(
+        rag_hallu_tokens, sentence, max_index, topk_probs, (first_prob, before_prob, after_prob), (before_prob_list, after_prob_list), answers, topk_attn_vectors, topk_ffn_vectors = model.generate(
             question=question,
             context=context,
             gen_max_length=tgt_len,
             use_rag_hallu=True,
             numk=args.numk
         )
+        
+        # Compute vector score
+        score1_list = []    # average score of each layer
+        score2_list = []    # score of average vector
+        for attn_vectors, ffn_vectors in zip(topk_attn_vectors, topk_ffn_vectors):
+            score1 = F.cosine_similarity(torch.stack(attn_vectors, dim=0), torch.stack(ffn_vectors, dim=0), dim=-1).mean() # average score of each layer
+            score2 = F.cosine_similarity(torch.stack(attn_vectors, dim=0).mean(dim=0), torch.stack(ffn_vectors, dim=0).mean(dim=0), dim=-1).item()  # score of average vector
+            score1_list.append(score1.item())
+            score2_list.append(score2)
+        greedy_score1 = score1_list[max_index]
+        greedy_score2 = score2_list[max_index]
+        
         if rag_hallu_tokens is None: continue
         pred_ans = model.tokenizer.decode(rag_hallu_tokens, skip_special_tokens=True)
 
         if greedy:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'greedy_ans': greedy_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list]), "greedy_score1": greedy_score1, "greedy_score2": greedy_score2, "score1_list": ' '.join([str(score) for score in score1_list]), "score2_list": ' '.join([str(score) for score in score2_list])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
                         f"Greedy Answer: {greedy_ans}\n"
@@ -510,9 +557,13 @@ if __name__ == '__main__':
                         f"Answer Prob: {before_prob}\n"
                         f"Marginalized Prob: {after_prob}\n"
                         f"Answer Prob List: {before_prob_list}\n"
-                        f"Marginalized Prob List: {after_prob_list}")
+                        f"Marginalized Prob List: {after_prob_list}\n"
+                        f"Greedy Score1, Average of Layer Cosine Similarity: {greedy_score1}\n"
+                        f"Greedy Score2, Cosine Similarity of Average Vector: {greedy_score2}\n"
+                        f"Score1 list: {score1_list}\n"
+                        f"Score2 list: {score2_list}")
         else:
-            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list])}
+            res = {'context': context, 'question': question, 'gold_ans': gold_ans, 'pred_ans': pred_ans, "max_index": max_index, "answer_list": ', '.join(answers), "generated_sentence": sentence, "topk_probs": ' '.join([str(prob) for prob in topk_probs]), 'answer_prob': float(before_prob), 'marginalized_prob': float(after_prob), 'answer_prob_list': ' '.join([str(prob) for prob in before_prob_list]), 'marginalized_prob_list': ' '.join([str(prob) for prob in after_prob_list]),  "greedy_score1": greedy_score1, "greedy_score2": greedy_score2, "score1_list": ' '.join([str(score) for score in score1_list]), "score2_list": ' '.join([str(score) for score in score2_list])}
             logger.info(f"Q:{question}\n"
                         f"Golden Answer: {gold_ans}\n"
                         f"RAG Hallu Answer: {pred_ans}\n"
@@ -520,15 +571,19 @@ if __name__ == '__main__':
                         f"Answer Prob: {before_prob}\n"
                         f"Marginalized Prob: {after_prob}\n"
                         f"Answer Prob List: {before_prob_list}\n"
-                        f"Marginalized Prob List: {after_prob_list}")
+                        f"Marginalized Prob List: {after_prob_list}\n"
+                        f"Score1, Average of Layer Cosine Similarity: {score1}\n"
+                        f"Score2, Cosine Similarity of Average Vector: {score2}\n"
+                        f"Score1 list: {score1_list}\n"
+                        f"Score2 list: {score2_list}")
 
         logger.info('*-'*60)
         logger.info('\n\n')
 
         results.append(res)
 
-    #save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen.jsonl'
-    save_path = f'../results/{args.model}/{args.data}-train-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen.parquet'
+    save_path = f'../results/{args.model}/{args.data}-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen-v2.parquet'
+    #save_path = f'../results/{args.model}/{args.data}-train-{args.size}-{int(100*args.ratio)}per-seed{args.seed}-gen.parquet'
     utils.save_as_parquet(save_path, results)
 
 

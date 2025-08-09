@@ -1,0 +1,2431 @@
+Q:Who is older, Anne Noe or Jean-Marie Pfaff?
+Golden Answer: ['Jean-Marie Pfaff']
+Greedy Answer: Jean-Marie Pfaff
+RAG Hallu Answer: Jean-Marie Pfaff
+Generated Sentence: 
+Jean-Marie Pfaff was born in 1953, Anne Noe was born in 1959.
+Jean-Marie Pfaff is older than Anne Noe.
+Jean-Marie Pfaff is older than Anne
+Answer Prob: 0.8294059038162231
+Marginalized Prob: 0.4349876642227173
+Answer Prob List: [0.8294059038162231, 0.6819810271263123, 0.42727476358413696]
+Marginalized Prob List: [0.6673767566680908, 0.6398642659187317, 0.6614212989807129]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10595703125
+Greedy Score2, Cosine Similarity of Average Vector: -0.0176239013671875
+Score1 list: [-0.10595703125, -0.1260986328125, -0.1038818359375]
+Score2 list: [-0.0176239013671875, -0.312255859375, -0.143798828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?
+Golden Answer: ["Donald J. Trump's private jet"]
+Greedy Answer: Boeing 757
+Answer
+RAG Hallu Answer: Boeing 757
+Answer
+Generated Sentence: 
+Boeing 757 is the manufacturer's largest single-aisle passenger aircraft and was produced from 1981 to 2004.
+Boeing 757 is the manufacturer'
+Answer Prob: 0.5725170373916626
+Marginalized Prob: 0.3306390941143036
+Answer Prob List: [0.5725170373916626, 0.5692153573036194, 0.6049855351448059]
+Marginalized Prob List: [0.7826207876205444, 0.7559511661529541, 0.788087785243988]
+Greedy Score1, Average of Layer Cosine Similarity: -0.134765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.19189453125
+Score1 list: [-0.134765625, -0.1444091796875, -0.1312255859375]
+Score2 list: [-0.19189453125, -0.45556640625, -0.320556640625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?
+Golden Answer: ['a family member']
+Greedy Answer: The VMA
+RAG Hallu Answer: The VMA
+Generated Sentence: 
+The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of a family member, usually by shrieking or keening.
+The VMAQT-1 logo is a female spirit
+Answer Prob: 0.5464973449707031
+Marginalized Prob: 0.4206755757331848
+Answer Prob List: [0.46691620349884033, 0.5464973449707031, 0.296470046043396]
+Marginalized Prob List: [0.8153955936431885, 0.8177026510238647, 0.7915785312652588]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1553955078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.6083984375
+Score1 list: [-0.1328125, -0.1553955078125, -0.150390625]
+Score2 list: [-0.318359375, -0.6083984375, -0.60302734375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In the epic of Gilgamesh, where did the wise female divinity associated with fermentation live?
+Golden Answer: ['the Waters of Death']
+Greedy Answer: Siduri lived on the
+RAG Hallu Answer: Siduri lived on the
+Generated Sentence: 
+
+Answer: siduri lived on the shore, associated with "the Waters of Death" that Gilgamesh had to cross to reach Utnapishtim, the far-away.
+
+Answer: siduri lived on the
+Answer Prob: 0.6150552034378052
+Marginalized Prob: 0.4962520897388458
+Answer Prob List: [0.6150552034378052, 0.29459020495414734, 0.4402558207511902]
+Marginalized Prob List: [0.7533234357833862, 0.6439664363861084, 0.6374202370643616]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1337890625
+Greedy Score2, Cosine Similarity of Average Vector: -0.404052734375
+Score1 list: [-0.1337890625, -0.10235595703125, -0.11456298828125]
+Score2 list: [-0.404052734375, -0.3212890625, -0.2294921875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had what nickname?
+Golden Answer: ['The Worm']
+Greedy Answer: Dennis Rodman
+RAG Hallu Answer: Dennis Rodman
+Generated Sentence: 
+The 1998–99 Los Angeles Lakers season included the signing of the rebounding specialist who had what nickname?
+The 1998–99 Los Angeles Lakers season included the signing of
+Answer Prob: 0.7393895983695984
+Marginalized Prob: 0.4788988530635834
+Answer Prob List: [0.5228195786476135, 0.7393895983695984, 0.28068265318870544]
+Marginalized Prob List: [0.8538356423377991, 0.8531576991081238, 0.8550713658332825]
+Greedy Score1, Average of Layer Cosine Similarity: -0.103759765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.21728515625
+Score1 list: [-0.1295166015625, -0.103759765625, -0.1051025390625]
+Score2 list: [-0.36865234375, -0.21728515625, -0.31298828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:When was the city George Consider Hale was born in founded?
+Golden Answer: ['in the 1830s']
+Greedy Answer: 1830s
+Answer
+RAG Hallu Answer: 1830s
+Answer
+Generated Sentence: 
+The city George Consider Hale was born in was founded in the 1830s.
+The city George Consider Hale was born in was founded in the 1830s. 
+
+### 1.
+Answer Prob: 0.4559926688671112
+Marginalized Prob: 0.3411664664745331
+Answer Prob List: [0.40077292919158936, 0.4559926688671112, 0.5555694103240967]
+Marginalized Prob List: [0.5428361296653748, 0.6055922508239746, 0.568275511264801]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1375732421875
+Greedy Score2, Cosine Similarity of Average Vector: -0.1375732421875
+Score1 list: [-0.11663818359375, -0.1375732421875, -0.139892578125]
+Score2 list: [-0.43017578125, -0.1375732421875, -0.473876953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which province is the city located that is the birthplace of Ed Wubbe?
+Golden Answer: ['North Holland']
+Greedy Answer: North Holland
+RAG Hallu Answer: North Holland
+Generated Sentence: 
+
+### 2.
+
+Given the following information:Ed Wubbe  Ed Wubbe (Amsterdam, 1957) is a Dutch choreographer. 
+  Amsterdam  Amsterdam ( ;
+Answer Prob: 0.5066899657249451
+Marginalized Prob: 0.5494234561920166
+Answer Prob List: [0.5066899657249451, 0.2553766071796417, 0.16117751598358154]
+Marginalized Prob List: [0.7260539531707764, 0.726547122001648, 0.7206652760505676]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10748291015625
+Greedy Score2, Cosine Similarity of Average Vector: 0.0958251953125
+Score1 list: [-0.10748291015625, -0.10211181640625, -0.07379150390625]
+Score2 list: [0.0958251953125, -0.182373046875, 0.061004638671875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which film featured Rosalind Cash prior to the release of "Sister, Sister"?
+Golden Answer: ['The Omega Man']
+Greedy Answer: The Omega Man
+RAG Hallu Answer: The Omega Man
+Generated Sentence: 
+The film "Omega Man" was released in 1971.  Rosalind Cash played the role of Lisa in the film.  The film was directed by Boris Sagal.  The film was based on the
+Answer Prob: 0.5502747297286987
+Marginalized Prob: 0.42367130517959595
+Answer Prob List: [0.4682866334915161, 0.5502747297286987, 0.30421867966651917]
+Marginalized Prob List: [0.5753178000450134, 0.5937294363975525, 0.5753178000450134]
+Greedy Score1, Average of Layer Cosine Similarity: -0.134765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.306396484375
+Score1 list: [-0.129638671875, -0.134765625, -0.126708984375]
+Score2 list: [-0.09783935546875, -0.306396484375, -0.1240234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Dawn Lake described the star of "I Love Lucy" as what?
+Golden Answer: ['our greatest comedienne']
+Greedy Answer: Lucille Ball
+Answer
+RAG Hallu Answer: Lucille Ball
+Answer
+Generated Sentence: Dawn Lake described the star of "I Love Lucy" as what?
+Answer: Dawn Lake described the star of "I Love Lucy" as what?
+Answer: Lucille Ball
+Answer: Lucille Ball was the star of "
+Answer Prob: 0.46323829889297485
+Marginalized Prob: 0.35154488682746887
+Answer Prob List: [0.6569682955741882, 0.46323829889297485, 0.18230454623699188]
+Marginalized Prob List: [0.691413402557373, 0.6756041646003723, 0.6750015020370483]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1263427734375
+Greedy Score2, Cosine Similarity of Average Vector: -0.351806640625
+Score1 list: [-0.1490478515625, -0.1263427734375, -0.10711669921875]
+Score2 list: [-0.44384765625, -0.351806640625, -0.1923828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the name of the country ran by the president who maintained the mercenary unit, White Legion?
+Golden Answer: ['Zaire']
+Greedy Answer: Zaire
+RAG Hallu Answer: Zaire
+Generated Sentence: 
+The country ran by the president who maintained the mercenary unit, White Legion, was Zaire.
+The White Legion was a mercenary unit during the First Congo War (1996–97) employed on
+Answer Prob: 0.6718536019325256
+Marginalized Prob: 0.6000489592552185
+Answer Prob List: [0.23421642184257507, 0.6718536019325256, 0.22169281542301178]
+Marginalized Prob List: [0.7307983040809631, 0.7569714188575745, 0.7569714188575745]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11602783203125
+Greedy Score2, Cosine Similarity of Average Vector: 0.058868408203125
+Score1 list: [-0.11126708984375, -0.11602783203125, -0.11541748046875]
+Score2 list: [-0.07794189453125, 0.058868408203125, 0.058013916015625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which Grammy Nominated album was created by a band whose members include John Bowman?
+Golden Answer: ["Nature's Symphony in 432"]
+Greedy Answer: The Isaacs
+The Isaacs are a country
+RAG Hallu Answer: The Isaacs
+The Isaacs are a country
+Generated Sentence: 
+The Isaacs are a country and bluegrass gospel music group consisting of mother Lily Isaacs, and daughters Becky and Sonya Isaacs and son Ben Isaacs, along with John Bowman (husband of Becky
+Answer Prob: 0.5328543782234192
+Marginalized Prob: 0.2546301484107971
+Answer Prob List: [0.5328543782234192, 0.8798419833183289, 0.6991313099861145]
+Marginalized Prob List: [0.8901407718658447, 0.8813105225563049, 0.8768494129180908]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10784912109375
+Greedy Score2, Cosine Similarity of Average Vector: -0.4091796875
+Score1 list: [-0.10784912109375, -0.1287841796875, -0.125]
+Score2 list: [-0.4091796875, -0.268798828125, -0.358642578125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Golden Answer: ['12+3/4 mi northeast of Liverpool']
+Greedy Answer: Aughton Park railway station is on a branch of the
+RAG Hallu Answer: Aughton Park railway station is on a branch of the
+Generated Sentence: Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Answer: Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?
+Aughton Park railway station is
+Answer Prob: 0.8693296909332275
+Marginalized Prob: 0.394737184047699
+Answer Prob List: [0.8693296909332275, 0.6454373598098755, 0.6905525326728821]
+Marginalized Prob List: [0.8177005052566528, 0.8140497803688049, 0.8175370097160339]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1519775390625
+Greedy Score2, Cosine Similarity of Average Vector: -0.4765625
+Score1 list: [-0.1519775390625, -0.1572265625, -0.1495361328125]
+Score2 list: [-0.4765625, -0.2998046875, -0.450439453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the area of the desert that Ghanzi is in the middle of?
+Golden Answer: ['900000 km2']
+Greedy Answer: The area of the desert that Ghanzi
+RAG Hallu Answer: The area of the desert that Ghanzi
+Generated Sentence: 
+Answer: Ghanzi is in the middle of the desert.
+Answer: Ghanzi is in the middle of the desert.
+Answer: Ghanzi is in the middle of the desert.
+Answer: Ghanzi is in
+Answer Prob: 0.7670572400093079
+Marginalized Prob: 0.3537765145301819
+Answer Prob List: [0.7271845936775208, 0.7670572400093079, 0.6681963801383972]
+Marginalized Prob List: [0.648230254650116, 0.6462336778640747, 0.6496307253837585]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11920166015625
+Greedy Score2, Cosine Similarity of Average Vector: -0.43115234375
+Score1 list: [-0.1160888671875, -0.11920166015625, -0.11676025390625]
+Score2 list: [-0.36669921875, -0.43115234375, -0.1378173828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the movie filmed starring Choi Yoon-young in 2012?
+Golden Answer: ['Korea']
+Greedy Answer: As
+RAG Hallu Answer: As
+Generated Sentence: 
+The movie was filmed in Japan.
+The movie was filmed in Japan. The movie was filmed in Japan. The movie was filmed in Japan. The movie was filmed in Japan. The movie was filmed in Japan.
+Answer Prob: 0.13944818079471588
+Marginalized Prob: 0.42381587624549866
+Answer Prob List: [0.13944818079471588, 0.09849805384874344, 0.09145234525203705]
+Marginalized Prob List: [0.6801779866218567, 0.6571317911148071, 0.7022590637207031]
+Greedy Score1, Average of Layer Cosine Similarity: -0.06805419921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.313720703125
+Score1 list: [-0.06805419921875, -0.06805419921875, -0.06805419921875]
+Score2 list: [-0.313720703125, -0.313720703125, -0.313720703125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who stars in the title role of a Netflix show co-created by Robert Carlock?
+Golden Answer: ['Ellie Kemper']
+Greedy Answer: Ellie Kemper
+RAG Hallu Answer: Ellie Kemper
+Generated Sentence: 
+Answer: ellie kemper
+Answer: ellie kemper
+Answer: ellie kemper
+Answer: ellie kemper
+Answer: ellie kemper
+Answer: ellie kemper
+Answer
+Answer Prob: 0.8745962381362915
+Marginalized Prob: 0.5155320167541504
+Answer Prob List: [0.8745962381362915, 0.3291642367839813, 0.6140013933181763]
+Marginalized Prob List: [0.7047243118286133, 0.60527503490448, 0.6188510656356812]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11553955078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.2347412109375
+Score1 list: [-0.11553955078125, -0.09161376953125, -0.10504150390625]
+Score2 list: [-0.2347412109375, -0.2159423828125, -0.2227783203125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which American rock band was formed first, Soil or Drowning Pool?
+Golden Answer: ['Drowning Pool']
+Greedy Answer: Soil
+So
+RAG Hallu Answer: Soil
+So
+Generated Sentence: 
+Soil was formed first.
+Soil was formed first. Drowning Pool was formed in 1996, while Soil was formed in 1997.
+Soil was formed first. Drowning Pool
+Answer Prob: 0.3385324776172638
+Marginalized Prob: 0.2830199897289276
+Answer Prob List: [0.6245351433753967, 0.3385324776172638, 0.24663186073303223]
+Marginalized Prob List: [0.6046283841133118, 0.6180434823036194, 0.6180434823036194]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12457275390625
+Greedy Score2, Cosine Similarity of Average Vector: -0.340576171875
+Score1 list: [-0.10211181640625, -0.12457275390625, -0.11859130859375]
+Score2 list: [-0.25439453125, -0.340576171875, -0.33984375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?
+Golden Answer: ['fortnightly']
+Greedy Answer: 
+
+
+RAG Hallu Answer: 
+
+
+Generated Sentence: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+Answer Prob: 0.24279910326004028
+Marginalized Prob: 0.30659493803977966
+Answer Prob List: [0.29802072048187256, 0.24279910326004028, 0.31076714396476746]
+Marginalized Prob List: [0.6932139992713928, 0.7745597958564758, 0.7038580179214478]
+Greedy Score1, Average of Layer Cosine Similarity: -0.08270263671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.1439208984375
+Score1 list: [-0.11846923828125, -0.08270263671875, -0.1220703125]
+Score2 list: [-0.3447265625, -0.1439208984375, -0.323486328125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who commanded the Anglo-Canadian 21st Army Group and was nicknamed "Monty"?
+Golden Answer: ['Bernard Montgomery']
+Greedy Answer: Bernard Montgomery
+RAG Hallu Answer: Bernard Montgomery
+Generated Sentence: 
+Bernard Montgomery was the commander of the Anglo-Canadian 21st Army Group.
+
+### 2.
+
+Given the following information:Derek Knee  Derek Kne
+Answer Prob: 0.7390108704566956
+Marginalized Prob: 0.422405481338501
+Answer Prob List: [0.5966362357139587, 0.7390108704566956, 0.4522581398487091]
+Marginalized Prob List: [0.6187905073165894, 0.6374107003211975, 0.6078886389732361]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11639404296875
+Greedy Score2, Cosine Similarity of Average Vector: -0.00786590576171875
+Score1 list: [-0.09747314453125, -0.11639404296875, -0.1251220703125]
+Score2 list: [-0.13916015625, -0.00786590576171875, -0.18505859375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what regions of the United States is the Eastern Market, Detroit located?
+Golden Answer: ['Great Lakes and Midwestern']
+Greedy Answer: Eastern Market, Detroit is located
+RAG Hallu Answer: Eastern Market, Detroit is located
+Generated Sentence: 
+The Eastern Market is located on the city's central east side near St. Joseph Roman Catholic Church and the Lafayette Park neighborhood.
+The Eastern Market is located on the city's central east side near St. Joseph Roman Catholic
+Answer Prob: 0.6759587526321411
+Marginalized Prob: 0.4248456060886383
+Answer Prob List: [0.6467446088790894, 0.6759587526321411, 0.2683931887149811]
+Marginalized Prob List: [0.8294716477394104, 0.8273488879203796, 0.8221496939659119]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12939453125
+Greedy Score2, Cosine Similarity of Average Vector: -0.4599609375
+Score1 list: [-0.1290283203125, -0.12939453125, -0.1083984375]
+Score2 list: [-0.46533203125, -0.4599609375, -0.376220703125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Before the 2004-2005 Minnesota Timberwovles season, what had Sam Cassell had been honored with what titles?
+Golden Answer: ['All-NBA Team']
+Greedy Answer: Cassell had been hon
+RAG Hallu Answer: Cassell had been hon
+Generated Sentence: 
+Answer: cassell had been hon
+Answer: cassell had been hon
+Answer: cassell had been hon
+Answer: cassell had been hon
+Answer: cassell had been hon
+Answer: cass
+Answer Prob: 0.6032687425613403
+Marginalized Prob: 0.44649791717529297
+Answer Prob List: [0.6319392323493958, 0.6032687425613403, 0.41516146063804626]
+Marginalized Prob List: [0.5461402535438538, 0.7116017937660217, 0.4505217671394348]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1273193359375
+Greedy Score2, Cosine Similarity of Average Vector: -0.40185546875
+Score1 list: [-0.12017822265625, -0.1273193359375, -0.1439208984375]
+Score2 list: [-0.34326171875, -0.40185546875, -0.2646484375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what city is the mortgage lending company, founded by Dan Gilbert, headquartered?
+Golden Answer: ['Detroit, Michigan']
+Greedy Answer: Cleveland, Ohio
+RAG Hallu Answer: Cleveland, Ohio
+Generated Sentence: 
+The company is headquartered in Cleveland, Ohio.
+The company is headquartered in Cleveland, Ohio. The company is headquartered in Cleveland, Ohio. The company is headquartered in Cleveland, Ohio.
+Answer Prob: 0.4249567985534668
+Marginalized Prob: 0.3973473608493805
+Answer Prob List: [0.22824782133102417, 0.4249567985534668, 0.4514293372631073]
+Marginalized Prob List: [0.5932139158248901, 0.6468930244445801, 0.6236648559570312]
+Greedy Score1, Average of Layer Cosine Similarity: -0.099609375
+Greedy Score2, Cosine Similarity of Average Vector: -0.242431640625
+Score1 list: [-0.0987548828125, -0.099609375, -0.10430908203125]
+Score2 list: [0.00383758544921875, -0.242431640625, -0.164306640625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:José Baviera starred in the 1962 film by the filmmaker who worked in what countries?
+Golden Answer: ['Spain, Mexico and France']
+Greedy Answer: Luis Buñuel worked
+RAG Hallu Answer: Luis Buñuel worked
+Generated Sentence: 
+José Baviera starred in the 1962 film by the filmmaker who worked in Spain, Mexico and France.
+José Baviera starred in the 1962 film by the filmmaker who
+Answer Prob: 0.5656076073646545
+Marginalized Prob: 0.36458009481430054
+Answer Prob List: [0.5656076073646545, 0.4199722707271576, 0.5678070187568665]
+Marginalized Prob List: [0.8358796238899231, 0.8326209783554077, 0.8353571891784668]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11767578125
+Greedy Score2, Cosine Similarity of Average Vector: -0.29833984375
+Score1 list: [-0.11767578125, -0.11822509765625, -0.1251220703125]
+Score2 list: [-0.29833984375, -0.22998046875, -0.302001953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the 2017 horror-thriller film in which Barry Keoghan, Nicole Kidman, Colin Farrell, and Alicia Silverstone appeared?
+Golden Answer: ['Yorgos Lanthimos']
+Greedy Answer: Yorgos Lanthimos
+RAG Hallu Answer: Yorgos Lanthimos
+Generated Sentence: 
+The film was directed by Yorgos Lanthimos.
+The film was selected to compete for the Palme d'Or in the main competition section at the 2017 Cannes Film Festival.
+At Cannes,
+Answer Prob: 0.9249553680419922
+Marginalized Prob: 0.4425167739391327
+Answer Prob List: [0.6357874274253845, 0.9249553680419922, 0.5322985649108887]
+Marginalized Prob List: [0.7479087710380554, 0.7458269000053406, 0.7393807768821716]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1064453125
+Greedy Score2, Cosine Similarity of Average Vector: -0.156005859375
+Score1 list: [-0.1204833984375, -0.1064453125, -0.115966796875]
+Score2 list: [-0.54931640625, -0.156005859375, -0.37060546875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?
+Golden Answer: ['Australia']
+Greedy Answer: Australia
+RAG Hallu Answer: Australia
+Generated Sentence: 
+Caprice Dydasco  Caprice Ka'anohikula Dydasco, born August 19, 1993 in Honolulu, Hawaii, is an American soccer defender and midf
+Answer Prob: 0.2584993839263916
+Marginalized Prob: 0.5422207713127136
+Answer Prob List: [0.2584993839263916, 0.1156080886721611, 0.10526236146688461]
+Marginalized Prob List: [0.8959517478942871, 0.8820874691009521, 0.8888105750083923]
+Greedy Score1, Average of Layer Cosine Similarity: -0.06732177734375
+Greedy Score2, Cosine Similarity of Average Vector: -0.28076171875
+Score1 list: [-0.06732177734375, -0.06732177734375, -0.06732177734375]
+Score2 list: [-0.28076171875, -0.28076171875, -0.28076171875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?
+Golden Answer: ['Caesars Palace Grand Prix']
+Greedy Answer: Caesars Palace Grand Prix
+RAG Hallu Answer: Caesars Palace Grand Prix
+Generated Sentence: 
+The Caesars Palace Grand Prix was a car race held between 1981 and 1984.  For the first two years, the race was part of the Formula One World Championship, before becoming a round of the
+Answer Prob: 0.8551185727119446
+Marginalized Prob: 0.4023783504962921
+Answer Prob List: [0.8551185727119446, 0.7097762823104858, 0.5756145715713501]
+Marginalized Prob List: [0.9027894735336304, 0.8924562335014343, 0.8914583921432495]
+Greedy Score1, Average of Layer Cosine Similarity: -0.13330078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.394287109375
+Score1 list: [-0.13330078125, -0.1204833984375, -0.1466064453125]
+Score2 list: [-0.394287109375, -0.449462890625, -0.350341796875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:From which city in Oklahoma is the singer of a song that peaked at number 24 on "Billboard" magazine's pop chart in December 1953?
+Golden Answer: ['Oklahoma City']
+Greedy Answer: Gayla
+RAG Hallu Answer: Gayla
+Generated Sentence: Gayla Peevey  Gayla Rienette Peevey (born March 8, 1943) is a former singer and child star from Oklahoma City, Oklahoma.  Her family moved to Ponca City, Oklahoma,
+Answer Prob: 0.5347481369972229
+Marginalized Prob: 0.4303742051124573
+Answer Prob List: [0.4104049801826477, 0.5347481369972229, 0.29746219515800476]
+Marginalized Prob List: [0.9361039996147156, 0.9408763647079468, 0.9471561908721924]
+Greedy Score1, Average of Layer Cosine Similarity: -0.107177734375
+Greedy Score2, Cosine Similarity of Average Vector: -0.031341552734375
+Score1 list: [-0.0826416015625, -0.107177734375, -0.09942626953125]
+Score2 list: [0.197021484375, -0.031341552734375, -0.192626953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did an English former footballer purchase in march 2009?
+Golden Answer: ['50 JJB Sports Fitness Clubs']
+Greedy Answer: Dave Whelan purchased the 50 JJB
+RAG Hallu Answer: Dave Whelan purchased the 50 JJB
+Generated Sentence: 
+DW Sports Fitness is a British retailing and fitness business.
+Founded in March 2009 when Dave Whelan purchased the 50 JJB Sports Fitness Clubs and the attached ret
+Answer Prob: 0.7360350489616394
+Marginalized Prob: 0.4090304374694824
+Answer Prob List: [0.5808533430099487, 0.7360350489616394, 0.4901518225669861]
+Marginalized Prob List: [0.8710728287696838, 0.8797768950462341, 0.8764908313751221]
+Greedy Score1, Average of Layer Cosine Similarity: -0.15087890625
+Greedy Score2, Cosine Similarity of Average Vector: -0.482666015625
+Score1 list: [-0.1484375, -0.15087890625, -0.14404296875]
+Score2 list: [-0.48828125, -0.482666015625, -0.44580078125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?
+Golden Answer: ['Alfonso Cuarón']
+Greedy Answer: Alfonso Cuarón
+RAG Hallu Answer: Alfonso Cuarón
+Generated Sentence: 
+
+Answer:
+
+```
+Jason O'Bryan  Jason O'Bryan is a record producer and bassist from London, England.  He was a member of the Dub Pistols (1997
+Answer Prob: 0.856467068195343
+Marginalized Prob: 0.4902016520500183
+Answer Prob List: [0.4663058817386627, 0.856467068195343, 0.41910895705223083]
+Marginalized Prob List: [0.7456517219543457, 0.741807758808136, 0.7468957901000977]
+Greedy Score1, Average of Layer Cosine Similarity: -0.08319091796875
+Greedy Score2, Cosine Similarity of Average Vector: -0.062744140625
+Score1 list: [-0.0877685546875, -0.08319091796875, -0.10455322265625]
+Score2 list: [-0.04791259765625, -0.062744140625, -0.3017578125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which town in New Hampshire with a population of 5,457 in 2010 is located by Mount Monadnock?
+Golden Answer: ['Jaffrey']
+Greedy Answer: Jaffrey
+RAG Hallu Answer: Jaffrey
+Generated Sentence: 
+Jaffrey is a town in Cheshire County, New Hampshire, United States.  The population was 5,457 at the 2010 census. 
+
+Answer: Jaffrey is a town
+Answer Prob: 0.869701623916626
+Marginalized Prob: 0.5588716268539429
+Answer Prob List: [0.869701623916626, 0.3209102153778076, 0.36978670954704285]
+Marginalized Prob List: [0.769669771194458, 0.7595381736755371, 0.769669771194458]
+Greedy Score1, Average of Layer Cosine Similarity: -0.08917236328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.09417724609375
+Score1 list: [-0.08917236328125, -0.10699462890625, -0.10028076171875]
+Score2 list: [-0.09417724609375, -0.401611328125, -0.1160888671875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Randy Shughart's rank when he died?
+Golden Answer: ['Sergeant First Class']
+Greedy Answer: Sergeant First Class
+RAG Hallu Answer: Sergeant First Class
+Generated Sentence: 
+Randy Shughart was a sergeant first class when he died.
+Answer the following question based on the given information with one or few words: What was Gary Gordon's rank when he died?
+Answer: master serge
+Answer Prob: 0.6879923343658447
+Marginalized Prob: 0.4588885009288788
+Answer Prob List: [0.5004540681838989, 0.6879923343658447, 0.4050862193107605]
+Marginalized Prob List: [0.6746333837509155, 0.7676244974136353, 0.7038614153862]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11639404296875
+Greedy Score2, Cosine Similarity of Average Vector: -0.189697265625
+Score1 list: [-0.136962890625, -0.11639404296875, -0.10357666015625]
+Score2 list: [-0.2279052734375, -0.189697265625, -0.09765625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What genre was the movie that Austin Nichols was in with Kirsten Dunst?
+Golden Answer: ['romantic comedy']
+Greedy Answer: Romantic comedy
+RAG Hallu Answer: Romantic comedy
+Generated Sentence: 
+
+Answer:
+
+### 2.
+
+Given the following information:
+
+Austin Nichols  Austin Nichols (born April 24, 1980) is an American actor and director,
+Answer Prob: 0.5953396558761597
+Marginalized Prob: 0.42751526832580566
+Answer Prob List: [0.41692447662353516, 0.5953396558761597, 0.3823164105415344]
+Marginalized Prob List: [0.6352255940437317, 0.6352255940437317, 0.6318643689155579]
+Greedy Score1, Average of Layer Cosine Similarity: -0.09326171875
+Greedy Score2, Cosine Similarity of Average Vector: -0.0178375244140625
+Score1 list: [-0.09893798828125, -0.09326171875, -0.10833740234375]
+Score2 list: [-0.054595947265625, -0.0178375244140625, 0.00292205810546875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What brother of Stanley Alan Van Gundy is a color commentator for ESPN?
+Golden Answer: ['Jeffrey William Van Gundy']
+Greedy Answer: Jeff Van Gundy
+Answer
+RAG Hallu Answer: Jeff Van Gundy
+Answer
+Generated Sentence: 
+Jeff Van Gundy is a color commentator for ESPN.
+Answer: jeff van gundy is a color commentator for espn
+Answer: jeff van gundy is a color commentator for espn
+Answer Prob: 0.6466214656829834
+Marginalized Prob: 0.3543482720851898
+Answer Prob List: [0.6466214656829834, 0.5842036008834839, 0.5689511895179749]
+Marginalized Prob List: [0.6525780558586121, 0.6667498350143433, 0.6667498350143433]
+Greedy Score1, Average of Layer Cosine Similarity: -0.124267578125
+Greedy Score2, Cosine Similarity of Average Vector: -0.306396484375
+Score1 list: [-0.124267578125, -0.1285400390625, -0.1287841796875]
+Score2 list: [-0.306396484375, -0.37744140625, -0.30859375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what was the American computer-animated fantasy film which  Aron Warner produced based on
+Golden Answer: ["William Steig's 1990 fairy tale"]
+Greedy Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+RAG Hallu Answer: Shrek
+Answer: Aron Warner
+Answer: Aron
+Generated Sentence: 
+Answer: aron warner is an american actor and producer. he won an academy award for best animated feature as a producer of the animated blockbuster "shrek", in which he also voices the big bad wolf.
+
+Answer Prob: 0.5392705202102661
+Marginalized Prob: 0.39671826362609863
+Answer Prob List: [0.5392705202102661, 0.5092489719390869, 0.38099414110183716]
+Marginalized Prob List: [0.7569108605384827, 0.698636531829834, 0.6953679323196411]
+Greedy Score1, Average of Layer Cosine Similarity: -0.137451171875
+Greedy Score2, Cosine Similarity of Average Vector: -0.55078125
+Score1 list: [-0.137451171875, -0.1470947265625, -0.124267578125]
+Score2 list: [-0.55078125, -0.396240234375, -0.49658203125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What village in Nassau County, New York with a name meaning "a pleasant place" is represented by Kathleen Rice in the United States House of Representatives?
+Golden Answer: ['Mineola']
+Greedy Answer: Mineola
+RAG Hallu Answer: Mineola
+Generated Sentence: 
+The 4th Congressional District of New York is a congressional district for the United States House of Representatives in central and southern Nassau County. It includes the communities of Baldwin, Bellmore, East Rockaway, East
+Answer Prob: 0.759247362613678
+Marginalized Prob: 0.7094288468360901
+Answer Prob List: [0.759247362613678, 0.20210686326026917, 0.11260095238685608]
+Marginalized Prob List: [0.8565553426742554, 0.8507336378097534, 0.8386176228523254]
+Greedy Score1, Average of Layer Cosine Similarity: -0.0958251953125
+Greedy Score2, Cosine Similarity of Average Vector: 0.11187744140625
+Score1 list: [-0.0958251953125, -0.0794677734375, -0.09552001953125]
+Score2 list: [0.11187744140625, -0.25830078125, -0.36865234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Where was the singer born who performs Pon de Replay and was born Robyn Fenty?
+Golden Answer: ['Saint Michael, Barbados']
+Greedy Answer: Barbados
+Answer:
+RAG Hallu Answer: Barbados
+Answer:
+Generated Sentence: 
+The singer was born in Barbados.
+The singer was born in Barbados. The singer was born in Barbados. The singer was born in Barbados. The singer was born in Barbados. The singer was born in Barbados.
+Answer Prob: 0.3862263858318329
+Marginalized Prob: 0.27630382776260376
+Answer Prob List: [0.52689129114151, 0.3862263858318329, 0.546368420124054]
+Marginalized Prob List: [0.6216740608215332, 0.6574141383171082, 0.617695689201355]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12109375
+Greedy Score2, Cosine Similarity of Average Vector: -0.211181640625
+Score1 list: [-0.1265869140625, -0.12109375, -0.11676025390625]
+Score2 list: [-0.28466796875, -0.211181640625, -0.2489013671875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which ocean would the ingredients likely come from for the She-crab soup?
+Golden Answer: ['Atlantic Ocean']
+Greedy Answer: Atlantic Ocean
+RAG Hallu Answer: Atlantic Ocean
+Generated Sentence: 
+The ingredients for She-crab soup are Atlantic blue crab meat, and (traditionally) crab roe, and a small amount of dry sherry added as it is plated.
+The Atlantic Ocean is the
+Answer Prob: 0.4562816023826599
+Marginalized Prob: 0.5394362211227417
+Answer Prob List: [0.24112612009048462, 0.4562816023826599, 0.1552189290523529]
+Marginalized Prob List: [0.6961635947227478, 0.7082751989364624, 0.6961635947227478]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10345458984375
+Greedy Score2, Cosine Similarity of Average Vector: -0.260009765625
+Score1 list: [-0.11376953125, -0.10345458984375, -0.08807373046875]
+Score2 list: [-0.350341796875, -0.260009765625, -0.13232421875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the approximate population of the town near which Forward Operating Base Gibraltar was located ?
+Golden Answer: ['approximately 14,000']
+Greedy Answer: Sangin
+Answer: Sangin
+
+RAG Hallu Answer: Sangin
+Answer: Sangin
+
+Generated Sentence: 
+Answer: sangin is the answer because it is the town near which Forward Operating Base Gibraltar was located.
+Answer: sangin is the answer because it is the town near which Forward Operating Base Gibraltar was
+Answer Prob: 0.40865352749824524
+Marginalized Prob: 0.2506526708602905
+Answer Prob List: [0.40865352749824524, 0.6429327726364136, 0.7029809355735779]
+Marginalized Prob List: [0.6186292767524719, 0.5516217947006226, 0.5706075429916382]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1317138671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.486572265625
+Score1 list: [-0.1317138671875, -0.1419677734375, -0.1143798828125]
+Score2 list: [-0.486572265625, -0.168212890625, -0.493408203125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American actress starred in the 1996 television film "Bastard Out of Carolina" directed by Anjelica Huston?
+Golden Answer: ['Jena Malone']
+Greedy Answer: Jena Malone
+RAG Hallu Answer: Jena Malone
+Generated Sentence: 
+Jena Malone is an American actress, musician and photographer. She made her acting debut in the television film "Bastard Out of Carolina" (1996); subsequently, Malone has starred in a number of
+Answer Prob: 0.922947347164154
+Marginalized Prob: 0.5350114703178406
+Answer Prob List: [0.922947347164154, 0.3851529657840729, 0.42078331112861633]
+Marginalized Prob List: [0.8559728860855103, 0.8475603461265564, 0.8559728860855103]
+Greedy Score1, Average of Layer Cosine Similarity: -0.116943359375
+Greedy Score2, Cosine Similarity of Average Vector: -0.267333984375
+Score1 list: [-0.116943359375, -0.11376953125, -0.12359619140625]
+Score2 list: [-0.267333984375, -0.42431640625, -0.255859375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which 8-year old star of an epistolary novel turned musical by Alice Walker also voiced Frankie Greene in a Disney series?
+Golden Answer: ['Diamond White']
+Greedy Answer: Diamond White
+RAG Hallu Answer: Diamond White
+Generated Sentence: 
+Diamond White (singer)  Diamond White (born January 1, 1999) is an American singer, actress and voice actress who, in 2007 at the age of 8, star
+Answer Prob: 0.8314414024353027
+Marginalized Prob: 0.5336395502090454
+Answer Prob List: [0.8314414024353027, 0.36936211585998535, 0.35752639174461365]
+Marginalized Prob List: [0.8992849588394165, 0.8989487886428833, 0.8989487886428833]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10888671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.257568359375
+Score1 list: [-0.10888671875, -0.09967041015625, -0.1119384765625]
+Score2 list: [-0.257568359375, -0.2030029296875, -0.032928466796875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to which nationality?
+Golden Answer: ['American']
+Greedy Answer: American
+RAG Hallu Answer: American
+Generated Sentence: 
+Answer: The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to American nationality.
+Answer: The casino owner who was focused on the documentary Nobody Spe
+Answer Prob: 0.2757165729999542
+Marginalized Prob: 0.5088499188423157
+Answer Prob List: [0.2757165729999542, 0.1424822062253952, 0.11858422309160233]
+Marginalized Prob List: [0.7321386337280273, 0.7452898025512695, 0.7475751042366028]
+Greedy Score1, Average of Layer Cosine Similarity: -0.05902099609375
+Greedy Score2, Cosine Similarity of Average Vector: -0.1942138671875
+Score1 list: [-0.05902099609375, -0.05902099609375, -0.05902099609375]
+Score2 list: [-0.1942138671875, -0.1942138671875, -0.1942138671875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Oxley Highway ends at a coastal town that had how many inhabitants in June 2016 ?
+Golden Answer: ['45,698']
+Greedy Answer: 45,698
+RAG Hallu Answer: 45,698
+Generated Sentence: 
+The Oxley Highway ends at Port Macquarie.
+Port Macquarie is a coastal town in the local government area of Port Macquarie-Hastings.
+The town is located on the Tasman Sea coast, at
+Answer Prob: 0.6895436644554138
+Marginalized Prob: 0.34025144577026367
+Answer Prob List: [0.6320468783378601, 0.6895436644554138, 0.7408558130264282]
+Marginalized Prob List: [0.7601361274719238, 0.7832348942756653, 0.7650134563446045]
+Greedy Score1, Average of Layer Cosine Similarity: -0.128173828125
+Greedy Score2, Cosine Similarity of Average Vector: -0.0113677978515625
+Score1 list: [-0.137451171875, -0.128173828125, -0.133544921875]
+Score2 list: [-0.399169921875, -0.0113677978515625, -0.43896484375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the steering committee was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years?
+Golden Answer: ['Walter Cronkite']
+Greedy Answer: Walter Cronkite
+RAG Hallu Answer: Walter Cronkite
+Generated Sentence: 
+Walter Cronkite was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years.
+The Reporters Committee for Freedom of the Press (RCFP
+Answer Prob: 0.8418975472450256
+Marginalized Prob: 0.4564625322818756
+Answer Prob List: [0.8418975472450256, 0.5918970108032227, 0.4193243086338043]
+Marginalized Prob List: [0.8043440580368042, 0.8052498698234558, 0.7863328456878662]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11883544921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.1630859375
+Score1 list: [-0.11883544921875, -0.1300048828125, -0.125244140625]
+Score2 list: [-0.1630859375, -0.2220458984375, -0.5126953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What type of engine powered both the Saab 36 and the Avro Vulcan?
+Golden Answer: ['British Bristol Olympus turbojet']
+Greedy Answer: The engine powering both the Saab
+RAG Hallu Answer: The engine powering both the Saab
+Generated Sentence: 
+The engine powering both the Saab 36 and the Avro Vulcan was the same engine, the British Bristol Olympus turbojet.
+The engine powering both the Saab 36 and the Avro
+Answer Prob: 0.5464786291122437
+Marginalized Prob: 0.38804733753204346
+Answer Prob List: [0.5464786291122437, 0.23104046285152435, 0.652111828327179]
+Marginalized Prob List: [0.6948586702346802, 0.6812328696250916, 0.676934003829956]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1375732421875
+Greedy Score2, Cosine Similarity of Average Vector: -0.43017578125
+Score1 list: [-0.1375732421875, -0.10125732421875, -0.1298828125]
+Score2 list: [-0.43017578125, -0.2626953125, -0.37939453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who co-starred alongside John Wayne in the 1951 World War II submarine film Operation Pacific?
+Golden Answer: ['Ward Bond']
+Greedy Answer: Ward Bond
+RAG Hallu Answer: Ward Bond
+Generated Sentence: 
+Ward Bond co-starred alongside John Wayne in the 1951 World War II submarine film Operation Pacific.
+Ward Bond co-starred alongside John Wayne in the 1951 World War II submarine
+Answer Prob: 0.6227052807807922
+Marginalized Prob: 0.4569665789604187
+Answer Prob List: [0.5048550963401794, 0.6227052807807922, 0.25629252195358276]
+Marginalized Prob List: [0.7929942011833191, 0.8130002021789551, 0.7852872610092163]
+Greedy Score1, Average of Layer Cosine Similarity: -0.103271484375
+Greedy Score2, Cosine Similarity of Average Vector: -0.328369140625
+Score1 list: [-0.09765625, -0.103271484375, -0.09906005859375]
+Score2 list: [0.03875732421875, -0.328369140625, -0.361083984375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?
+Golden Answer: ['Texas Tech University']
+Greedy Answer: Texas Tech University
+RAG Hallu Answer: Texas Tech University
+Generated Sentence: 
+Texas Tech University is the only university in Texas to house an undergraduate university, law school, and medical school.
+The 1974 Texas Tech Red Raiders football team represented Texas Tech University in the South
+Answer Prob: 0.8195577263832092
+Marginalized Prob: 0.44553911685943604
+Answer Prob List: [0.5528993010520935, 0.8195577263832092, 0.5029316544532776]
+Marginalized Prob List: [0.7034152746200562, 0.7375792860984802, 0.7224671244621277]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11151123046875
+Greedy Score2, Cosine Similarity of Average Vector: -0.3564453125
+Score1 list: [-0.1455078125, -0.11151123046875, -0.12469482421875]
+Score2 list: [-0.323486328125, -0.3564453125, -0.25244140625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Peter Marc Jacobson is best known as the co-creator of the popular sitcom "The Nanny", which he created and wrote with his then wife an actress born in which year ?
+Golden Answer: ['1957']
+Greedy Answer: 1957
+RAG Hallu Answer: 1957
+Generated Sentence: 
+Peter Marc Jacobson is best known as the co-creator of the popular sitcom "The Nanny", which he created and wrote with his then wife actress born in which year ?
+Peter Marc Jacobson is best known as the co
+Answer Prob: 0.7186264991760254
+Marginalized Prob: 0.42617523670196533
+Answer Prob List: [0.3601198196411133, 0.7186264991760254, 0.6039881706237793]
+Marginalized Prob List: [0.8495997786521912, 0.8541008830070496, 0.8617176413536072]
+Greedy Score1, Average of Layer Cosine Similarity: -0.14697265625
+Greedy Score2, Cosine Similarity of Average Vector: -0.2142333984375
+Score1 list: [-0.119873046875, -0.14697265625, -0.13134765625]
+Score2 list: [-0.231689453125, -0.2142333984375, -0.45458984375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the brother of the wife of the Democratic Party nomination for Vice President in 1972?
+Golden Answer: ['President John F. Kennedy']
+Greedy Answer: Sargent Shriver
+
+RAG Hallu Answer: Sargent Shriver
+
+Generated Sentence: 
+Sargent Shriver was the brother of the wife of the Democratic Party nomination for Vice President in 1972.
+Sargent Shriver was the brother of the wife of the Democratic Party nomination for Vice President in 1
+Answer Prob: 0.6730497479438782
+Marginalized Prob: 0.39428338408470154
+Answer Prob List: [0.6730497479438782, 0.6360216736793518, 0.4205376207828522]
+Marginalized Prob List: [0.7934580445289612, 0.7758080959320068, 0.7775321006774902]
+Greedy Score1, Average of Layer Cosine Similarity: -0.13525390625
+Greedy Score2, Cosine Similarity of Average Vector: -0.278564453125
+Score1 list: [-0.13525390625, -0.123046875, -0.1207275390625]
+Score2 list: [-0.278564453125, -0.217529296875, -0.355224609375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the birthday of the singer whose songs are remixed in Queen of Clubs Trilogy: Onyx Edition?
+Golden Answer: ['3 August 1980']
+Greedy Answer: Nadia Ali (singer)
+
+RAG Hallu Answer: Nadia Ali (singer)
+
+Generated Sentence: 
+Nadia Ali (singer) Nadia Ali (Urdu: ‎ , born 3 August 1980) is a Pakistani American singer-songwriter. Ali gained prominence in 20
+Answer Prob: 0.624215841293335
+Marginalized Prob: 0.3780689835548401
+Answer Prob List: [0.624215841293335, 0.6725345253944397, 0.3676132559776306]
+Marginalized Prob List: [0.8635572195053101, 0.8538113832473755, 0.8501430153846741]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1497802734375
+Greedy Score2, Cosine Similarity of Average Vector: -0.41357421875
+Score1 list: [-0.1497802734375, -0.135986328125, -0.1195068359375]
+Score2 list: [-0.41357421875, -0.2763671875, -0.1920166015625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Mark Lawrence played for the Dallas Stars and which other NHL team?
+Golden Answer: ['New York Islanders']
+Greedy Answer: Dallas Stars and New
+RAG Hallu Answer: Dallas Stars and New
+Generated Sentence: 
+Mark Lawrence played for the Dallas Stars and which other NHL team?
+Mark Lawrence played for the Dallas Stars and which other NHL team?
+Mark Lawrence played for the Dallas Stars and which other NHL team?
+Mark Lawrence played for
+Answer Prob: 0.49970534443855286
+Marginalized Prob: 0.2945532202720642
+Answer Prob List: [0.6436961889266968, 0.49970534443855286, 0.5740981101989746]
+Marginalized Prob List: [0.762542188167572, 0.7759303450584412, 0.7625402808189392]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1346435546875
+Greedy Score2, Cosine Similarity of Average Vector: -0.43994140625
+Score1 list: [-0.12347412109375, -0.1346435546875, -0.12249755859375]
+Score2 list: [-0.411865234375, -0.43994140625, -0.302490234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which crop first domesticated in Mexico has its price regulated by a Mexican parastatal created in 1962?
+Golden Answer: ['Maize']
+Greedy Answer: Maize
+RAG Hallu Answer: Maize
+Generated Sentence: 
+The National Company of Popular Subsistences (Spanish: Compañía Nacional de Subsistencias Populares, CONASUPO) was a Mexican parastatal in charge of developing actions related with the system of supply and
+Answer Prob: 0.5722095370292664
+Marginalized Prob: 0.4664699137210846
+Answer Prob List: [0.4511811435222626, 0.5722095370292664, 0.20439496636390686]
+Marginalized Prob List: [0.9004740118980408, 0.9004740118980408, 0.8956050872802734]
+Greedy Score1, Average of Layer Cosine Similarity: -0.08245849609375
+Greedy Score2, Cosine Similarity of Average Vector: 0.2271728515625
+Score1 list: [-0.08026123046875, -0.08245849609375, -0.06561279296875]
+Score2 list: [0.22412109375, 0.2271728515625, 0.03021240234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What award was an actor born in 1955 that acted in the movie Ransom nominated for?
+Golden Answer: ['Academy Award']
+Greedy Answer: Golden Glo
+RAG Hallu Answer: Golden Glo
+Generated Sentence: 
+Answer: The actor Gary Sinise was nominated for a Golden Globe Award for Best Actor.
+Answer: The actor Gary Sinise was nominated for a Golden Globe Award for Best Actor. 
+  Gary Sinise  Gary
+Answer Prob: 0.4698679745197296
+Marginalized Prob: 0.5080032348632812
+Answer Prob List: [0.4698679745197296, 0.21541795134544373, 0.2572682201862335]
+Marginalized Prob List: [0.6618252396583557, 0.6293240785598755, 0.6437040567398071]
+Greedy Score1, Average of Layer Cosine Similarity: -0.09954833984375
+Greedy Score2, Cosine Similarity of Average Vector: -0.3662109375
+Score1 list: [-0.09954833984375, -0.10308837890625, -0.09954833984375]
+Score2 list: [-0.3662109375, -0.344970703125, -0.41015625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Golden Answer: ['9,984']
+Greedy Answer: Brown State Fishing Lake is
+RAG Hallu Answer: Brown State Fishing Lake is
+Generated Sentence: 
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Brown State Fishing Lake is in a
+Answer Prob: 0.8173709511756897
+Marginalized Prob: 0.4889073371887207
+Answer Prob List: [0.8173709511756897, 0.5212634801864624, 0.3309728801250458]
+Marginalized Prob List: [0.7842810750007629, 0.7786881923675537, 0.7983613014221191]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1424560546875
+Greedy Score2, Cosine Similarity of Average Vector: -0.43896484375
+Score1 list: [-0.1424560546875, -0.10888671875, -0.08502197265625]
+Score2 list: [-0.43896484375, 0.11798095703125, -0.44091796875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:License to Drive featured what future president of the Screen Actors Guild?
+Golden Answer: ['Richard Masur']
+Greedy Answer: Richard Masur
+RAG Hallu Answer: Richard Masur
+Generated Sentence: 
+Richard Masur was the president of the Screen Actors Guild from 1995 to 1999.
+Richard Masur was the president of the Screen Actors Guild from 1995 to
+Answer Prob: 0.7261519432067871
+Marginalized Prob: 0.46156033873558044
+Answer Prob List: [0.7261519432067871, 0.4976728856563568, 0.3985733985900879]
+Marginalized Prob List: [0.753534197807312, 0.7241314053535461, 0.6973373889923096]
+Greedy Score1, Average of Layer Cosine Similarity: -0.114990234375
+Greedy Score2, Cosine Similarity of Average Vector: -0.4912109375
+Score1 list: [-0.114990234375, -0.119873046875, -0.1273193359375]
+Score2 list: [-0.4912109375, -0.501953125, -0.52734375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Grieg crater is named for a Norwegian composer who composed during what era?
+Golden Answer: ['Romantic']
+Greedy Answer: Romantic
+RAG Hallu Answer: Romantic
+Generated Sentence: 
+The Grieg crater is named for a Norwegian composer who composed during what era?
+The Grieg crater is named for a Norwegian composer who composed during the Romantic era.
+The Grieg crater is named for a Norwegian composer
+Answer Prob: 0.5163477659225464
+Marginalized Prob: 0.47475457191467285
+Answer Prob List: [0.5163477659225464, 0.27982717752456665, 0.30041617155075073]
+Marginalized Prob List: [0.791558563709259, 0.7691932320594788, 0.788726806640625]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10400390625
+Greedy Score2, Cosine Similarity of Average Vector: -0.0750732421875
+Score1 list: [-0.10400390625, -0.092041015625, -0.10784912109375]
+Score2 list: [-0.0750732421875, -0.281005859375, -0.411865234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Socialist conferences were held with what countries that opposed the Central Powers in the First World War?
+Golden Answer: ['The Allies of World War I']
+Greedy Answer: Socialist conferences were held with
+RAG Hallu Answer: Socialist conferences were held with
+Generated Sentence: 
+Socialist conferences were held with the countries that opposed the Central Powers in the First World War.
+The Allies of World War I, or Entente Powers, were the countries that opposed the Central Powers in the First
+Answer Prob: 0.7737882137298584
+Marginalized Prob: 0.42115941643714905
+Answer Prob List: [0.6502548456192017, 0.7737882137298584, 0.42614492774009705]
+Marginalized Prob List: [0.7828390002250671, 0.7920087575912476, 0.7820128202438354]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1324462890625
+Greedy Score2, Cosine Similarity of Average Vector: -0.515625
+Score1 list: [-0.154296875, -0.1324462890625, -0.12347412109375]
+Score2 list: [-0.463134765625, -0.515625, -0.4853515625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on?
+Golden Answer: ['Stephen King']
+Greedy Answer: Stephen King
+RAG Hallu Answer: Stephen King
+Generated Sentence: 
+The album "Where Blood and Fire Bring Rest" was released in 2001.  The movie "The Shining" was released in 1980.  The movie was based on the novel "The Shining
+Answer Prob: 0.8418490886688232
+Marginalized Prob: 0.6468910574913025
+Answer Prob List: [0.3162885010242462, 0.8418490886688232, 0.14302432537078857]
+Marginalized Prob List: [0.626295804977417, 0.6260026693344116, 0.626295804977417]
+Greedy Score1, Average of Layer Cosine Similarity: -0.102294921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.1793212890625
+Score1 list: [-0.1014404296875, -0.102294921875, -0.07220458984375]
+Score2 list: [0.1424560546875, -0.1793212890625, -0.03802490234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is represented on the cover art of the studio album that includes the song "Speed of Sound"?
+Golden Answer: ['Baudot code']
+Greedy Answer: The cover art
+RAG Hallu Answer: The cover art
+Generated Sentence: 
+The cover art of the studio album that includes the song "Speed of Sound" is a combination of colours and blocks, which is a representation of the Baudot code.
+The cover art of the studio album that includes the song "Speed of
+Answer Prob: 0.3115657567977905
+Marginalized Prob: 0.36606255173683167
+Answer Prob List: [0.3138306140899658, 0.3115657567977905, 0.23299765586853027]
+Marginalized Prob List: [0.7660232186317444, 0.7841812968254089, 0.7841812968254089]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11395263671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.2421875
+Score1 list: [-0.12200927734375, -0.11395263671875, -0.1060791015625]
+Score2 list: [-0.2313232421875, -0.2421875, -0.209228515625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?
+Golden Answer: ['football']
+Greedy Answer: Football
+RAG Hallu Answer: Football
+Generated Sentence: 
+The BayArena is the home ground of Bundesliga club Bayer Leverkusen.
+The club plays in the Bundesliga, the top tier of the German football league system, and hosts matches at the BayArena.
+
+Answer Prob: 0.34760499000549316
+Marginalized Prob: 0.5499295592308044
+Answer Prob List: [0.25037050247192383, 0.34760499000549316, 0.03509638085961342]
+Marginalized Prob List: [0.7788169980049133, 0.7788169980049133, 0.7570294737815857]
+Greedy Score1, Average of Layer Cosine Similarity: -0.05401611328125
+Greedy Score2, Cosine Similarity of Average Vector: 0.241455078125
+Score1 list: [-0.05401611328125, -0.05401611328125, -0.05401611328125]
+Score2 list: [0.241455078125, 0.241455078125, 0.241455078125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?
+Golden Answer: ['Babylon']
+Greedy Answer: Ishtar
+RAG Hallu Answer: Ishtar
+Generated Sentence: 
+The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?
+The Panel with striding lion  was one of many that lined the way
+Answer Prob: 0.6495697498321533
+Marginalized Prob: 0.46666938066482544
+Answer Prob List: [0.43057483434677124, 0.6495697498321533, 0.31766483187675476]
+Marginalized Prob List: [0.7980954647064209, 0.8098235130310059, 0.8107242584228516]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11578369140625
+Greedy Score2, Cosine Similarity of Average Vector: -0.2191162109375
+Score1 list: [-0.1590576171875, -0.11578369140625, -0.12200927734375]
+Score2 list: [-0.51904296875, -0.2191162109375, -0.332763671875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the companion piece that Poe's brother published?
+Golden Answer: ['"The Whalestoe Letters"']
+Greedy Answer: The Whalestoe Letters
+Answer
+RAG Hallu Answer: The Whalestoe Letters
+Answer
+Generated Sentence: 
+The Whalestoe Letters is a companion piece to House of Leaves, a novel by Mark Z. Danielewski. It is a collection of letters written by the fictional character Johnny Truant, who is the main character
+Answer Prob: 0.647067129611969
+Marginalized Prob: 0.3329559564590454
+Answer Prob List: [0.7259365320205688, 0.647067129611969, 0.5528222918510437]
+Marginalized Prob List: [0.5612508058547974, 0.5479836463928223, 0.5479836463928223]
+Greedy Score1, Average of Layer Cosine Similarity: -0.14111328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.45263671875
+Score1 list: [-0.133056640625, -0.14111328125, -0.1387939453125]
+Score2 list: [-0.432861328125, -0.45263671875, -0.453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What album starring Ed Sheeran was released on 3 March 2017?
+Golden Answer: ['÷ (pronounced "divide") is the third studio album by English singer-songwriter Ed Sheeran.']
+Greedy Answer: ÷ (album)
+
+### Question 2
+
+Given the following information:Castle on the Hill (
+RAG Hallu Answer: ÷ (album)
+
+### Question 2
+
+Given the following information:Castle on the Hill (
+Generated Sentence: ÷ album question 2 given following informationcastle on hill
+Answer: ÷ album question 2 given following informationcastle on hill
+Answer: ÷ album question 2 given following informationcastle on hill
+Answer: ÷ album question 
+Answer Prob: 0.6582669019699097
+Marginalized Prob: 0.4335343837738037
+Answer Prob List: [0.5872455835342407, 0.6582669019699097, 0.5493512749671936]
+Marginalized Prob List: [0.7591350674629211, 0.7591350674629211, 0.37705931067466736]
+Greedy Score1, Average of Layer Cosine Similarity: -0.131103515625
+Greedy Score2, Cosine Similarity of Average Vector: -0.4384765625
+Score1 list: [-0.134033203125, -0.131103515625, -0.128662109375]
+Score2 list: [-0.428466796875, -0.4384765625, -0.4482421875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In what Mississippi county is the city that is located five miles west of the county seat of said county?
+Golden Answer: ['Sunflower County']
+Greedy Answer: Indianola is located
+RAG Hallu Answer: Indianola is located
+Generated Sentence: 
+Indianola is located in Sunflower County, Mississippi.
+Indianola is located in Sunflower County, Mississippi. Indianola is a city in Sunflower County, Mississippi, United States, in the Mississippi Delta.
+Answer Prob: 0.42646411061286926
+Marginalized Prob: 0.2772495448589325
+Answer Prob List: [0.42646411061286926, 0.6049084663391113, 0.621173083782196]
+Marginalized Prob List: [0.7161463499069214, 0.6620122194290161, 0.6370296478271484]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1221923828125
+Greedy Score2, Cosine Similarity of Average Vector: -0.3681640625
+Score1 list: [-0.1221923828125, -0.123046875, -0.12274169921875]
+Score2 list: [-0.3681640625, -0.256591796875, -0.241943359375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:During the Carnival in Rio de Janeiro who is the official singer of the samba school Mangueira?
+Golden Answer: ['José Bispo Clementino dos Santos']
+Greedy Answer: Jamelão
+Answer the following
+RAG Hallu Answer: Jamelão
+Answer the following
+Generated Sentence: Jamelão was the official singer of the samba school Mangueira during the Carnival in Rio de Janeiro.
+Answer: Jamelão was the official singer of the samba school Mangueira during the Carnival in Rio
+Answer Prob: 0.5628955364227295
+Marginalized Prob: 0.33851200342178345
+Answer Prob List: [0.6323239803314209, 0.5628955364227295, 0.5128124356269836]
+Marginalized Prob List: [0.7746269106864929, 0.8122900128364563, 0.7871665358543396]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10528564453125
+Greedy Score2, Cosine Similarity of Average Vector: -0.1529541015625
+Score1 list: [-0.11663818359375, -0.10528564453125, -0.12396240234375]
+Score2 list: [-0.155029296875, -0.1529541015625, -0.262451171875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the capacity of the stadium that hosts games of the team that was coached by Barry Switzer in 1981?
+Golden Answer: ['86,112']
+Greedy Answer: 86,112
+RAG Hallu Answer: 86,112
+Generated Sentence: 
+The official seating capacity of the stadium, following renovations in 2015, is 86,112, making it the 23rd largest stadium in the world, the 15th largest
+Answer Prob: 0.8021596670150757
+Marginalized Prob: 0.374870240688324
+Answer Prob List: [0.6191922426223755, 0.8021596670150757, 0.7282919883728027]
+Marginalized Prob List: [0.8866960406303406, 0.8979018926620483, 0.8953333497047424]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12481689453125
+Greedy Score2, Cosine Similarity of Average Vector: -0.0531005859375
+Score1 list: [-0.11798095703125, -0.12481689453125, -0.1431884765625]
+Score2 list: [-0.408935546875, -0.0531005859375, -0.340087890625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Alex Jesaulenko, former Australian rules footballer and coach won the award The Goal of the Year. In what year did he win that award?
+Golden Answer: ['2001']
+Greedy Answer: 2001
+RAG Hallu Answer: 2001
+Generated Sentence: 
+The Goal of the Year is a competition for the best goals kicked in the VFL/AFL during that season. It is run in conjunction with the Mark of the Year competition and is currently sponsored by Coates Hire
+Answer Prob: 0.6268112063407898
+Marginalized Prob: 0.3442631959915161
+Answer Prob List: [0.6641854047775269, 0.6268112063407898, 0.5463365912437439]
+Marginalized Prob List: [0.877639889717102, 0.8903299570083618, 0.8787040710449219]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1331787109375
+Greedy Score2, Cosine Similarity of Average Vector: -0.203857421875
+Score1 list: [-0.1466064453125, -0.1331787109375, -0.150390625]
+Score2 list: [-0.259033203125, -0.203857421875, -0.1983642578125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the original name of the place where The 1st Minnesota Light Artillery Battery mustered?
+Golden Answer: ['Fort Saint Anthony']
+Greedy Answer: Fort Snelling
+RAG Hallu Answer: Fort Snelling
+Generated Sentence: 
+Fort Snelling was the original name of the place where The 1st Minnesota Light Artillery Battery mustered.
+The 1st Minnesota Light Artillery Battery was an artillery battery that served in the Union Army
+Answer Prob: 0.8161885738372803
+Marginalized Prob: 0.6255213022232056
+Answer Prob List: [0.8161885738372803, 0.3242188096046448, 0.17239238321781158]
+Marginalized Prob List: [0.7915565371513367, 0.7833056449890137, 0.7704041004180908]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12060546875
+Greedy Score2, Cosine Similarity of Average Vector: -0.394287109375
+Score1 list: [-0.12060546875, -0.1121826171875, -0.10675048828125]
+Score2 list: [-0.394287109375, -0.41845703125, -0.1512451171875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is older between the brothers that J. Todd Anderson has primarily worked with?
+Golden Answer: ['Joel David Coen']
+Greedy Answer: Joel David Coen
+RAG Hallu Answer: Joel David Coen
+Generated Sentence: 
+Joel David Coen is older than Ethan Jesse Coen.
+Given the following information:J. Todd Anderson  J. Todd Anderson is a storyboard artist who has worked primarily with the Coen brothers, but
+Answer Prob: 0.6644577383995056
+Marginalized Prob: 0.4293212890625
+Answer Prob List: [0.6644577383995056, 0.5330714583396912, 0.40295249223709106]
+Marginalized Prob List: [0.7952969074249268, 0.7397615313529968, 0.7645787596702576]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1329345703125
+Greedy Score2, Cosine Similarity of Average Vector: -0.4462890625
+Score1 list: [-0.1329345703125, -0.119140625, -0.10845947265625]
+Score2 list: [-0.4462890625, -0.357666015625, -0.43896484375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Lawerence Turman had produced a film, with a character named "Johnny 5" that had a follow up sequel released in what year?
+Golden Answer: ['1988']
+Greedy Answer: 1988
+RAG Hallu Answer: 1988
+Generated Sentence: 
+The film "Short Circuit" was released in 1986.  A sequel, "Short Circuit 2", was released in 1988.
+Answer the following question based on the given information with one
+Answer Prob: 0.8722238540649414
+Marginalized Prob: 0.46497419476509094
+Answer Prob List: [0.5437395572662354, 0.8722238540649414, 0.5000743269920349]
+Marginalized Prob List: [0.720660388469696, 0.7522308230400085, 0.726112425327301]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1463623046875
+Greedy Score2, Cosine Similarity of Average Vector: -0.226806640625
+Score1 list: [-0.11871337890625, -0.1463623046875, -0.1248779296875]
+Score2 list: [-0.295166015625, -0.226806640625, -0.2362060546875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:In which year was this single by Cher, written by  Brian Higgins and included in the album The Very Best of Cher, released?
+Golden Answer: ['1998']
+Greedy Answer: 2003
+RAG Hallu Answer: 2003
+Generated Sentence: 
+The Very Best of Cher  The Very Best of Cher is the eighth compilation album by American singer-actress Cher, released on April 1, 2003.  The album includes many of Cher's most popular songs
+Answer Prob: 0.7376934289932251
+Marginalized Prob: 0.416949063539505
+Answer Prob List: [0.5515807867050171, 0.7376934289932251, 0.4975837469100952]
+Marginalized Prob List: [0.8760311603546143, 0.8858970403671265, 0.8655112981796265]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1510009765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.310302734375
+Score1 list: [-0.1151123046875, -0.1510009765625, -0.1077880859375]
+Score2 list: [-0.55517578125, -0.310302734375, -0.55712890625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What American gangster, businessman, casino owner and philanthropist was the inspiration for Morris "Moe" Greene in "The Godfather"?
+Golden Answer: ['Moe Dalitz']
+Greedy Answer: Moe Dalitz
+RAG Hallu Answer: Moe Dalitz
+Generated Sentence: 
+Moe Dalitz was the inspiration for Morris "Moe" Greene in "The Godfather" because he was one of the major figures who shaped Las Vegas, in the 20th century. He was often referred
+Answer Prob: 0.8310171365737915
+Marginalized Prob: 0.4881678521633148
+Answer Prob List: [0.8310171365737915, 0.4354085922241211, 0.46326398849487305]
+Marginalized Prob List: [0.8066975474357605, 0.7979075312614441, 0.7672966718673706]
+Greedy Score1, Average of Layer Cosine Similarity: -0.135986328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.4130859375
+Score1 list: [-0.135986328125, -0.11920166015625, -0.10040283203125]
+Score2 list: [-0.4130859375, -0.404296875, -0.237548828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+Golden Answer: ['Creature Comforts']
+Greedy Answer: Creature Comforts
+RAG Hallu Answer: Creature Comforts
+Generated Sentence: 
+The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+The creator of "Wallace and Gromit" also
+Answer Prob: 0.9083884954452515
+Marginalized Prob: 0.4555424153804779
+Answer Prob List: [0.9083884954452515, 0.5369265675544739, 0.5444375872612]
+Marginalized Prob List: [0.8505744934082031, 0.8539789319038391, 0.8539789319038391]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1405029296875
+Greedy Score2, Cosine Similarity of Average Vector: -0.32861328125
+Score1 list: [-0.1405029296875, -0.14306640625, -0.1422119140625]
+Score2 list: [-0.32861328125, -0.382568359375, -0.255615234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:How many venues was in the complex at which Night of Joy was held?
+Golden Answer: ['9 venues']
+Greedy Answer: 9
+
+
+RAG Hallu Answer: 9
+
+
+Generated Sentence: 
+The ESPN Wide World of Sports Complex is a 220 acre athletic complex located in the Walt Disney World Resort, in Bay Lake, Florida, near Orlando, Florida.  The complex includes 9 ven
+Answer Prob: 0.3532160520553589
+Marginalized Prob: 0.33587682247161865
+Answer Prob List: [0.3406572937965393, 0.3532160520553589, 0.3695671558380127]
+Marginalized Prob List: [0.8594251871109009, 0.8811018466949463, 0.8729099631309509]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10882568359375
+Greedy Score2, Cosine Similarity of Average Vector: -0.37255859375
+Score1 list: [-0.09423828125, -0.10882568359375, -0.11322021484375]
+Score2 list: [-0.5087890625, -0.37255859375, -0.3056640625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Pro Evolution Soccer 2016 includes which Brazilian footballer on the cover?
+Golden Answer: ['Neymar']
+Greedy Answer: Neymar
+RAG Hallu Answer: Neymar
+Generated Sentence: 
+Neymar is a Brazilian footballer who plays for Paris Saint-Germain and the Brazil national team. He is known for his speed, dribbling, and finishing. He is considered one of the best players in the world and
+Answer Prob: 0.8520168662071228
+Marginalized Prob: 0.4991334080696106
+Answer Prob List: [0.4815162122249603, 0.8520168662071228, 0.3814333379268646]
+Marginalized Prob List: [0.6023861169815063, 0.612529993057251, 0.612529993057251]
+Greedy Score1, Average of Layer Cosine Similarity: -0.0870361328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.100830078125
+Score1 list: [-0.1190185546875, -0.0870361328125, -0.08642578125]
+Score2 list: [-0.48876953125, -0.100830078125, -0.1507568359375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what date will the election for which Krishanti Vignarajah is a declared Democratic candidate be held?
+Golden Answer: ['November 6, 2018']
+Greedy Answer: 
+
+### Dummy model answers
+
+RAG Hallu Answer: 
+
+### Dummy model answers
+
+Generated Sentence: 
+
+Answer:
+
+```
+
+### 2.
+
+Given the following information:
+
+Krishanti Vignarajah  Krishanti "Krish" Vignarajah is the former
+Answer Prob: 0.3481574058532715
+Marginalized Prob: 0.22127075493335724
+Answer Prob List: [0.3481574058532715, 0.7884268760681152, 0.43977802991867065]
+Marginalized Prob List: [0.5554872155189514, 0.5525083541870117, 0.5571431517601013]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11083984375
+Greedy Score2, Cosine Similarity of Average Vector: -0.332275390625
+Score1 list: [-0.11083984375, -0.149658203125, -0.1356201171875]
+Score2 list: [-0.332275390625, -0.2052001953125, -0.271240234375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Students from approximately how many nations attend the University from which Shawn Arévalo McCollough received his Masters of Education ?
+Golden Answer: ['approximately 85 nations.']
+Greedy Answer: 85 nations
+Answer
+RAG Hallu Answer: 85 nations
+Answer
+Generated Sentence: 
+The answer is 85 nations because the sentence states that the university is one of the biggest within the University System of Georgia, with a current enrollment of more than 20,000 students from all states and approximately 
+Answer Prob: 0.349797785282135
+Marginalized Prob: 0.26907652616500854
+Answer Prob List: [0.6329349279403687, 0.349797785282135, 0.39952215552330017]
+Marginalized Prob List: [0.669640302658081, 0.7090609669685364, 0.6255176067352295]
+Greedy Score1, Average of Layer Cosine Similarity: -0.132080078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.376708984375
+Score1 list: [-0.1505126953125, -0.132080078125, -0.1051025390625]
+Score2 list: [-0.5380859375, -0.376708984375, -0.57958984375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was the other name of the textile mill on which The Mill was based on?
+Golden Answer: ['Styal Mill']
+Greedy Answer: Quarry
+RAG Hallu Answer: Quarry
+Generated Sentence: 
+The Mill (TV series)  The Mill was a 2013 period television drama broadcast on Britain's Channel 4.  It was is based on real-life stories and people of the textile mill workers at Quar
+Answer Prob: 0.7284415364265442
+Marginalized Prob: 0.4826485216617584
+Answer Prob List: [0.3203025460243225, 0.7284415364265442, 0.4596211910247803]
+Marginalized Prob List: [0.9022992253303528, 0.8997888565063477, 0.8997888565063477]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11663818359375
+Greedy Score2, Cosine Similarity of Average Vector: -0.256103515625
+Score1 list: [-0.136474609375, -0.11663818359375, -0.12225341796875]
+Score2 list: [-0.5908203125, -0.256103515625, -0.3212890625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?
+Golden Answer: ['Aubrey Posen']
+Greedy Answer: Anna Camp portrays
+RAG Hallu Answer: Anna Camp portrays
+Generated Sentence: 
+Anna Camp portrays Aubrey Posen in the film centered on the fictional Barden University and The Bellas.
+Anna Camp portrays Aubrey Posen in the film centered on the fictional Barden
+Answer Prob: 0.5224175453186035
+Marginalized Prob: 0.35851535201072693
+Answer Prob List: [0.595788300037384, 0.5224175453186035, 0.4071522653102875]
+Marginalized Prob List: [0.7316533327102661, 0.7749192714691162, 0.7084490656852722]
+Greedy Score1, Average of Layer Cosine Similarity: -0.130859375
+Greedy Score2, Cosine Similarity of Average Vector: -0.312255859375
+Score1 list: [-0.1397705078125, -0.130859375, -0.1348876953125]
+Score2 list: [-0.175048828125, -0.312255859375, -0.4453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:On what network did the series that Bradley Thompson started working on in 2014 premiere?
+Golden Answer: ['FX']
+Greedy Answer: FX
+RAG Hallu Answer: FX
+Generated Sentence: 
+The Strain (TV series)  The Strain is an American horror drama television series that premiered on FX on July 13, 2014.  It was created by Guillermo del Toro and Ch
+Answer Prob: 0.5745107531547546
+Marginalized Prob: 0.5232043862342834
+Answer Prob List: [0.5745107531547546, 0.3425005376338959, 0.18042361736297607]
+Marginalized Prob List: [0.8696889281272888, 0.8740171194076538, 0.8644946813583374]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11102294921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.209716796875
+Score1 list: [-0.11102294921875, -0.12493896484375, -0.12200927734375]
+Score2 list: [-0.209716796875, -0.50390625, -0.4580078125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who beat the Missouri Tigers in what is alternatively known as the Border Showdown?
+Golden Answer: ['The 2008 Kansas Jayhawks']
+Greedy Answer: The Kansas Jayhawks beat the Missouri Tigers
+RAG Hallu Answer: The Kansas Jayhawks beat the Missouri Tigers
+Generated Sentence: 
+The Kansas Jayhawks beat the Missouri Tigers in what is alternatively known as the Border Showdown.
+The Kansas Jayhawks beat the Missouri Tigers in what is alternatively known as the Border Showdown. The Kansas
+Answer Prob: 0.7901933789253235
+Marginalized Prob: 0.4017588794231415
+Answer Prob List: [0.7901933789253235, 0.45645979046821594, 0.7688578963279724]
+Marginalized Prob List: [0.7612674832344055, 0.7496768236160278, 0.7199531197547913]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12078857421875
+Greedy Score2, Cosine Similarity of Average Vector: -0.2244873046875
+Score1 list: [-0.12078857421875, -0.11712646484375, -0.1475830078125]
+Score2 list: [-0.2244873046875, -0.104736328125, -0.27099609375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is the US Olympian and Christian evangelist did the 2010 non-fiction book by Laura Hillenbrand focus on?
+Golden Answer: ['Louis "Louie" Zamperini']
+Greedy Answer: Louis Zamperini
+Answer the following
+RAG Hallu Answer: Louis Zamperini
+Answer the following
+Generated Sentence: 
+Answer: louis zamperini answer following
+Answer: louis zamperini answer following
+Answer: louis zamperini answer following
+Answer: louis zamperini answer following
+Answer: louis
+Answer Prob: 0.5791164636611938
+Marginalized Prob: 0.4572264552116394
+Answer Prob List: [0.5791164636611938, 0.518370509147644, 0.409055233001709]
+Marginalized Prob List: [0.6899227499961853, 0.5401391386985779, 0.4750176668167114]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11578369140625
+Greedy Score2, Cosine Similarity of Average Vector: -0.402587890625
+Score1 list: [-0.11578369140625, -0.1141357421875, -0.128173828125]
+Score2 list: [-0.402587890625, -0.48388671875, -0.426025390625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Rani Jhansi Marine National Park commemorates what queen of the princely state of Jhansi in North India?
+Golden Answer: ['Lakshmibai, the Rani of Jhansi']
+Greedy Answer: Rani Jhansi Marine National Park commemorates Laksh
+RAG Hallu Answer: Rani Jhansi Marine National Park commemorates Laksh
+Generated Sentence: 
+Rani Jhansi Marine National Park is located in the Andaman and Nicobar Islands in the Bay of Bengal.
+It was founded in 1996, and covers 256.14 km².
+
+Answer Prob: 0.8553616404533386
+Marginalized Prob: 0.38411304354667664
+Answer Prob List: [0.8553616404533386, 0.894792377948761, 0.49411413073539734]
+Marginalized Prob List: [0.8643656969070435, 0.8572133779525757, 0.8468454480171204]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1724853515625
+Greedy Score2, Cosine Similarity of Average Vector: -0.319580078125
+Score1 list: [-0.1724853515625, -0.1556396484375, -0.162109375]
+Score2 list: [-0.319580078125, -0.338134765625, -0.410400390625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which of the 2017-18 Cheshire League divisions is Ashton Town Association Football Club currently a member?
+Golden Answer: ['Premier Division']
+Greedy Answer: Premier Division
+RAG Hallu Answer: Premier Division
+Generated Sentence: 
+Ashton Town Association Football Club is a football club based in Ashton-in-Makerfield, Greater Manchester, England. The club are currently members of the Cheshire League Premier Division and play at Edge Green Street,
+Answer Prob: 0.4494638442993164
+Marginalized Prob: 0.4606250822544098
+Answer Prob List: [0.33897608518600464, 0.4494638442993164, 0.19297051429748535]
+Marginalized Prob List: [0.8744169473648071, 0.8837071657180786, 0.874193549156189]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11383056640625
+Greedy Score2, Cosine Similarity of Average Vector: -0.464111328125
+Score1 list: [-0.1151123046875, -0.11383056640625, -0.11138916015625]
+Score2 list: [-0.323486328125, -0.464111328125, -0.389404296875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Which university's teams with a mascot called Stomper began competing in the Northern Sun Intercollegiate Conference in 2008?
+Golden Answer: ['Minnesota State Mavericks']
+Greedy Answer: Minnesota State University, M
+RAG Hallu Answer: Minnesota State University, M
+Generated Sentence: 
+The athletic teams of Minnesota State University, Mankato are known as the Minnesota State Mavericks. More than 600 students participate each year in athletics for the university. Most of the university's athletic teams
+Answer Prob: 0.6819644570350647
+Marginalized Prob: 0.48187559843063354
+Answer Prob List: [0.6819644570350647, 0.4675680100917816, 0.27100491523742676]
+Marginalized Prob List: [0.8759284615516663, 0.8763348460197449, 0.8580707907676697]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12164306640625
+Greedy Score2, Cosine Similarity of Average Vector: -0.329345703125
+Score1 list: [-0.12164306640625, -0.126708984375, -0.12353515625]
+Score2 list: [-0.329345703125, -0.316650390625, -0.3486328125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:what is the english name of Émile Verdets editorial?
+Golden Answer: ['Annals of Chemistry and of Physics']
+Greedy Answer: Annales de chimie et de phys
+RAG Hallu Answer: Annales de chimie et de phys
+Generated Sentence: 
+Answer: annales de chimie et de phys is the correct answer because it is the english name of Émile Verdets editorial.
+What is the english name of Émile Verdets editorial?
+Answer: annales
+Answer Prob: 0.9152052998542786
+Marginalized Prob: 0.6098340749740601
+Answer Prob List: [0.34870919585227966, 0.9152052998542786, 0.516461193561554]
+Marginalized Prob List: [0.4577424228191376, 0.6630043387413025, 0.4426204264163971]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1346435546875
+Greedy Score2, Cosine Similarity of Average Vector: -0.395751953125
+Score1 list: [-0.141845703125, -0.1346435546875, -0.1500244140625]
+Score2 list: [-0.316162109375, -0.395751953125, -0.371337890625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What time did a Fox News show formally hosted by the author of "The Swamp: Washington's Murky Pool of Corruption and Cronyism and How Trump Can Drain It" air?
+Golden Answer: ['Saturdays at 11:30 am ET']
+Greedy Answer: 11:30 am ET
+The show was
+RAG Hallu Answer: 11:30 am ET
+The show was
+Generated Sentence: 
+Answer: 1130 am et show was
+Answer: 1130 am et show was hosted by the author of "The Swamp: Washington's Murky Pool of Corruption and Cronyism and How
+Answer Prob: 0.4928368330001831
+Marginalized Prob: 0.34964895248413086
+Answer Prob List: [0.7646223902702332, 0.4928368330001831, 0.6442908644676208]
+Marginalized Prob List: [0.4505921006202698, 0.7083556652069092, 0.47308477759361267]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1571044921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.407470703125
+Score1 list: [-0.1522216796875, -0.1571044921875, -0.1502685546875]
+Score2 list: [-0.50634765625, -0.407470703125, -0.354248046875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:SkyJump Las Vegas is located at a hotel on what street?
+Golden Answer: ['Las Vegas Boulevard']
+Greedy Answer: Las Vegas Boulevard
+RAG Hallu Answer: Las Vegas Boulevard
+Generated Sentence: 
+SkyJump Las Vegas is located at a hotel on what street?
+SkyJump Las Vegas is located at a hotel on Las Vegas Boulevard.
+SkyJump Las Vegas is located at a
+Answer Prob: 0.8534517288208008
+Marginalized Prob: 0.3907454013824463
+Answer Prob List: [0.705262303352356, 0.8534517288208008, 0.6370705366134644]
+Marginalized Prob List: [0.7408283948898315, 0.7486061453819275, 0.7435604333877563]
+Greedy Score1, Average of Layer Cosine Similarity: -0.146728515625
+Greedy Score2, Cosine Similarity of Average Vector: -0.1700439453125
+Score1 list: [-0.137451171875, -0.146728515625, -0.12646484375]
+Score2 list: [-0.1632080078125, -0.1700439453125, -0.32861328125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?
+Golden Answer: ['London, England']
+Greedy Answer: England
+
+
+RAG Hallu Answer: England
+
+
+Generated Sentence: 
+
+The Whitney family is an American family notable for their social prominence, wealth, business enterprises and philanthropy, founded by John Whitney (1592–1673) who came from London,
+Answer Prob: 0.3436850309371948
+Marginalized Prob: 0.3428034484386444
+Answer Prob List: [0.4968869388103485, 0.3436850309371948, 0.16833770275115967]
+Marginalized Prob List: [0.8514959216117859, 0.8590527176856995, 0.8490145802497864]
+Greedy Score1, Average of Layer Cosine Similarity: -0.08978271484375
+Greedy Score2, Cosine Similarity of Average Vector: -0.2174072265625
+Score1 list: [-0.08123779296875, -0.08978271484375, -0.097412109375]
+Score2 list: [-0.394287109375, -0.2174072265625, -0.419189453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who was the director of the 1987 American psychological thriller film in which the actor, who played Bob Charles in "Not Necessarily the News", appeared?
+Golden Answer: ['Adrian Lyne']
+Greedy Answer: Adrian Lyne
+RAG Hallu Answer: Adrian Lyne
+Generated Sentence: 
+The answer is Adrian Lyne because he directed the 1987 American psychological thriller film in which the actor, who played Bob Charles in "Not Necessarily the News", appeared.
+Answer: Adrian Ly
+Answer Prob: 0.9076426029205322
+Marginalized Prob: 0.4926024079322815
+Answer Prob List: [0.5096877813339233, 0.9076426029205322, 0.4446035623550415]
+Marginalized Prob List: [0.6661155819892883, 0.6924558877944946, 0.6924558877944946]
+Greedy Score1, Average of Layer Cosine Similarity: -0.12384033203125
+Greedy Score2, Cosine Similarity of Average Vector: -0.276123046875
+Score1 list: [-0.11798095703125, -0.12384033203125, -0.12646484375]
+Score2 list: [-0.182373046875, -0.276123046875, -0.1820068359375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Hostel: Part III is the first film in the series to be neither written nor directed by a director born in which year ?
+Golden Answer: ['1972']
+Greedy Answer: 1972
+RAG Hallu Answer: 1972
+Generated Sentence: 
+The first film in the series to be neither written nor directed by Eli Roth was Hostel: Part III. Eli Roth was born in 1972.
+Answer the following question based on the given information with one or few words:
+Answer Prob: 0.7656618356704712
+Marginalized Prob: 0.48455461859703064
+Answer Prob List: [0.6131294369697571, 0.7656618356704712, 0.23317798972129822]
+Marginalized Prob List: [0.6934977769851685, 0.7152670621871948, 0.6748582124710083]
+Greedy Score1, Average of Layer Cosine Similarity: -0.140380859375
+Greedy Score2, Cosine Similarity of Average Vector: -0.0732421875
+Score1 list: [-0.1322021484375, -0.140380859375, -0.1094970703125]
+Score2 list: [-0.423828125, -0.0732421875, -0.400146484375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Are Philip Cortez and Julian Castro democratic or republican?
+Golden Answer: ['Democratic']
+Greedy Answer: Philip
+RAG Hallu Answer: Philip
+Generated Sentence: 
+Philip Cortez is a democratic member of the Texas House of Representatives.
+Julian Castro is a democratic politician who served as the 16th United States Secretary of Housing and Urban Development under President
+Answer Prob: 0.147706538438797
+Marginalized Prob: 0.4462522268295288
+Answer Prob List: [0.147706538438797, 0.0987788736820221, 0.0815713033080101]
+Marginalized Prob List: [0.7946975231170654, 0.8176673650741577, 0.79549241065979]
+Greedy Score1, Average of Layer Cosine Similarity: -0.046844482421875
+Greedy Score2, Cosine Similarity of Average Vector: -0.1156005859375
+Score1 list: [-0.046844482421875, -0.046844482421875, -0.046844482421875]
+Score2 list: [-0.1156005859375, -0.1156005859375, -0.1156005859375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?
+Golden Answer: ['Bachelor of Commerce']
+Greedy Answer: Commerce
+Answer the
+RAG Hallu Answer: Commerce
+Answer the
+Generated Sentence: The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?
+Answer: commerce
+Answer: commerce
+Answer: commerce
+Answer: commerce
+Answer: commerce
+Answer: commerce
+Answer: commerce
+Answer
+Answer Prob: 0.46969932317733765
+Marginalized Prob: 0.38895952701568604
+Answer Prob List: [0.46969932317733765, 0.3476056158542633, 0.5700771808624268]
+Marginalized Prob List: [0.6693316698074341, 0.5176512002944946, 0.5507108569145203]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.09417724609375
+Score1 list: [-0.11328125, -0.09417724609375, -0.0921630859375]
+Score2 list: [-0.09417724609375, -0.31298828125, -0.140869140625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:where was the 2006 Commonwealth Games that Mmoloki Nogeng won a bronze medal at held?
+Golden Answer: ['Melbourne, Australia']
+Greedy Answer: Melbourne, Australia
+RAG Hallu Answer: Melbourne, Australia
+Generated Sentence: 
+Melbourne is the capital of the state of Victoria, and the second most populous city in Australia and Oceania. The name "Melbourne" refers to the area of urban agglomeration (as well as a census
+Answer Prob: 0.5123957991600037
+Marginalized Prob: 0.44157591462135315
+Answer Prob List: [0.2102116048336029, 0.5123957991600037, 0.447927325963974]
+Marginalized Prob List: [0.7024810314178467, 0.7234175205230713, 0.7168423533439636]
+Greedy Score1, Average of Layer Cosine Similarity: -0.109130859375
+Greedy Score2, Cosine Similarity of Average Vector: -0.41650390625
+Score1 list: [-0.10174560546875, -0.109130859375, -0.1324462890625]
+Score2 list: [-0.080322265625, -0.41650390625, -0.052520751953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Prince Michael of Prussia was a member of the house that arose in what town in the 11th century?
+Golden Answer: ['Hechingen in Swabia']
+Greedy Answer: Hohenzollern
+Answer
+RAG Hallu Answer: Hohenzollern
+Answer
+Generated Sentence: 
+Prince Michael of Prussia was a member of the house that arose in what town in the 11th century?
+Prince Michael of Prussia was a member of the house that arose in what town in the 1
+Answer Prob: 0.5331013798713684
+Marginalized Prob: 0.32894134521484375
+Answer Prob List: [0.5331013798713684, 0.6389375329017639, 0.43920671939849854]
+Marginalized Prob List: [0.8327053785324097, 0.840353786945343, 0.8394234776496887]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1409912109375
+Greedy Score2, Cosine Similarity of Average Vector: -0.2427978515625
+Score1 list: [-0.1409912109375, -0.14013671875, -0.110595703125]
+Score2 list: [-0.2427978515625, -0.537109375, -0.447998046875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What did Felix Salten originally title his most famous work?
+Golden Answer: ['Bambi: Eine Lebensgeschichte aus dem Walde']
+Greedy Answer: Bambi, a Life in the Woods
+
+RAG Hallu Answer: Bambi, a Life in the Woods
+
+Generated Sentence: 
+Bambi, a Life in the Woods is the original title of Felix Salten's most famous work.
+The novel traces the life of Bambi, a male roe deer, from his birth through childhood,
+Answer Prob: 0.8156720995903015
+Marginalized Prob: 0.36780428886413574
+Answer Prob List: [0.8156720995903015, 0.7216047048568726, 0.7018367648124695]
+Marginalized Prob List: [0.7404900193214417, 0.7404900193214417, 0.7178757190704346]
+Greedy Score1, Average of Layer Cosine Similarity: -0.16259765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.435302734375
+Score1 list: [-0.16259765625, -0.1614990234375, -0.163330078125]
+Score2 list: [-0.435302734375, -0.4384765625, -0.5400390625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who distributed a American-Indian-Irish computer-animated comedy-adventure film starring an Irish actor known for playing Miles O'Brien?
+Golden Answer: ['Lionsgate']
+Greedy Answer: Lionsgate
+RAG Hallu Answer: Lionsgate
+Generated Sentence: 
+Lionsgate distributed a American-Indian-Irish computer-animated comedy-adventure film starring an Irish actor known for playing Miles O'Brien.
+
+Answer:
+
+```
+lionsgate
+Answer Prob: 0.8057519793510437
+Marginalized Prob: 0.5646954774856567
+Answer Prob List: [0.8057519793510437, 0.3914584219455719, 0.23605822026729584]
+Marginalized Prob List: [0.6809794306755066, 0.6809794306755066, 0.662545919418335]
+Greedy Score1, Average of Layer Cosine Similarity: -0.116455078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.1551513671875
+Score1 list: [-0.116455078125, -0.1287841796875, -0.11358642578125]
+Score2 list: [-0.1551513671875, -0.2122802734375, -0.41796875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What film directed by David Greene did Merrell Jackson play an apostle in?
+Golden Answer: ['Godspell']
+Greedy Answer: Godspell
+RAG Hallu Answer: Godspell
+Generated Sentence: 
+
+### 1.
+
+Given the following information:
+
+Merrell Jackson
+Merrell Jackson (April 26, 1952 – February 23, 1991) was an
+Answer Prob: 0.8132588863372803
+Marginalized Prob: 0.488689661026001
+Answer Prob List: [0.8132588863372803, 0.4704533517360687, 0.38932865858078003]
+Marginalized Prob List: [0.647278904914856, 0.6421684622764587, 0.6386931538581848]
+Greedy Score1, Average of Layer Cosine Similarity: -0.122802734375
+Greedy Score2, Cosine Similarity of Average Vector: -0.28662109375
+Score1 list: [-0.122802734375, -0.132080078125, -0.12939453125]
+Score2 list: [-0.28662109375, -0.368896484375, -0.278564453125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The city that contains the Yunnan Provincial Museum is also known by what nickname?
+Golden Answer: ['Spring city']
+Greedy Answer: Kunming
+RAG Hallu Answer: Kunming
+Generated Sentence: 
+The city that contains the Yunnan Provincial Museum is also known by what nickname?
+The city that contains the Yunnan Provincial Museum is also known by what nickname? Kunming
+The city that contains the Yunn
+Answer Prob: 0.6463589072227478
+Marginalized Prob: 0.5387142896652222
+Answer Prob List: [0.2830703556537628, 0.6463589072227478, 0.27784231305122375]
+Marginalized Prob List: [0.7260896563529968, 0.7473158240318298, 0.7488924860954285]
+Greedy Score1, Average of Layer Cosine Similarity: -0.0863037109375
+Greedy Score2, Cosine Similarity of Average Vector: -0.06134033203125
+Score1 list: [-0.0997314453125, -0.0863037109375, -0.11395263671875]
+Score2 list: [-0.254638671875, -0.06134033203125, -0.409912109375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:An english lawyer had Christopher Mont as an agent and was awarded denization where?
+Golden Answer: ['England']
+Greedy Answer: England
+RAG Hallu Answer: England
+Generated Sentence: 
+
+### Explanation
+
+The given information is:
+
+Christopher Mont  Dr. Christopher Mont (1496/7–1572) was a sixteenth-century diplomat, born in Koblen
+Answer Prob: 0.19547583162784576
+Marginalized Prob: 0.5941715240478516
+Answer Prob List: [0.19547583162784576, 0.06755464524030685, 0.06573247164487839]
+Marginalized Prob List: [0.6528876423835754, 0.6568595767021179, 0.651049792766571]
+Greedy Score1, Average of Layer Cosine Similarity: -0.06573486328125
+Greedy Score2, Cosine Similarity of Average Vector: -0.269287109375
+Score1 list: [-0.06573486328125, -0.06573486328125, -0.06573486328125]
+Score2 list: [-0.269287109375, -0.269287109375, -0.269287109375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What flag features 13 stars, and has a creator who also has a memorial bridge named after her connecting Pennsylvania and New Jersey?
+Golden Answer: ['Betsy Ross']
+Greedy Answer: The Betsy
+RAG Hallu Answer: The Betsy
+Generated Sentence: 
+The Betsy Ross Bridge, also known as the Ross Memorial Bridge is a continuous steel truss bridge spanning the Delaware River from the City of Philadelphia in Pennsylvania to Pennsauken, New Jersey. Built from 19
+Answer Prob: 0.7152233123779297
+Marginalized Prob: 0.4150204360485077
+Answer Prob List: [0.6904123425483704, 0.7152233123779297, 0.3147006928920746]
+Marginalized Prob List: [0.8714898228645325, 0.8680810332298279, 0.8689014911651611]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1475830078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.50341796875
+Score1 list: [-0.12347412109375, -0.1475830078125, -0.143310546875]
+Score2 list: [-0.333251953125, -0.50341796875, -0.560546875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:The M1919 and the M1 was used by what military?
+Golden Answer: ['U.S.']
+Greedy Answer: The M19
+RAG Hallu Answer: The M19
+Generated Sentence: 
+The M1919 and the M1 was used by what military?
+The M1919 and the M1 was used by the U.S. military.
+The M1919 and the M1 was
+Answer Prob: 0.6727900505065918
+Marginalized Prob: 0.456310898065567
+Answer Prob List: [0.6727900505065918, 0.5995901226997375, 0.2056739777326584]
+Marginalized Prob List: [0.7424308657646179, 0.7376312613487244, 0.7432741522789001]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11602783203125
+Greedy Score2, Cosine Similarity of Average Vector: -0.39892578125
+Score1 list: [-0.11602783203125, -0.137939453125, -0.10430908203125]
+Score2 list: [-0.39892578125, -0.375, -0.1287841796875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who directed the film in which Catherine Ann "Kate" Bosworth made her debut?
+Golden Answer: ['Robert Redford']
+Greedy Answer: Robert Redford
+RAG Hallu Answer: Robert Redford
+Generated Sentence: 
+The Horse Whisperer (film)  The Horse Whisperer is a 1998 American drama film directed by and starring Robert Redford, based on the 1995 novel "The Hor
+Answer Prob: 0.8164786100387573
+Marginalized Prob: 0.48700618743896484
+Answer Prob List: [0.8164786100387573, 0.47041085362434387, 0.3974452316761017]
+Marginalized Prob List: [0.9043830037117004, 0.898277223110199, 0.8938413858413696]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11553955078125
+Greedy Score2, Cosine Similarity of Average Vector: -0.2568359375
+Score1 list: [-0.11553955078125, -0.1302490234375, -0.1351318359375]
+Score2 list: [-0.2568359375, -0.3564453125, -0.440673828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Michael Pollock was was a senior officer in the United Kingdom's naval warfare force, also known as the what?
+Golden Answer: ['Royal Navy']
+Greedy Answer: Royal Navy
+RAG Hallu Answer: Royal Navy
+Generated Sentence: 
+The Royal Navy is the United Kingdom's naval warfare force.
+The Royal Navy is the United Kingdom's naval warfare force.  Although warships were used by the English kings from the early medieval period, the first major
+Answer Prob: 0.6458001136779785
+Marginalized Prob: 0.5753788948059082
+Answer Prob List: [0.28971192240715027, 0.6458001136779785, 0.19547726213932037]
+Marginalized Prob List: [0.7048927545547485, 0.7176098227500916, 0.7048927545547485]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1129150390625
+Greedy Score2, Cosine Similarity of Average Vector: -0.415283203125
+Score1 list: [-0.1148681640625, -0.1129150390625, -0.10821533203125]
+Score2 list: [-0.44921875, -0.415283203125, -0.421142578125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Immanuel Lutheran School is affiliated with the denomination that has how many members?
+Golden Answer: ['2.1 million']
+Greedy Answer: The Lutheran Church–
+RAG Hallu Answer: The Lutheran Church–
+Generated Sentence: 
+Answer: The Lutheran Church–Missouri Synod (LCMS), often referred to simply as the Missouri Synod, is a traditional, confessional Lutheran denomination in the United States.  With 2.1 million members
+Answer Prob: 0.6314542889595032
+Marginalized Prob: 0.3404848575592041
+Answer Prob List: [0.6314542889595032, 0.6251451969146729, 0.607775092124939]
+Marginalized Prob List: [0.8477970957756042, 0.836309552192688, 0.8459416627883911]
+Greedy Score1, Average of Layer Cosine Similarity: -0.114990234375
+Greedy Score2, Cosine Similarity of Average Vector: -0.364013671875
+Score1 list: [-0.114990234375, -0.1224365234375, -0.11444091796875]
+Score2 list: [-0.364013671875, -0.320556640625, -0.321044921875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What year did a director of a North Korean cinema film get kidnapped?
+Golden Answer: ['1978']
+Greedy Answer: 1978
+RAG Hallu Answer: 1978
+Generated Sentence: 
+The director of the film was Shin Sang-ok. He was kidnapped in 1978.
+Answer the following question based on the given information with one or few words: What is the name of the film?
+Answer
+Answer Prob: 0.8164774179458618
+Marginalized Prob: 0.5199905037879944
+Answer Prob List: [0.44510313868522644, 0.8164774179458618, 0.34167176485061646]
+Marginalized Prob List: [0.6149405241012573, 0.6378917694091797, 0.6060410737991333]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1484375
+Greedy Score2, Cosine Similarity of Average Vector: -0.09149169921875
+Score1 list: [-0.0927734375, -0.1484375, -0.12237548828125]
+Score2 list: [-0.215087890625, -0.09149169921875, -0.46875]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What third film in a franchise did Camile Delamarre edit?
+Golden Answer: ['Transporter 3']
+Greedy Answer: Transporter 3
+RAG Hallu Answer: Transporter 3
+Generated Sentence: 
+The film continues the story of Frank Martin, a professional "transporter" who has returned to France to continue his low-key business of delivering packages without question.
+
+Answer:
+
+```
+Transporter 3
+```
+
+Answer Prob: 0.7767907977104187
+Marginalized Prob: 0.46043041348457336
+Answer Prob List: [0.4492466151714325, 0.7767907977104187, 0.4711032211780548]
+Marginalized Prob List: [0.6642118096351624, 0.6715402007102966, 0.6642118096351624]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11737060546875
+Greedy Score2, Cosine Similarity of Average Vector: -0.258056640625
+Score1 list: [-0.1204833984375, -0.11737060546875, -0.115478515625]
+Score2 list: [-0.41845703125, -0.258056640625, -0.36376953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who produced a song, written and performed by Paul McCartney and Michael Jackson, which was included on an album titled "Pipes of Peace"?
+Golden Answer: ['George Martin']
+Greedy Answer: George Martin
+RAG Hallu Answer: George Martin
+Generated Sentence: 
+The song was produced by George Martin for McCartney's album, "Pipes of Peace".
+Answer the following question based on the given information with one or few words: Who produced a song, written and performed by Paul McCart
+Answer Prob: 0.8020615577697754
+Marginalized Prob: 0.6979385614395142
+Answer Prob List: [0.8020615577697754, 0.16956862807273865, 0.18111009895801544]
+Marginalized Prob List: [0.7877429723739624, 0.7874047160148621, 0.7726024389266968]
+Greedy Score1, Average of Layer Cosine Similarity: -0.09326171875
+Greedy Score2, Cosine Similarity of Average Vector: -0.353759765625
+Score1 list: [-0.09326171875, -0.08209228515625, -0.1053466796875]
+Score2 list: [-0.353759765625, -0.303466796875, -0.330322265625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Francisco Jose Hernandez was a participant in an invasion that took place in what year?
+Golden Answer: ['1961']
+Greedy Answer: 1961
+RAG Hallu Answer: 1961
+Generated Sentence: 
+The Bay of Pigs Invasion (Spanish: Invasión de Playa Girón or Invasión de Bahía de Cochinos or Batalla de Girón) was a failed military invasion of Cuba undertaken by
+Answer Prob: 0.8332593441009521
+Marginalized Prob: 0.5087087154388428
+Answer Prob List: [0.20772461593151093, 0.8332593441009521, 0.609857439994812]
+Marginalized Prob List: [0.87867271900177, 0.9059835076332092, 0.8961930871009827]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1361083984375
+Greedy Score2, Cosine Similarity of Average Vector: -0.1646728515625
+Score1 list: [-0.07757568359375, -0.1361083984375, -0.1092529296875]
+Score2 list: [-0.274658203125, -0.1646728515625, -0.35205078125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What was Terry Owen's son's profession after retiring from football?
+Golden Answer: ['racehorse breeder and owner']
+Greedy Answer: Michael Owen is a successful race
+RAG Hallu Answer: Michael Owen is a successful race
+Generated Sentence: 
+Michael Owen is successful racehorse breeder and owner.
+Michael Owen is successful racehorse breeder and owner. Michael Owen is successful racehorse breeder and owner. Michael Owen is successful racehorse bre
+Answer Prob: 0.4950249195098877
+Marginalized Prob: 0.32657375931739807
+Answer Prob List: [0.4950249195098877, 0.5995506048202515, 0.5859302282333374]
+Marginalized Prob List: [0.6836683750152588, 0.5806758999824524, 0.5968908071517944]
+Greedy Score1, Average of Layer Cosine Similarity: -0.11773681640625
+Greedy Score2, Cosine Similarity of Average Vector: -0.377197265625
+Score1 list: [-0.11773681640625, -0.08648681640625, -0.0985107421875]
+Score2 list: [-0.377197265625, -0.041656494140625, -0.29345703125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What russian Marxist revolutionary born in 1875 was part of the Vpered organization?
+Golden Answer: ['Anatoly Vasilyevich Lunacharsky']
+Greedy Answer: Anatoly Lunacharsky
+Answer the following
+RAG Hallu Answer: Anatoly Lunacharsky
+Answer the following
+Generated Sentence: 
+Anatoly Lunacharsky was a Russian Marxist revolutionary and the first Soviet People's Commissar of Education responsible for culture and education.
+He was active as an art critic and journalist throughout his career.
+He
+Answer Prob: 0.7101666927337646
+Marginalized Prob: 0.3740965723991394
+Answer Prob List: [0.7101666927337646, 0.6192396283149719, 0.5673311352729797]
+Marginalized Prob List: [0.7648658156394958, 0.7648658156394958, 0.7670415639877319]
+Greedy Score1, Average of Layer Cosine Similarity: -0.133544921875
+Greedy Score2, Cosine Similarity of Average Vector: -0.319580078125
+Score1 list: [-0.133544921875, -0.1324462890625, -0.1441650390625]
+Score2 list: [-0.319580078125, -0.320556640625, -0.371337890625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Orchard Gateway connects what shopping mall in singapore with 313 @ Somerset?
+Golden Answer: ['Orchard Central']
+Greedy Answer: Orchard Gate
+RAG Hallu Answer: Orchard Gate
+Generated Sentence: 
+Orchard Gateway connects Orchard Central with 313 @ Somerset.
+Orchard Gateway is a shopping mall in Orchard Road, Singapore, connecting Orchard Central and 31
+Answer Prob: 0.8331782221794128
+Marginalized Prob: 0.47230374813079834
+Answer Prob List: [0.8331782221794128, 0.4909732937812805, 0.446119487285614]
+Marginalized Prob List: [0.8147351145744324, 0.8044495582580566, 0.8147351145744324]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1298828125
+Greedy Score2, Cosine Similarity of Average Vector: -0.328369140625
+Score1 list: [-0.1298828125, -0.132568359375, -0.130859375]
+Score2 list: [-0.328369140625, -0.37744140625, -0.353515625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Jim Price appeared on the Rolling Stones Album released in what month?
+Golden Answer: ['August 1973']
+Greedy Answer: August
+Answer the following question
+RAG Hallu Answer: August
+Answer the following question
+Generated Sentence: 
+Answer: The album was released in August 1973.
+Answer: The album was released in August 1973. 
+
+### Question 2
+
+Given the following information:
+
+Jim
+Answer Prob: 0.45258408784866333
+Marginalized Prob: 0.2917986214160919
+Answer Prob List: [0.6315543055534363, 0.45258408784866333, 0.4637238681316376]
+Marginalized Prob List: [0.5069994926452637, 0.5067378282546997, 0.5098267197608948]
+Greedy Score1, Average of Layer Cosine Similarity: -0.09765625
+Greedy Score2, Cosine Similarity of Average Vector: -0.435791015625
+Score1 list: [-0.1575927734375, -0.09765625, -0.159912109375]
+Score2 list: [-0.488037109375, -0.435791015625, -0.348876953125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?
+Golden Answer: ['Sofia the First']
+Greedy Answer: Sofia the First
+RAG Hallu Answer: Sofia the First
+Generated Sentence: 
+Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?
+Meghan Strange is an American actress and voice actress, known for her role as
+Answer Prob: 0.8569552302360535
+Marginalized Prob: 0.462887167930603
+Answer Prob List: [0.8569552302360535, 0.5457270741462708, 0.4517754316329956]
+Marginalized Prob List: [0.855545699596405, 0.852411687374115, 0.8534014821052551]
+Greedy Score1, Average of Layer Cosine Similarity: -0.098388671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.2259521484375
+Score1 list: [-0.098388671875, -0.10009765625, -0.1376953125]
+Score2 list: [-0.2259521484375, -0.10235595703125, -0.1810302734375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What military organization does SS China Maru and Douglas SBD Dauntless have in common?
+Golden Answer: ['United States Navy']
+Greedy Answer: Both were used
+RAG Hallu Answer: Both were used
+Generated Sentence: 
+Both were used in the same war.
+Both were used in the same war.
+Both were used in the same war.
+Both were used in the same war.
+Both were used in the same war.
+Answer Prob: 0.18096016347408295
+Marginalized Prob: 0.29630306363105774
+Answer Prob List: [0.21907860040664673, 0.18096016347408295, 0.2712302505970001]
+Marginalized Prob List: [0.5229134559631348, 0.6113278865814209, 0.5462852120399475]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1143798828125
+Greedy Score2, Cosine Similarity of Average Vector: -0.380859375
+Score1 list: [-0.1253662109375, -0.1143798828125, -0.12200927734375]
+Score2 list: [-0.45751953125, -0.380859375, -0.400634765625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What is the genus and species of the bear in which the Florida black bear is a subspecies of?
+Golden Answer: ['Ursus americanus']
+Greedy Answer: Ursus
+
+##
+RAG Hallu Answer: Ursus
+
+##
+Generated Sentence: 
+The genus of the bear in which the Florida black bear is a subspecies of is ursus.
+The American black bear is a medium-sized bear native to North America.
+The Florida black bear is a subspecies of the American
+Answer Prob: 0.4585857391357422
+Marginalized Prob: 0.3813796639442444
+Answer Prob List: [0.5604236125946045, 0.4585857391357422, 0.3006405234336853]
+Marginalized Prob List: [0.6127016544342041, 0.6980230808258057, 0.5849316716194153]
+Greedy Score1, Average of Layer Cosine Similarity: -0.103271484375
+Greedy Score2, Cosine Similarity of Average Vector: -0.130126953125
+Score1 list: [-0.09552001953125, -0.103271484375, -0.08453369140625]
+Score2 list: [-0.234375, -0.130126953125, -0.10540771484375]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:If the Charhki  Dadri crash was less dangerous than the Tenerife airport disaster, which occured firat?
+Golden Answer: ['On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)']
+Greedy Answer: The Tenerife airport disaster occured first.
+
+### 2.
+
+Given the following information:
+
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to
+RAG Hallu Answer: The Tenerife airport disaster occured first.
+
+### 2.
+
+Given the following information:
+
+The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to
+Generated Sentence: 
+Answer: The Charkhi Dadri mid-air collision occurred on 12 November 1996 over the village of Charkhi Dadri, to the west of New Delhi, India. The aircraft involved were
+Answer Prob: 0.6682149767875671
+Marginalized Prob: 0.35198643803596497
+Answer Prob List: [0.6184877753257751, 0.6682149767875671, 0.6035772562026978]
+Marginalized Prob List: [0.8341255784034729, 0.8242472410202026, 0.8252286314964294]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1820068359375
+Greedy Score2, Cosine Similarity of Average Vector: -0.5556640625
+Score1 list: [-0.1785888671875, -0.1820068359375, -0.1820068359375]
+Score2 list: [-0.5654296875, -0.5556640625, -0.5244140625]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:New Jersey politicians Linda Stender and Leonard Lance were born within a year of each other beginning in which year?
+Golden Answer: ['1952']
+Greedy Answer: 1951
+RAG Hallu Answer: 1951
+Generated Sentence: 
+Linda Stender was born in 1951.
+Leonard Lance was born in 1952.
+The two politicians were born within a year of each other.
+The two politicians were born
+Answer Prob: 0.7460545897483826
+Marginalized Prob: 0.47150078415870667
+Answer Prob List: [0.4899827837944031, 0.7460545897483826, 0.36977577209472656]
+Marginalized Prob List: [0.681786835193634, 0.7025505900382996, 0.6853865385055542]
+Greedy Score1, Average of Layer Cosine Similarity: -0.1387939453125
+Greedy Score2, Cosine Similarity of Average Vector: -0.2193603515625
+Score1 list: [-0.140625, -0.1387939453125, -0.09649658203125]
+Score2 list: [-0.452880859375, -0.2193603515625, -0.580078125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:Who is younger, Martin Luther King III or his brother Dexter?
+Golden Answer: ['Dexter']
+Greedy Answer: Martin Luther King
+RAG Hallu Answer: Martin Luther King
+Generated Sentence: 
+Answer: martin luther king is younger than his brother dexter
+Answer: martin luther king is younger than his brother dexter.
+Answer: martin luther king is younger than his brother dexter
+Answer: mart
+Answer Prob: 0.8076212406158447
+Marginalized Prob: 0.46830302476882935
+Answer Prob List: [0.5728323459625244, 0.8076212406158447, 0.42386192083358765]
+Marginalized Prob List: [0.5643535256385803, 0.6556251049041748, 0.6556251049041748]
+Greedy Score1, Average of Layer Cosine Similarity: -0.10614013671875
+Greedy Score2, Cosine Similarity of Average Vector: -0.352783203125
+Score1 list: [-0.09869384765625, -0.10614013671875, -0.09490966796875]
+Score2 list: [-0.12066650390625, -0.352783203125, -0.378173828125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+Q:What prominent director worked with Orion Pictures and was born in December of 1935?
+Golden Answer: ['Heywood "Woody" Allen']
+Greedy Answer: Woody Allen
+Answer: Woody
+RAG Hallu Answer: Woody Allen
+Answer: Woody
+Generated Sentence: 
+Woody Allen was born in December of 1935.
+Woody Allen was born in December of 1935. Woody Allen was born in December of 1935. Woody Allen was
+Answer Prob: 0.5556012392044067
+Marginalized Prob: 0.45186886191368103
+Answer Prob List: [0.5556012392044067, 0.34693583846092224, 0.32316312193870544]
+Marginalized Prob List: [0.6792600154876709, 0.6831764578819275, 0.6831748485565186]
+Greedy Score1, Average of Layer Cosine Similarity: -0.117431640625
+Greedy Score2, Cosine Similarity of Average Vector: -0.27978515625
+Score1 list: [-0.117431640625, -0.11773681640625, -0.1240234375]
+Score2 list: [-0.27978515625, -0.314208984375, -0.233642578125]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+******************************
+----- Greedy performance -----
+EM: 43.22%
+F1: 53.61%
+
+
+----- RAG Hallu performance -----
+EM: 43.22%
+F1: 53.61%
+******************************

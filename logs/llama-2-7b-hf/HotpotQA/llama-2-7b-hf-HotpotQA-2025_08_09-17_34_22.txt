@@ -1,0 +1,26 @@
+Q:Who is older, Anne Noe or Jean-Marie Pfaff?
+Golden Answer: ['Jean-Marie Pfaff']
+Greedy Answer: Jean-Marie Pfaff
+RAG Hallu Answer: Jean-Marie Pfaff
+Generated Sentence: 
+Jean-Marie Pfaff was born in 1953, Anne Noe was born in 1959.
+Jean-Marie Pfaff is older than Anne Noe.
+Jean-Marie Pfaff is older than Anne
+Answer Prob: 0.8294059038162231
+Marginalized Prob: 0.4349876642227173
+Answer Prob List: [0.8294059038162231, 0.6819810271263123, 0.42727476358413696]
+Marginalized Prob List: [0.6673767566680908, 0.6398642659187317, 0.6614212989807129]
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+******************************
+----- Greedy performance -----
+EM: 100.0%
+F1: 100.0%
+
+
+----- RAG Hallu performance -----
+EM: 100.0%
+F1: 100.0%
+******************************

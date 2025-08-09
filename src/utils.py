@@ -162,3 +162,34 @@ def download_model(hf_token, model_name, save_path=''):
 
     print(f'{model_name} saved in {save_path}')
 
+
+############################## hook functions ##############################
+def make_attn_hook(layer_idx, store_list):
+    def hook(module, inputs, output):
+        attn_out = output[0] if isinstance(output, (tuple, list)) else output
+        store_list[layer_idx].append(attn_out.detach().cpu())
+    return hook
+
+
+def make_ffn_hook(layer_idx, store_list):
+    def hook(module, inputs, output):
+        ffn_out = output if torch.is_tensor(output) else output[0]
+        store_list[layer_idx].append(ffn_out.detach().cpu())
+    return hook
+
+
+def attach_llama_hooks_list(model):
+    """
+    Hang the hook functions to all layers of llama model.
+    Return: (attn_store, ffn_store, handles)
+    """
+    num_layers = len(model.model.layers)
+    attn_store = [[] for _ in range(num_layers)]
+    ffn_store  = [[] for _ in range(num_layers)]
+    handles = []
+
+    for i, layer in enumerate(model.model.layers):
+        handles.append(layer.self_attn.register_forward_hook(make_attn_hook(i, attn_store)))
+        handles.append(layer.mlp.register_forward_hook(make_ffn_hook(i, ffn_store)))
+
+    return attn_store, ffn_store, handles
